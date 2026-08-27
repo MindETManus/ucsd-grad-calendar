@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UCSD Grad Life Calendar//EN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSD Grad Life Calendar — WI27
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+SUMMARY:Instruction Begins | Winter Quarter
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+DTSTAMP:20260827T010421Z
+UID:gcal-d1f67d039c6e3394@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:Source: Bioengineering
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martin Luther King\, Jr. Holiday
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+DTSTAMP:20260827T010421Z
+UID:gcal-6026e11419f7b3bf@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:Source: Bioengineering
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WI27 Graduate & Professional Student Hours
+DTSTART:20270210T190000Z
+DTEND:20270210T201500Z
+DTSTAMP:20260827T010421Z
+UID:localist-53321469164508-53321489993184@ucsd-grad-calendar
+CATEGORIES:GEPA (Grad Ed & Postdoc)
+DESCRIPTION:This is the Winter 2027 session that offers graduate and profe
+ ssional students an opportunity to ask questions of\, or share ideas with
+ \, Dean Kim and members of the leadership team of the Division of Graduate
+  Education and Postdoctoral Affairs (GEPA). Drop in anytime between 11:00 
+ AM - 12:15 PM PT.\n\nSource: GEPA (Grad Ed & Postdoc)\n\nhttps://calendar.
+ ucsd.edu/event/wi27-graduate-professional-student-hours
+URL:https://calendar.ucsd.edu/event/wi27-graduate-professional-student-hou
+ rs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presidents' Day Holiday
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+DTSTAMP:20260827T010421Z
+UID:gcal-8a163e35db623935@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:Source: Bioengineering
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instruction Ends | Winter Quarter
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+DTSTAMP:20260827T010421Z
+UID:gcal-e34ad78f59147598@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:Source: Bioengineering
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Exams Begin
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20260827T010421Z
+UID:gcal-31546f2ce387a1c5@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:Source: Bioengineering
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Exams End
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20260827T010421Z
+UID:gcal-8eee9433a16cdf36@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:Source: Bioengineering
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farmworkers Day Holiday
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260827T010421Z
+UID:gcal-614d43d503ad2bc6@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:Source: Bioengineering
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instruction Begins | Spring Quarter
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+DTSTAMP:20260827T010421Z
+UID:gcal-9fca7c7fc129bcfc@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:Source: Bioengineering
+END:VEVENT
+END:VCALENDAR

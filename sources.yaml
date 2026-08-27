@@ -1,0 +1,69 @@
+# ============================================================================
+#  UCSD Grad Life Calendar — source configuration
+# ----------------------------------------------------------------------------
+#  Edit this file to add/remove/toggle sources. No code changes needed.
+#  After editing, the next GitHub Actions run (or `python aggregate.py`)
+#  rebuilds the combined feed.
+# ============================================================================
+
+site:
+  title: "UCSD Grad Life Calendar"
+  # IMPORTANT: set this to YOUR GitHub Pages URL once (no trailing slash).
+  # Format: https://<your-github-username>.github.io/<repo-name>
+  # This is only used to render the "Subscribe" button on the dashboard.
+  base_url: "https://mindetmanus.github.io/ucsd-grad-calendar"
+  # How many days ahead to pull from API-based (Localist) sources.
+  horizon_days: 365
+  timezone: "America/Los_Angeles"
+
+sources:
+
+  # --- Bioengineering (home department — highest priority) -----------------
+  # Native Google Calendar ICS feeds discovered from the BE FullCalendar widget.
+  - name: "Bioengineering"
+    enabled: true
+    color: "#1b3a6b"
+    type: gcal_ics
+    ids:
+      - "c_cr291ce2iers5n3cf1ho1nntmc@group.calendar.google.com"
+      - "c_gik7lmamp6spkojf0kdp2qr2h8@group.calendar.google.com"
+
+  # --- GEPA (Graduate Education & Postdoctoral Affairs) --------------------
+  - name: "GEPA (Grad Ed & Postdoc)"
+    enabled: true
+    color: "#b8860b"
+    type: localist
+    group_id: 49959617111603
+
+  # --- Career Center -------------------------------------------------------
+  - name: "Career Center"
+    enabled: true
+    color: "#2e7d32"
+    type: localist
+    group_id: 50577698587808
+
+  # --- Graduate & Professional Student Association (GPSA) ------------------
+  - name: "GPSA"
+    enabled: true
+    color: "#6a1b9a"
+    type: localist
+    group_id: 50331338399926
+
+  # --- GEPA "Grad Life" broad curated view (OPTIONAL) ----------------------
+  # This mirrors the widget on grad.ucsd.edu/student-life/events/calendar.
+  # It is a BROAD campus feed (exhibits, arts, wellness) filtered by event
+  # type, not GEPA-specific. Off by default to avoid noise; flip to true if
+  # you want the same list the GEPA web page shows.
+  - name: "Grad Life (curated)"
+    enabled: false
+    color: "#00838f"
+    type: localist
+    event_types: "49551717912764,49100423982810"
+
+  # --- Sun God Archery (hobby; Wix site, stale since 2025) ------------------
+  # No machine-readable feed; would require HTML scraping. Disabled.
+  - name: "Sun God Archery"
+    enabled: false
+    color: "#8d6e63"
+    type: unsupported
+    url: "https://www.sungodarchery.org/events-list"

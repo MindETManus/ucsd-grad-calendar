@@ -1,0 +1,47 @@
+name: Build UCSD Grad Calendar
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"      # every 6 hours (UTC)
+  workflow_dispatch:            # lets you run it on demand from the Actions tab
+  push:
+    branches: [ main ]
+    paths:
+      - "aggregate.py"
+      - "sources.yaml"
+      - ".github/workflows/build.yml"
+
+permissions:
+  contents: write               # needed to commit the regenerated docs/
+
+concurrency:
+  group: build-calendar
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build calendar
+        run: python aggregate.py
+
+      - name: Commit updated feeds
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update calendar feeds [skip ci]"
+            git push
+          fi
