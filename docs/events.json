@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T01:37:41.749655+00:00",
-  "count": 50,
+  "generated": "2026-08-28T21:29:03.775012+00:00",
+  "count": 51,
   "events": [
     {
       "uid": "gcal-9098fdd10e95c1ee@ucsd-grad-calendar",
@@ -95,19 +95,6 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -117,6 +104,19 @@
       "location": "",
       "url": "",
       "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "",
       "quarter": "FA26"
     },
     {
@@ -403,6 +403,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering | Mia Huang, Ph.D.",
+      "start": "2026-12-04T14:00:00-08:00",
+      "end": "2026-12-04T15:00:00-08:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "Powell-Focht Bioengineering Hall, 3223 Voigt Dr, La Jolla, CA 92093, USA",
+      "url": "",
+      "description": "<b><a href=\"https://be.ucsd.edu/seminar/2026/mapping-glycan-protein-interactions-cells\">Mapping glycan-protein interactions in cells</a></b><br><b>Mia Huang, Ph.D.</b><br><i>Professor<br>Department of Chemistry<br>Scripps Research</i>",
       "quarter": "FA26"
     },
     {
