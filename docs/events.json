@@ -1,7 +1,46 @@
 {
-  "generated": "2026-08-27T01:04:21.117255+00:00",
-  "count": 50,
+  "generated": "2026-08-29T16:08:14.508862+00:00",
+  "count": 82,
   "events": [
+    {
+      "uid": "localist-50419645911000-50419646009357@ucsd-grad-calendar",
+      "summary": "Share Your Story as an International Student",
+      "start": "2026-09-01T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/share-your-story-as-an-international-student",
+      "description": "iSTUDENTS: The Center for Race, Immigration, Citizenship, and Equality (RICE) at UC Law San Francisco is conducting a research study on international student experiences in the U.S. If you are on an F, M, J visa, or OPT status, you’re invited to participate in a short survey and a 45-minute interview (in person or via Zoom).\n\nYour voice matters—help us understand how immigration status shapes your sense of belonging across race, language, culture, and life goals.\n\n✅ Flexible scheduling\n🎁 $20 gift card upon interview completion\n🔒 Confidential and IRB-approved\n\nTo participate, email…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-50410245791545-50419707768854@ucsd-grad-calendar",
+      "summary": "Wednesday Crafts and Chats",
+      "start": "2026-09-02T10:00:00-07:00",
+      "end": "2026-09-02T12:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "La Jolla Community Room",
+      "url": "https://calendar.ucsd.edu/event/wednesday-coffee-and-chats",
+      "description": "iScholars & iStudents: Wednesday Coffee and Crafts is an informal, social gathering that provides attendees an opportunity to meet people, make friends, and practice English with local volunteers and fellow international community members. Wednesday Coffee and crafts is an excellent resource for all of your questions as you adjust to your new surroundings.\n\nAttendees have the option of participating in a volunteer-led planned activity (often a craft) while chatting. While we love children, we are unable to accommodate young children at this event. This will be an adults-only gathering.\n\nNO…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-50701474058047-50701474136947@ucsd-grad-calendar",
+      "summary": "Friday Chat",
+      "start": "2026-09-04T10:00:00-07:00",
+      "end": "2026-09-04T12:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "8657 Villa La Jolla Dr, La Jolla, CA 92037",
+      "url": "https://calendar.ucsd.edu/event/friday-chat",
+      "description": "iScholars & iStudents: Please join us on Friday mornings for a fun \"chat\" where you can practice your English conversational skills with local volunteers and get to know new friends from UCSD’s international community. While we love children, we are unable to accommodate children at this event. This will be an adults-only gathering.\n\nNo need to pre-register. Simply show up to a meeting and you will be added to our email list.When: Every Friday from 10:00 am until 12:00 pm (except for school holidays)Where: The La Jolla Community Room at La Jolla Village Square (downstairs and just to the…",
+      "quarter": "FA26"
+    },
     {
       "uid": "gcal-9098fdd10e95c1ee@ucsd-grad-calendar",
       "summary": "Labor Day Holiday",
@@ -13,6 +52,84 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53774683275844-53774683275845@ucsd-grad-calendar",
+      "summary": "Virtual: \"Meet ISEO & Know the Rules\"",
+      "start": "2026-09-14T09:00:00-07:00",
+      "end": "2026-09-14T10:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/virtual-meet-iseo-know-the-rules",
+      "description": "Welcome to UC San Diego! Join the International Services and Engagement Office (ISEO) for an introduction to our office and how we can help serve you during your time here an international student. We will also review some of the important pieces of information you've learned in your iTriton Online Orientation Course in order to help you maintain your F-1 or J-1 status in the United States. \n\nRegistration link: https://ucsd.zoom.us/webinar/register/WN_W_1LC-vGQbmtqNSCM81kYA",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53774721648805-53774721648806@ucsd-grad-calendar",
+      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
+      "start": "2026-09-14T10:00:00-07:00",
+      "end": "2026-09-14T11:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status",
+      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration link: https://ucsd.zoom.us/webinar/register/WN_tcIc1fJiRSyt80ahBzvaDA#/registration",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53763380082040-53763380082041@ucsd-grad-calendar",
+      "summary": "International Student Fan Fest",
+      "start": "2026-09-14T13:00:00-07:00",
+      "end": "2026-09-14T14:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "RIMAC Arena",
+      "url": "https://calendar.ucsd.edu/event/international-student-fan-fest-7984",
+      "description": "Ready to show your Triton Spirit? Come play fun games, win prizes in our raffle, mingle with international scholar athletes, and learn about soccer from the UCSD soccer team and coaches! The Fan Fest starts at 1:00 pm before the start of the soccer game at 2 pm, so come have fun and get ready to cheer your Tritons on strong!",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53470606851954-53470606851955@ucsd-grad-calendar",
+      "summary": "Mommy/Daddy and Me",
+      "start": "2026-09-14T15:00:00-07:00",
+      "end": "2026-09-14T16:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Doyle Park",
+      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
+      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53774741060527-53774741061552@ucsd-grad-calendar",
+      "summary": "Virtual: \"Meet ISEO & Know the Rules\"",
+      "start": "2026-09-14T15:00:00-07:00",
+      "end": "2026-09-14T16:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/virtual-meet-iseo-know-the-rules-1548",
+      "description": "Welcome to UC San Diego! Join the International Services and Engagement Office (ISEO) for an introduction to our office and how we can help serve you during your time here an international student. We will also review some of the important pieces of information you've learned in your iTriton Online Orientation Course in order to help you maintain your F-1 or J-1 status in the United States.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_5qodLOZ_SZmfmKxhdX4ckw#/registration",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53774814519191-53774814520216@ucsd-grad-calendar",
+      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
+      "start": "2026-09-15T14:00:00-07:00",
+      "end": "2026-09-15T15:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status-6732",
+      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_b6DMQ30PTV2HB2u5oswdxg#/registration",
       "quarter": "FA26"
     },
     {
@@ -29,6 +146,110 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53774872502830-53774872503855@ucsd-grad-calendar",
+      "summary": "Virtual: \"Meet ISEO & Know the Rules\"",
+      "start": "2026-09-16T09:00:00-07:00",
+      "end": "2026-09-16T10:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/virtual-meet-iseo-know-the-rules-4196",
+      "description": "Welcome to UC San Diego! Join the International Services and Engagement Office (ISEO) for an introduction to our office and how we can help serve you during your time here an international student. We will also review some of the important pieces of information you've learned in your iTriton Online Orientation Course in order to help you maintain your F-1 or J-1 status in the United States.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_cFcPasnGS5iD3-XnVnqoIA#/registration",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53774887633834-53774887634859@ucsd-grad-calendar",
+      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
+      "start": "2026-09-16T12:00:00-07:00",
+      "end": "2026-09-16T13:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status-8785",
+      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_nkmR-ol4S12TfkXZz6DLIg#/registration",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53774909916906-53774909916907@ucsd-grad-calendar",
+      "summary": "Virtual: \"Working in the U.S.\"",
+      "start": "2026-09-16T15:00:00-07:00",
+      "end": "2026-09-16T16:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/virtual-working-in-the-us-8527",
+      "description": "Join the International Services and Engagement Office (ISEO) to learn some of basics of on-campus and off-campus employment in the United States as an F-1 or J-1 student. This is an ideal session to attend in preparation for our more in-depth employment workshops offered later in the year!\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_aRTtKVtkQFe_hMMKJFMJSw#/registration",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53774920675935-53774920675936@ucsd-grad-calendar",
+      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
+      "start": "2026-09-17T15:00:00-07:00",
+      "end": "2026-09-17T16:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status-7345",
+      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_kFit-Tn_Qx-ndeE9m_t0wA#/registration",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53774930344351-53774930344352@ucsd-grad-calendar",
+      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
+      "start": "2026-09-18T09:00:00-07:00",
+      "end": "2026-09-18T10:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status-5028",
+      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_wFt1d2xmRKCbKYPvhtW5cQ#/registration",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53774945820914-53774945821939@ucsd-grad-calendar",
+      "summary": "Virtual: \"Working in the U.S.\"",
+      "start": "2026-09-18T12:00:00-07:00",
+      "end": "2026-09-18T13:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/virtual-working-in-the-us-8293",
+      "description": "Join the International Services and Engagement Office (ISEO) to learn some of basics of on-campus and off-campus employment in the United States as an F-1 or J-1 student. This is an ideal session to attend in preparation for our more in-depth employment workshops offered later in the year!\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_hSI90CiTRgiwMjGEqBelng#/registration",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53470750658034-53470750659059@ucsd-grad-calendar",
+      "summary": "Craft Event",
+      "start": "2026-09-19T10:30:00-07:00",
+      "end": "2026-09-19T12:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Craft Center",
+      "url": "https://calendar.ucsd.edu/event/craft-event-7052",
+      "description": "iCOMMUNITY: Spend some time with ISEO and other members of the international community to enjoy creative socializing! We will provide supplies for a craft each month in collaboration with the Craft Center. Families are also welcome to join in the fun.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53444277124889-53444277125914@ucsd-grad-calendar",
+      "summary": "Global Coffee Hour",
+      "start": "2026-09-21T10:00:00-07:00",
+      "end": "2026-09-21T11:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "url": "https://calendar.ucsd.edu/event/global-coffee-hour-7503",
+      "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53692324530643-53692324530644@ucsd-grad-calendar",
       "summary": "Career Center Open House",
       "start": "2026-09-22T11:00:00-07:00",
@@ -39,6 +260,19 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/career-center-open-house-1021",
       "description": "Music. Activities. Giveaways.\n\nCome out and kick off the new academic year with the Career Center on campus! \n\nThe Career Center will be hosting our annual Open House, an exciting way for new and returning students to learn about how the Career Center can help on the career journey. It's a chance for you to get to know where we are, what we do, and more:\n\nWhen: Tuesday, September 22ndd, 2026 from 11 AM to 2 PM\nWhere: Career Center on campus, off of Library Walk\n\nOur Open House is a community building exercise with different parts, from entrance to exit, carefully and intentionally designed…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53444277124889-53444277125915@ucsd-grad-calendar",
+      "summary": "Global Coffee Hour",
+      "start": "2026-09-23T10:00:00-07:00",
+      "end": "2026-09-23T11:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "url": "https://calendar.ucsd.edu/event/global-coffee-hour-7503",
+      "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
       "quarter": "FA26"
     },
     {
@@ -91,6 +325,32 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/resume-review-lab-5150",
       "description": "Roll up your sleeves and get your resume ready for success! This hands-on session gives you dedicated time to work on your resume while receiving customized feedback from our Career Advisors. Walk away with a polished resume that helps you stand out and take the next step toward your career goals.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53470687838790-53470687838791@ucsd-grad-calendar",
+      "summary": "Game Night",
+      "start": "2026-09-24T17:00:00-07:00",
+      "end": "2026-09-24T18:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "url": "https://calendar.ucsd.edu/event/game-night-2562",
+      "description": "iCOMMUNITY: Get to know other international scholars, students, and families at Triton Center! Meet new people while playing classic board games. ISEO will provide the board games and snacks. Feel free to bring friends and family!",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53444277124889-53444277126940@ucsd-grad-calendar",
+      "summary": "Global Coffee Hour",
+      "start": "2026-09-25T10:00:00-07:00",
+      "end": "2026-09-25T11:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "url": "https://calendar.ucsd.edu/event/global-coffee-hour-7503",
+      "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
       "quarter": "FA26"
     },
     {
@@ -159,6 +419,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53470606851954-53470606852980@ucsd-grad-calendar",
+      "summary": "Mommy/Daddy and Me",
+      "start": "2026-10-05T15:00:00-07:00",
+      "end": "2026-10-05T16:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Doyle Park",
+      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
+      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53692900628052-53692900629077@ucsd-grad-calendar",
       "summary": "Resume Review Lab",
       "start": "2026-10-06T11:00:00-07:00",
@@ -182,6 +455,19 @@
       "location": "LionTree Arena",
       "url": "https://calendar.ucsd.edu/event/fall-2026-career-fair",
       "description": "Please join us on Wednesday, October 7th, from 12:00 pm - 4:00 pm for the UC San Diego Fall Career Fair. This event will be at the Liontree Arena with doors opening at 12:00 pm and closing at 4:00 pm\n\nSTUDENT REGISTRATION DETAILS\n\nThe career fairs are open to UC San Diego students and alumni only.In order to gain admittance to the fair, students MUST register through Handshake AND bring their student ID on the day of the fair.The student entrance is located on 2nd level of Liontree Arena near the ticket booths.  We encourage students/alumni not to bring bags or backpacks.  All items must be…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53444457733271-53444457733272@ucsd-grad-calendar",
+      "summary": "Global Coffee Hour",
+      "start": "2026-10-14T08:00:00-07:00",
+      "end": "2026-10-14T09:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "url": "https://calendar.ucsd.edu/event/global-coffee-hour-270",
+      "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
       "quarter": "FA26"
     },
     {
@@ -250,6 +536,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53470750658034-53753955944035@ucsd-grad-calendar",
+      "summary": "Craft Event",
+      "start": "2026-10-24T10:30:00-07:00",
+      "end": "2026-10-24T12:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Craft Center",
+      "url": "https://calendar.ucsd.edu/event/craft-event-7052",
+      "description": "iCOMMUNITY: Spend some time with ISEO and other members of the international community to enjoy creative socializing! We will provide supplies for a craft each month in collaboration with the Craft Center. Families are also welcome to join in the fun.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53693260645628-53693260646653@ucsd-grad-calendar",
       "summary": "Interviewing Tips & Tricks",
       "start": "2026-10-28T13:00:00-07:00",
@@ -263,6 +562,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53470687838790-53470687839816@ucsd-grad-calendar",
+      "summary": "Game Night",
+      "start": "2026-10-29T17:00:00-07:00",
+      "end": "2026-10-29T18:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "url": "https://calendar.ucsd.edu/event/game-night-2562",
+      "description": "iCOMMUNITY: Get to know other international scholars, students, and families at Triton Center! Meet new people while playing classic board games. ISEO will provide the board games and snacks. Feel free to bring friends and family!",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Narayan Bhattarai, Ph.D.",
       "start": "2026-10-30T14:00:00-07:00",
@@ -273,6 +585,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53470606851954-53470606854005@ucsd-grad-calendar",
+      "summary": "Mommy/Daddy and Me",
+      "start": "2026-11-02T15:00:00-08:00",
+      "end": "2026-11-02T16:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Doyle Park",
+      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
+      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
       "quarter": "FA26"
     },
     {
@@ -380,6 +705,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53444457733271-53444610233958@ucsd-grad-calendar",
+      "summary": "Global Coffee Hour",
+      "start": "2026-11-18T08:00:00-08:00",
+      "end": "2026-11-18T09:30:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "url": "https://calendar.ucsd.edu/event/global-coffee-hour-270",
+      "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Mireille Kamariza, Ph.D.",
       "start": "2026-11-20T14:00:00-08:00",
@@ -390,6 +728,19 @@
       "location": "",
       "url": "",
       "description": "<a href=\"https://be.ucsd.edu/seminar/2026/engineering-programmable-crispr-rnas-massively-parallel-target-detection\">Engineering programmable CRISPR RNAs for massively parallel target detection</a><br><b>Mireille Kamariza, Ph.D.</b><br>Assistant Professor<br>Department of Bioengineering<br>University of California, Los Angeles",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53470750658034-53470750661109@ucsd-grad-calendar",
+      "summary": "Craft Event",
+      "start": "2026-11-21T10:30:00-08:00",
+      "end": "2026-11-21T12:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Craft Center",
+      "url": "https://calendar.ucsd.edu/event/craft-event-7052",
+      "description": "iCOMMUNITY: Spend some time with ISEO and other members of the international community to enjoy creative socializing! We will provide supplies for a craft each month in collaboration with the Craft Center. Families are also welcome to join in the fun.",
       "quarter": "FA26"
     },
     {
@@ -406,6 +757,32 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53470687838790-53470687839817@ucsd-grad-calendar",
+      "summary": "Game Night",
+      "start": "2026-12-03T17:00:00-08:00",
+      "end": "2026-12-03T18:30:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "url": "https://calendar.ucsd.edu/event/game-night-2562",
+      "description": "iCOMMUNITY: Get to know other international scholars, students, and families at Triton Center! Meet new people while playing classic board games. ISEO will provide the board games and snacks. Feel free to bring friends and family!",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering | Mia Huang, Ph.D.",
+      "start": "2026-12-04T14:00:00-08:00",
+      "end": "2026-12-04T15:00:00-08:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "Powell-Focht Bioengineering Hall, 3223 Voigt Dr, La Jolla, CA 92093, USA",
+      "url": "",
+      "description": "<b><a href=\"https://be.ucsd.edu/seminar/2026/mapping-glycan-protein-interactions-cells\">Mapping glycan-protein interactions in cells</a></b><br><b>Mia Huang, Ph.D.</b><br><i>Professor<br>Department of Chemistry<br>Scripps Research</i>",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-6cd91170b26c0ef6@ucsd-grad-calendar",
       "summary": "Final Exams Begin",
       "start": "2026-12-05T00:00:00-08:00",
@@ -416,6 +793,45 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53470750658034-53470750662134@ucsd-grad-calendar",
+      "summary": "Craft Event",
+      "start": "2026-12-05T10:30:00-08:00",
+      "end": "2026-12-05T12:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Craft Center",
+      "url": "https://calendar.ucsd.edu/event/craft-event-7052",
+      "description": "iCOMMUNITY: Spend some time with ISEO and other members of the international community to enjoy creative socializing! We will provide supplies for a craft each month in collaboration with the Craft Center. Families are also welcome to join in the fun.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53470606851954-53470606855030@ucsd-grad-calendar",
+      "summary": "Mommy/Daddy and Me",
+      "start": "2026-12-07T15:00:00-08:00",
+      "end": "2026-12-07T16:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Doyle Park",
+      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
+      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53444457733271-53444457734297@ucsd-grad-calendar",
+      "summary": "Global Coffee Hour",
+      "start": "2026-12-09T08:00:00-08:00",
+      "end": "2026-12-09T09:30:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "url": "https://calendar.ucsd.edu/event/global-coffee-hour-270",
+      "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
       "quarter": "FA26"
     },
     {

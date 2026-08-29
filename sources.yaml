@@ -49,6 +49,14 @@ sources:
     type: localist
     group_id: 50331338399926
 
+  # --- International Students & Engagement Office (ISEO iEvents) -----------
+  # Localist group "ievents-calendar" (display name: Globally Engaged Tritons).
+  - name: "ISEO (iEvents)"
+    enabled: true
+    color: "#c2185b"
+    type: localist
+    group_id: 50233359894034
+
   # --- GEPA "Grad Life" broad curated view (OPTIONAL) ----------------------
   # This mirrors the widget on grad.ucsd.edu/student-life/events/calendar.
   # It is a BROAD campus feed (exhibits, arts, wellness) filtered by event
