@@ -1,20 +1,7 @@
 {
-  "generated": "2026-09-02T06:24:54.636990+00:00",
-  "count": 84,
+  "generated": "2026-09-02T12:20:09.022470+00:00",
+  "count": 83,
   "events": [
-    {
-      "uid": "localist-50419645911000-50419646009357@ucsd-grad-calendar",
-      "summary": "Share Your Story as an International Student",
-      "start": "2026-09-01T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/share-your-story-as-an-international-student",
-      "description": "iSTUDENTS: The Center for Race, Immigration, Citizenship, and Equality (RICE) at UC Law San Francisco is conducting a research study on international student experiences in the U.S. If you are on an F, M, J visa, or OPT status, you’re invited to participate in a short survey and a 45-minute interview (in person or via Zoom).\n\nYour voice matters—help us understand how immigration status shapes your sense of belonging across race, language, culture, and life goals.\n\n✅ Flexible scheduling\n🎁 $20 gift card upon interview completion\n🔒 Confidential and IRB-approved\n\nTo participate, email…",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-50410245791545-50419707768854@ucsd-grad-calendar",
       "summary": "Wednesday Crafts and Chats",
@@ -381,19 +368,6 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -403,6 +377,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
       "quarter": "FA26"
     },
     {
