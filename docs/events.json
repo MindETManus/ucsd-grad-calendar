@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-01T18:17:27.745679+00:00",
-  "count": 82,
+  "generated": "2026-09-02T00:23:28.062894+00:00",
+  "count": 84,
   "events": [
     {
       "uid": "localist-50419645911000-50419646009357@ucsd-grad-calendar",
@@ -133,6 +133,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53861997563046-53861997565095@ucsd-grad-calendar",
+      "summary": "iOrientation: International Graduate Student Social & Grad Pals Mixer",
+      "start": "2026-09-15T17:00:00-07:00",
+      "end": "2026-09-15T18:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Dirty Birds",
+      "url": "https://calendar.ucsd.edu/event/iorientation-international-graduate-student-social-grad-pals-mixer",
+      "description": "Join us to meet other graduate students across departments at UC San Diego! This event is open to all international graduate students, and also serves as an opportunity to meet your Grad Pal if you participate in our mentorship program. Let's have some fun, meet new people, and enjoy some light refreshments. Food will be distributed on a first come, first served basis!",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-10686eebbc4593c1@ucsd-grad-calendar",
       "summary": "Triton Weeks of Welcome | Campus",
       "start": "2026-09-16T00:00:00-07:00",
@@ -169,6 +182,19 @@
       "location": "",
       "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status-8785",
       "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_nkmR-ol4S12TfkXZz6DLIg#/registration",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53756431618856-53756431618857@ucsd-grad-calendar",
+      "summary": "Grad Thrive",
+      "start": "2026-09-16T13:00:00-07:00",
+      "end": "2026-09-16T16:00:00-07:00",
+      "all_day": false,
+      "source": "GEPA (Grad Ed & Postdoc)",
+      "color": "#b8860b",
+      "location": "Price Center",
+      "url": "https://calendar.ucsd.edu/event/grad-thrive",
+      "description": "New graduate students, kick off your UC San Diego journey with Grad Thrive!\n\nThis is your ultimate welcome experience at UC San Diego, designed to plug you into the resources, networks, and community you need to truly succeed. Dive into essential campus tools, connect with vibrant graduate student organizations, and meet your future collaborators and friends in a relaxed, casual setting. Want the inside scoop on campus? Sign up for a guided tour led by current graduate students!",
       "quarter": "FA26"
     },
     {
