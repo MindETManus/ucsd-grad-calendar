@@ -1,7 +1,33 @@
 {
-  "generated": "2026-09-03T12:20:32.752686+00:00",
-  "count": 82,
+  "generated": "2026-09-03T18:17:51.554193+00:00",
+  "count": 102,
   "events": [
+    {
+      "uid": "localist-53518095108060-53518095111136@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-03T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53518095112161@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-04T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
     {
       "uid": "localist-50701474058047-50701474136947@ucsd-grad-calendar",
       "summary": "Friday Chat",
@@ -16,6 +42,32 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53518095108060-53518095114210@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-05T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53518095115235@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-06T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-9098fdd10e95c1ee@ucsd-grad-calendar",
       "summary": "Labor Day Holiday",
       "start": "2026-09-07T00:00:00-07:00",
@@ -26,6 +78,123 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53518095116260@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-07T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53518095117285@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-08T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53518095118310@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-09T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53518095119335@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-10T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53518095119336@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-11T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53781543016839-53781543017864@ucsd-grad-calendar",
+      "summary": "ISMP Okonomiyaki Night",
+      "start": "2026-09-11T18:30:00-07:00",
+      "end": null,
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Host Home Near Campus (Rides from Price Center Loop)",
+      "url": "https://calendar.ucsd.edu/event/ismp-dinner-in-an-american-home",
+      "description": "International Student Mentorship Program (ISMP) is a nonprofit organization aiming to provide support and community for international students before, during, and after their time studying in America! ISMP is made up of a network of volunteer mentors across various locations in the United States and Asia. You can learn more at https://www.internationalmentorship.org/\n\n\nThis year, ISMP San Diego is starting a Japan-America international connection group! Our volunteer mentors include UC San Diego, UC Berkeley, and UC Davis graduates - and some of us recently returned from a year of…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53861706788234@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-12T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53861706790283@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-13T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53861706792332@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-14T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
       "quarter": "FA26"
     },
     {
@@ -94,6 +263,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53518095108060-53861706795405@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-15T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53774814519191-53774814520216@ucsd-grad-calendar",
       "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
       "start": "2026-09-15T14:00:00-07:00",
@@ -130,6 +312,19 @@
       "location": "",
       "url": "",
       "description": "<a target=\"_blank\" href=\"https://twow.ucsd.edu/\"><u><b>Triton Weeks of Welcome (TWOW)</b></u></a><br><br><li><strong><b>September 16–22, 2026:</b></strong> In-person New Student Orientation Part 3 sessions.</li><br><li><strong><b>September 16–26, 2026:</b></strong> College-specific Welcome Week events (Muir, Warren, Seventh, etc.) and campus-wide TWOW programs.</li><br><li><strong><b>September 24, 2026:</b></strong> First day of Fall quarter classes.</li>",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53861706797454@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-16T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
       "quarter": "FA26"
     },
     {
@@ -224,6 +419,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53861694727927-53861694727928@ucsd-grad-calendar",
+      "summary": "ISMP Welcome Night & Info Session",
+      "start": "2026-09-18T18:00:00-07:00",
+      "end": "2026-09-18T20:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Jacobs Hall",
+      "url": "https://calendar.ucsd.edu/event/ismp-welcome-night-info-session",
+      "description": "Learn more about ISMP's 1:1 mentorship opportunities and see if mentorship is a right fit for you! Have the chance to meet many experienced mentors and alumni who offer professional and life guidance to help international students succeed.\n\nOur mentorship topics include:\n\n- English conversation coaching\n- Interpersonal skills\n- Resume & interviews tips\n- And more!\n\nStudents will have the opportunity to get paired with mentors at this session!",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53470750658034-53470750659059@ucsd-grad-calendar",
       "summary": "Craft Event",
       "start": "2026-09-19T10:30:00-07:00",
@@ -302,6 +510,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53861715289233-53873539071855@ucsd-grad-calendar",
+      "summary": "ISMP Mentorship Kick-Off & Workshop #1: How to Connect w/ American Classmates & Professors",
+      "start": "2026-09-23T18:00:00-07:00",
+      "end": "2026-09-23T20:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Design and Innovation Building",
+      "url": "https://calendar.ucsd.edu/event/ismp-mentorship-kick-off-workshop-1-how-to-connect-w-american-classmates-professors",
+      "description": "Learn how communication, networking, and relationship-building work in U.S. universities. This session offers practical guidance for connecting confidently with classmates, colleagues, and professors.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-198222b3dd1edd49@ucsd-grad-calendar",
       "summary": "Instruction Begins | Fall Quarter",
       "start": "2026-09-24T00:00:00-07:00",
@@ -355,19 +576,6 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -377,6 +585,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
       "quarter": "FA26"
     },
     {
@@ -416,6 +637,32 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/resume-review-lab-2435",
       "description": "Roll up your sleeves and get your resume ready for success! This hands-on session gives you dedicated time to work on your resume while receiving customized feedback from our Career Advisors. Walk away with a polished resume that helps you stand out and take the next step toward your career goals.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53861737661926-53873568558654@ucsd-grad-calendar",
+      "summary": "ISMP Mentorship  Workshop #2:  Connecting with Americans: Work Culture & Academia",
+      "start": "2026-10-01T18:00:00-07:00",
+      "end": "2026-10-01T20:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Design & Innovations Building",
+      "url": "https://calendar.ucsd.edu/event/ismp-mentorship-workshop-2-connecting-with-americans-work-culture-academia",
+      "description": "Learn how communication, networking, and relationship-building work in American workplaces and academia. This session offers practical guidance for connecting confidently with classmates, colleagues, and professors.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53781562912916-53781562912917@ucsd-grad-calendar",
+      "summary": "ISMP Okonomiyaki Night",
+      "start": "2026-10-01T18:30:00-07:00",
+      "end": null,
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Host Home Near Campus (Rides from Price Center Loop)",
+      "url": "https://calendar.ucsd.edu/event/ismp-dinner-in-an-american-home-3306",
+      "description": "International Student Mentorship Program (ISMP) is a nonprofit organization aiming to provide support and community for international students before, during, and after their time studying in America! ISMP is made up of a network of volunteer mentors across various locations in the United States and Asia. You can learn more at https://www.internationalmentorship.org/\n\n\nThis year, ISMP San Diego is starting a Japan-America international connection group! Our volunteer mentors include UC San Diego, UC Berkeley, and UC Davis graduates - and some of us recently returned from a year of…",
       "quarter": "FA26"
     },
     {
@@ -481,6 +728,19 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/linkedin-networking-5376",
       "description": "In this workshop, students will discover how to build a strong online presence, craft an engaging personal brand, and leverage LinkedIn’s features to connect with professionals in their desired fields. We’ll cover best practices for networking, including informational interviews, elevator pitches, and effective outreach strategies. Step by step, we’ll guide students in optimizing their LinkedIn profiles to attract recruiters and employers.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53861757015892-53873621896316@ucsd-grad-calendar",
+      "summary": "ISMP Connect: Speed-Friending & How to Ask Great Questions",
+      "start": "2026-10-15T18:00:00-07:00",
+      "end": "2026-10-15T20:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Design and Innovation Building",
+      "url": "https://calendar.ucsd.edu/event/ismp-connect-series-part-1-speed-friending-how-to-ask-great-questions",
+      "description": "Learn how to connect meaningfully with people through asking great questions. This session provides a space for you to practice talking with ISMP mentors and students in a comfortable, fun setting.",
       "quarter": "FA26"
     },
     {
