@@ -1,20 +1,7 @@
 {
-  "generated": "2026-09-03T06:20:57.120386+00:00",
-  "count": 83,
+  "generated": "2026-09-03T12:20:32.752686+00:00",
+  "count": 82,
   "events": [
-    {
-      "uid": "localist-50410245791545-50419707768854@ucsd-grad-calendar",
-      "summary": "Wednesday Crafts and Chats",
-      "start": "2026-09-02T10:00:00-07:00",
-      "end": "2026-09-02T12:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "La Jolla Community Room",
-      "url": "https://calendar.ucsd.edu/event/wednesday-coffee-and-chats",
-      "description": "iScholars & iStudents: Wednesday Coffee and Crafts is an informal, social gathering that provides attendees an opportunity to meet people, make friends, and practice English with local volunteers and fellow international community members. Wednesday Coffee and crafts is an excellent resource for all of your questions as you adjust to your new surroundings.\n\nAttendees have the option of participating in a volunteer-led planned activity (often a craft) while chatting. While we love children, we are unable to accommodate young children at this event. This will be an adults-only gathering.\n\nNO…",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-50701474058047-50701474136947@ucsd-grad-calendar",
       "summary": "Friday Chat",
@@ -368,19 +355,6 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -390,6 +364,19 @@
       "location": "",
       "url": "",
       "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "",
       "quarter": "FA26"
     },
     {
