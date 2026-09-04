@@ -1,20 +1,7 @@
 {
-  "generated": "2026-09-04T06:19:06.285292+00:00",
-  "count": 102,
+  "generated": "2026-09-04T12:19:48.328236+00:00",
+  "count": 101,
   "events": [
-    {
-      "uid": "localist-53518095108060-53518095111136@ucsd-grad-calendar",
-      "summary": "New International Student Airport Pick-Ups!",
-      "start": "2026-09-03T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
-      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-53518095108060-53518095112161@ucsd-grad-calendar",
       "summary": "New International Student Airport Pick-Ups!",
@@ -576,19 +563,6 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -598,6 +572,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
       "quarter": "FA26"
     },
     {
