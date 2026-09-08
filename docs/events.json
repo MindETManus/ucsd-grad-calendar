@@ -1,33 +1,7 @@
 {
-  "generated": "2026-09-08T06:19:58.704147+00:00",
-  "count": 97,
+  "generated": "2026-09-08T12:20:34.672810+00:00",
+  "count": 95,
   "events": [
-    {
-      "uid": "gcal-9098fdd10e95c1ee@ucsd-grad-calendar",
-      "summary": "Labor Day Holiday",
-      "start": "2026-09-07T00:00:00-07:00",
-      "end": "2026-09-08",
-      "all_day": true,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53518095108060-53518095116260@ucsd-grad-calendar",
-      "summary": "New International Student Airport Pick-Ups!",
-      "start": "2026-09-07T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
-      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-53518095108060-53518095117285@ucsd-grad-calendar",
       "summary": "New International Student Airport Pick-Ups!",
