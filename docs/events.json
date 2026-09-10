@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-09T18:19:00.824815+00:00",
-  "count": 94,
+  "generated": "2026-09-10T00:20:32.727876+00:00",
+  "count": 91,
   "events": [
     {
       "uid": "localist-53518095108060-53518095118310@ucsd-grad-calendar",
@@ -445,19 +445,6 @@
       "quarter": "FA26"
     },
     {
-      "uid": "localist-53470687838790-53470687838791@ucsd-grad-calendar",
-      "summary": "Game Night",
-      "start": "2026-09-24T17:00:00-07:00",
-      "end": "2026-09-24T18:30:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
-      "url": "https://calendar.ucsd.edu/event/game-night-2562",
-      "description": "iCOMMUNITY: Get to know other international scholars, students, and families at Triton Center! Meet new people while playing classic board games. ISEO will provide the board games and snacks. Feel free to bring friends and family!",
-      "quarter": "FA26"
-    },
-    {
       "uid": "localist-53444277124889-53444277126940@ucsd-grad-calendar",
       "summary": "Global Coffee Hour",
       "start": "2026-09-25T10:00:00-07:00",
@@ -718,19 +705,6 @@
       "quarter": "FA26"
     },
     {
-      "uid": "localist-53470687838790-53470687839816@ucsd-grad-calendar",
-      "summary": "Game Night",
-      "start": "2026-10-29T17:00:00-07:00",
-      "end": "2026-10-29T18:30:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
-      "url": "https://calendar.ucsd.edu/event/game-night-2562",
-      "description": "iCOMMUNITY: Get to know other international scholars, students, and families at Triton Center! Meet new people while playing classic board games. ISEO will provide the board games and snacks. Feel free to bring friends and family!",
-      "quarter": "FA26"
-    },
-    {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Narayan Bhattarai, Ph.D.",
       "start": "2026-10-30T14:00:00-07:00",
@@ -910,19 +884,6 @@
       "location": "",
       "url": "",
       "description": "",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53470687838790-53470687839817@ucsd-grad-calendar",
-      "summary": "Game Night",
-      "start": "2026-12-03T17:00:00-08:00",
-      "end": "2026-12-03T18:30:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
-      "url": "https://calendar.ucsd.edu/event/game-night-2562",
-      "description": "iCOMMUNITY: Get to know other international scholars, students, and families at Triton Center! Meet new people while playing classic board games. ISEO will provide the board games and snacks. Feel free to bring friends and family!",
       "quarter": "FA26"
     },
     {
