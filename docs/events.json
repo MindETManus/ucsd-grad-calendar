@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T18:17:23.967808+00:00",
-  "count": 80,
+  "generated": "2026-09-15T00:22:38.070825+00:00",
+  "count": 81,
   "events": [
     {
       "uid": "localist-53518095108060-53861706792332@ucsd-grad-calendar",
@@ -355,19 +355,6 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -377,6 +364,19 @@
       "location": "",
       "url": "",
       "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "",
       "quarter": "FA26"
     },
     {
@@ -442,6 +442,19 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/resume-review-lab-8436",
       "description": "Roll up your sleeves and get your resume ready for success! This hands-on session gives you dedicated time to work on your resume while receiving customized feedback from our Career Advisors. Walk away with a polished resume that helps you stand out and take the next step toward your career goals.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-4fed529b5add2078@ucsd-grad-calendar",
+      "summary": "UC San Diego Alumni Biotech Mixer",
+      "start": "2026-10-07T00:00:00+00:00",
+      "end": "2026-10-07T02:00:00+00:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "Duck Foot Brewing",
+      "url": "",
+      "description": "<a href=\"https://calendar.ucsd.edu/event/biotech-mixer\" target=\"_blank\"><u><u>REGISTER TO ATTEND BIOTECH MIXER</u></u></a><br><br>Join fellow Triton alumni and biotech professionals for a Biotech Mixer celebrating the UC San Diego community and building connections across San Diego's thriving life sciences industry. <br><br>Meet alumni from across UC San Diego, connect with professionals working in biotech, and expand your network, all while enjoying a bite in a relaxed and welcoming setting. Alumni from all UC San Diego departments and everyone working the biotech industry are welcome!",
       "quarter": "FA26"
     },
     {
