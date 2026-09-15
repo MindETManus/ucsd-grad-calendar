@@ -1,85 +1,7 @@
 {
-  "generated": "2026-09-15T06:21:11.431793+00:00",
-  "count": 81,
+  "generated": "2026-09-15T12:19:38.900476+00:00",
+  "count": 75,
   "events": [
-    {
-      "uid": "localist-53518095108060-53861706792332@ucsd-grad-calendar",
-      "summary": "New International Student Airport Pick-Ups!",
-      "start": "2026-09-14T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
-      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53774683275844-53774683275845@ucsd-grad-calendar",
-      "summary": "Virtual: \"Meet ISEO & Know the Rules\"",
-      "start": "2026-09-14T09:00:00-07:00",
-      "end": "2026-09-14T10:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-meet-iseo-know-the-rules",
-      "description": "Welcome to UC San Diego! Join the International Services and Engagement Office (ISEO) for an introduction to our office and how we can help serve you during your time here an international student. We will also review some of the important pieces of information you've learned in your iTriton Online Orientation Course in order to help you maintain your F-1 or J-1 status in the United States. \n\nRegistration link: https://ucsd.zoom.us/webinar/register/WN_W_1LC-vGQbmtqNSCM81kYA",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53774721648805-53774721648806@ucsd-grad-calendar",
-      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
-      "start": "2026-09-14T10:00:00-07:00",
-      "end": "2026-09-14T11:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status",
-      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration link: https://ucsd.zoom.us/webinar/register/WN_tcIc1fJiRSyt80ahBzvaDA#/registration",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53763380082040-53763380082041@ucsd-grad-calendar",
-      "summary": "International Student Fan Fest",
-      "start": "2026-09-14T13:00:00-07:00",
-      "end": "2026-09-14T14:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "RIMAC Arena",
-      "url": "https://calendar.ucsd.edu/event/international-student-fan-fest-7984",
-      "description": "Ready to show your Triton Spirit? Come play fun games, win prizes in our raffle, mingle with international scholar athletes, and learn about soccer from the UCSD soccer team and coaches! The Fan Fest starts at 1:00 pm before the start of the soccer game at 2 pm, so come have fun and get ready to cheer your Tritons on strong!\n\nFirst 500 students who attend will receive a free Trucker Hat and voucher for a participating Food Truck",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53470606851954-53470606851955@ucsd-grad-calendar",
-      "summary": "Mommy/Daddy and Me",
-      "start": "2026-09-14T15:00:00-07:00",
-      "end": "2026-09-14T16:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Doyle Park",
-      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
-      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53774741060527-53774741061552@ucsd-grad-calendar",
-      "summary": "Virtual: \"Meet ISEO & Know the Rules\"",
-      "start": "2026-09-14T15:00:00-07:00",
-      "end": "2026-09-14T16:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-meet-iseo-know-the-rules-1548",
-      "description": "Welcome to UC San Diego! Join the International Services and Engagement Office (ISEO) for an introduction to our office and how we can help serve you during your time here an international student. We will also review some of the important pieces of information you've learned in your iTriton Online Orientation Course in order to help you maintain your F-1 or J-1 status in the United States.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_5qodLOZ_SZmfmKxhdX4ckw#/registration",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-53518095108060-53861706795405@ucsd-grad-calendar",
       "summary": "New International Student Airport Pick-Ups!",
@@ -355,19 +277,6 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -377,6 +286,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
       "quarter": "FA26"
     },
     {
