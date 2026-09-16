@@ -1,46 +1,7 @@
 {
-  "generated": "2026-09-16T06:20:29.018098+00:00",
-  "count": 80,
+  "generated": "2026-09-16T12:20:05.019759+00:00",
+  "count": 77,
   "events": [
-    {
-      "uid": "localist-53518095108060-53861706795405@ucsd-grad-calendar",
-      "summary": "New International Student Airport Pick-Ups!",
-      "start": "2026-09-15T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
-      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53774814519191-53774814520216@ucsd-grad-calendar",
-      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
-      "start": "2026-09-15T14:00:00-07:00",
-      "end": "2026-09-15T15:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status-6732",
-      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_b6DMQ30PTV2HB2u5oswdxg#/registration",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53861997563046-53861997565095@ucsd-grad-calendar",
-      "summary": "iOrientation: International Graduate Student Social & Grad Pals Mixer",
-      "start": "2026-09-15T17:00:00-07:00",
-      "end": "2026-09-15T18:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Dirty Birds",
-      "url": "https://calendar.ucsd.edu/event/iorientation-international-graduate-student-social-grad-pals-mixer",
-      "description": "Join us to meet other graduate students across departments at UC San Diego! This event is open to all international graduate students, and also serves as an opportunity to meet your Grad Pal if you participate in our mentorship program. Let's have some fun, meet new people, and enjoy some light refreshments. Food will be distributed on a first come, first served basis!",
-      "quarter": "FA26"
-    },
     {
       "uid": "gcal-10686eebbc4593c1@ucsd-grad-calendar",
       "summary": "Triton Weeks of Welcome | Campus",
@@ -303,19 +264,6 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -325,6 +273,19 @@
       "location": "",
       "url": "",
       "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "",
       "quarter": "FA26"
     },
     {
