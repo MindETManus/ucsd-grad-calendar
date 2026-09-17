@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Instruction Begins | Winter Quarter
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:gcal-d1f67d039c6e3394@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Quarter begins
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-28c65a79afca2549@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Quarter begins\nTerm: Winter 2027\n\nSource: Enrollment (Booki
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:First day of classes
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-0b42653a28692f61@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:First day of classes\nTerm: Winter 2027\n\nSource: Enrollment 
@@ -44,7 +44,7 @@ SUMMARY:Deadline for all students to add or re-booking in classes if cance
  led for non-payment vi…
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-8a7a69621452c5bf@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to add or re-booking in classes if c
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for undergraduate students to apply for part-time status
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-0789c1dcc38913c5@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for undergraduate students to apply for part-time sta
@@ -74,7 +74,7 @@ SUMMARY:Deadline for Graduate students to file for leave of absence\, in a
  bsentia or to apply for…
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-ab8ce57577c39d49@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to file for leave of absence\, 
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Martin Luther King\, Jr. Holiday
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:gcal-6026e11419f7b3bf@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to file for Advancement to Candidacy for Master's degrees
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-cc49d96a06a430f1@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for Advancement to Candidacy for Master's deg
@@ -111,7 +111,7 @@ SUMMARY:Deadline for all students to drop (individual courses) or withdraw
   (from all courses) wi…
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-07e3d1a55a3fef68@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to drop (individual courses) or with
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:WI27 Graduate & Professional Student Hours
 DTSTART:20270210T190000Z
 DTEND:20270210T201500Z
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:localist-53321469164508-53321489993184@ucsd-grad-calendar
 CATEGORIES:GEPA (Grad Ed & Postdoc)
 DESCRIPTION:This is the Winter 2027 session that offers graduate and profe
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for Undergraduate students to change units
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-994d41b590de71d5@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Undergraduate students to change units\nTerm: Win
@@ -155,7 +155,7 @@ SUMMARY:Deadline for all students to change grading option (undergraduate
  and graduate students)
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-35a1d0dbb7575336@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to change grading option (undergradu
@@ -170,7 +170,7 @@ SUMMARY:Deadline for Undergraduate students to drop (individual courses) o
  r withdraw (from all c…
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-5d300c7af60dd8ab@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Undergraduate students to drop (individual course
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Presidents' Day Holiday
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:gcal-8a163e35db623935@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -194,7 +194,7 @@ SUMMARY:Billing statement available on TritonPay. (eBill available continu
  ing students)
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-30823de4a6c0421c@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Billing statement available on TritonPay. (eBill available con
@@ -208,7 +208,7 @@ SUMMARY:Deadline for Graduate students to drop (individual courses) or wit
  hdraw (from all course…
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-c5c4c5f7932f551a@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to drop (individual courses) or
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Instruction Ends | Winter Quarter
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:gcal-e34ad78f59147598@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for Graduate students to change units
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-362df2cbfc6499e8@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to change units\nTerm: Winter 2
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Last day of classes before finals
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-130402c3ee0bd2ae@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Last day of classes before finals\nTerm: Winter 2027\n\nSource
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams Begin
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:gcal-31546f2ce387a1c5@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:Finals week
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-09588508e004799e@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Finals week\nTerm: Winter 2027\n\nSource: Enrollment (Booking)
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for mandatory health insurance waiver - all students
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-4f873a8e01149b83@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for mandatory health insurance waiver - all students
@@ -293,7 +293,7 @@ SUMMARY:Deadline for students not attending (who are receiving financial a
  id\, full-fee waivers o…
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-2de62bb0967e9e49@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for students not attending (who are receiving financi
@@ -309,7 +309,7 @@ SUMMARY:Deadline for graduate programs to submit final degree forms to the
   Division of Graduate…
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-759a67e5e372a743@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for graduate programs to submit final degree forms to
@@ -323,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams End
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:gcal-8eee9433a16cdf36@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -333,7 +333,7 @@ SUMMARY:Late health insurance fee waiver deadline (no waivers will be acce
  pted beyond this date)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-0c9fc29d3e229dad@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Late health insurance fee waiver deadline (no waivers will be 
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Finals week
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-766bda2b7767b189@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Finals week\nTerm: Winter 2027\n\nSource: Enrollment (Booking)
@@ -361,7 +361,7 @@ SUMMARY:Deadline to file for "Removal of Grade Incomplete" from previous q
  uarter
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-586713e6c2deae50@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for "Removal of Grade Incomplete" from previo
@@ -375,7 +375,7 @@ SUMMARY:Quarter ends Undergraduate and graduate diplomas for this term wil
  l be issued with this…
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-c0b960523d44403e@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Quarter ends Undergraduate and graduate diplomas for this term
@@ -389,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to file for a Request to receive a grade of "Incomplete"
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-d097ca0f16c3aa9c@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for a Request to receive a grade of "Incomple
@@ -402,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:Quarter begins
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-a741ed0f92482621@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Quarter begins\nTerm: Spring 2027\n\nSource: Enrollment (Booki
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Farmworkers Day Holiday
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:gcal-614d43d503ad2bc6@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Instruction Begins | Spring Quarter
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:gcal-9fca7c7fc129bcfc@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:First day of classes
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-DTSTAMP:20260917T050450Z
+DTSTAMP:20260917T050539Z
 UID:blink-ac6d8bf65aa87516@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:First day of classes\nTerm: Spring 2027\n\nSource: Enrollment 
