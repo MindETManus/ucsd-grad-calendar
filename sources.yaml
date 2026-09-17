@@ -57,6 +57,15 @@ sources:
     type: localist
     group_id: 50233359894034
 
+  # --- Booking & Registration Calendar 2026-2027 (Blink) ------------------
+  # Static HTML table on Blink (no feed) — booking/enrollment deadlines per
+  # quarter. Parsed by the blink_table fetcher; dates are all-day.
+  - name: "Enrollment (Booking)"
+    enabled: true
+    color: "#455a64"
+    type: blink_table
+    url: "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html"
+
   # --- GEPA "Grad Life" broad curated view (OPTIONAL) ----------------------
   # This mirrors the widget on grad.ucsd.edu/student-life/events/calendar.
   # It is a BROAD campus feed (exhibits, arts, wellness) filtered by event

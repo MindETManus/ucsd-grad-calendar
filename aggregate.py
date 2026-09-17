@@ -21,9 +21,11 @@ from __future__ import annotations
 import hashlib
 import html
 import json
+import re
 import sys
 from dataclasses import dataclass, field, asdict
 from datetime import date, datetime, timedelta, timezone
+from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import quote
 
@@ -193,6 +195,131 @@ def _ics_component_to_model(comp, src: dict) -> Event | None:
         source=src["name"], color=src.get("color", "#333"),
         location=loc, url=url, description=desc,
     )
+
+
+# --------------------------------------------------------------------------- #
+#  Blink enrollment table (static HTML — no feed)                             #
+# --------------------------------------------------------------------------- #
+class _TableParser(HTMLParser):
+    """Extract rows of a single HTML <table> as lists of cell text."""
+
+    def __init__(self):
+        super().__init__()
+        self.rows: list[list[str]] = []
+        self._cur: list[str] | None = None
+        self._buf: str = ""
+        self._in_cell = False
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "tr":
+            self._cur = []
+        elif tag in ("td", "th"):
+            self._in_cell = True
+            self._buf = ""
+
+    def handle_endtag(self, tag):
+        if tag in ("td", "th") and self._cur is not None:
+            self._cur.append(re.sub(r"\s+", " ", self._buf).strip())
+            self._in_cell = False
+        elif tag == "tr" and self._cur is not None:
+            self.rows.append(self._cur)
+            self._cur = None
+
+    def handle_data(self, data):
+        if self._in_cell:
+            self._buf += data
+
+
+# season -> (anchor month used to disambiguate the year of a M/D date)
+_SEASON_ANCHOR = {"fall": 9, "winter": 1, "spring": 4, "summer": 7}
+_DATE_RE = re.compile(
+    r"(?:(Deadline|Date|Effective date|Grades? due|Census)\s*:?\s*)?"
+    r"(\b\d{1,2})/(\d{1,2})\b",
+    re.IGNORECASE,
+)
+
+
+def _parse_term_header(text: str):
+    """'Fall2026' / 'Winter 2027' -> ('fall', 2026)."""
+    m = re.search(r"(fall|winter|spring|summer)\s*'?\s*(\d{4})", text, re.IGNORECASE)
+    if not m:
+        return None
+    return m.group(1).lower(), int(m.group(2))
+
+
+def _infer_year(month: int, season: str, term_year: int) -> int:
+    """Pick term_year-1 or term_year so the date sits nearest the term."""
+    anchor = _SEASON_ANCHOR.get(season, 6)
+    target = term_year * 12 + anchor
+    best_y, best_d = term_year, None
+    for y in (term_year - 1, term_year):
+        d = abs((y * 12 + month) - target)
+        if best_d is None or d < best_d:
+            best_y, best_d = y, d
+    return best_y
+
+
+def fetch_blink_table(src: dict, horizon_days: int) -> list[Event]:
+    """UCSD Blink Booking & Registration calendar — a static HTML table."""
+    url = src["url"]
+    r = SESSION.get(url, timeout=TIMEOUT)
+    r.raise_for_status()
+    tables = re.findall(r"<table.*?</table>", r.text, re.S | re.I)
+    if not tables:
+        return []
+    p = _TableParser()
+    p.feed(tables[0])
+    rows = [row for row in p.rows if row]
+    if len(rows) < 2:
+        return []
+
+    header = rows[0]
+    # map each column index (after the description col) to (season, year)
+    terms: dict[int, tuple[str, int]] = {}
+    for i, cell in enumerate(header[1:], start=1):
+        t = _parse_term_header(cell)
+        if t:
+            terms[i] = t
+
+    past_cutoff = datetime.now(tz.gettz(LOCAL_TZ_NAME)).date() - timedelta(days=1)
+    horizon = past_cutoff + timedelta(days=horizon_days + 400)
+    events: list[Event] = []
+
+    for row in rows[1:]:
+        desc = row[0].strip()
+        if not desc:
+            continue
+        for col, (season, term_year) in terms.items():
+            if col >= len(row):
+                continue
+            cell = row[col].strip()
+            if not cell or cell.upper() in ("N/A", "TBD", "-"):
+                continue
+            for label, mm, dd in _DATE_RE.findall(cell):
+                try:
+                    month, day = int(mm), int(dd)
+                    year = _infer_year(month, season, term_year)
+                    d = date(year, month, day)
+                except ValueError:
+                    continue
+                if d < past_cutoff or d > horizon:
+                    continue
+                term_tag = f"{season.capitalize()} {term_year}"
+                title = desc if len(desc) <= 90 else desc[:88].rstrip() + "…"
+                if label:
+                    title = f"{title} ({label.strip()})"
+                uid = "blink-" + hashlib.md5(
+                    f"{desc}|{term_tag}|{d}|{label}".encode()).hexdigest()[:16] \
+                    + "@ucsd-grad-calendar"
+                events.append(Event(
+                    uid=uid,
+                    summary=title,
+                    start=d, end=None, all_day=True,
+                    source=src["name"], color=src.get("color", "#455a64"),
+                    location="", url=url,
+                    description=f"{desc}\nTerm: {term_tag}",
+                ))
+    return events
 
 
 # --------------------------------------------------------------------------- #
@@ -404,7 +531,11 @@ TEMPLATE = """<!doctype html>
 # --------------------------------------------------------------------------- #
 #  Main                                                                        #
 # --------------------------------------------------------------------------- #
-FETCHERS = {"localist": fetch_localist, "gcal_ics": fetch_gcal_ics}
+FETCHERS = {
+    "localist": fetch_localist,
+    "gcal_ics": fetch_gcal_ics,
+    "blink_table": fetch_blink_table,
+}
 
 
 def main() -> int:

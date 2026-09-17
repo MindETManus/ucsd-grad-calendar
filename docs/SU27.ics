@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UCSD Grad Life Calendar//EN
+METHOD:PUBLISH
+X-WR-CALNAME:UCSD Grad Life Calendar — SU27
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+SUMMARY:Deadline for academic advising offices to submit degree audits to 
+ Registrar
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260917T050413Z
+UID:blink-77354f17e1e925f0@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for academic advising offices to submit degree audits
+  to Registrar\nTerm: Spring 2027\n\nSource: Enrollment (Booking)\n\nhttps:
+ //blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+END:VCALENDAR

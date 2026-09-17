@@ -5,192 +5,25 @@ METHOD:PUBLISH
 X-WR-CALNAME:UCSD Grad Life Calendar
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Share Your Story as an International Student
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-DTSTAMP:20260829T160929Z
-UID:localist-50419645911000-50419646009357@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:iSTUDENTS: The Center for Race\, Immigration\, Citizenship\, a
- nd Equality (RICE) at UC Law San Francisco is conducting a research study 
- on international student experiences in the U.S. If you are on an F\, M\, 
- J visa\, or OPT status\, you’re invited to participate in a short survey
-  and a 45-minute interview (in person or via Zoom).\n\nYour voice matters
- —help us understand how immigration status shapes your sense of belongin
- g across race\, language\, culture\, and life goals.\n\n✅ Flexible sched
- uling\n🎁 $20 gift card upon interview completion\n🔒 Confidential and
-  IRB-approved\n\nTo participate\, email…\n\nSource: ISEO (iEvents)\n\nht
- tps://calendar.ucsd.edu/event/share-your-story-as-an-international-student
-URL:https://calendar.ucsd.edu/event/share-your-story-as-an-international-s
- tudent
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wednesday Crafts and Chats
-DTSTART:20260902T170000Z
-DTEND:20260902T190000Z
-DTSTAMP:20260829T160929Z
-UID:localist-50410245791545-50419707768854@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:iScholars & iStudents: Wednesday Coffee and Crafts is an infor
- mal\, social gathering that provides attendees an opportunity to meet peop
- le\, make friends\, and practice English with local volunteers and fellow 
- international community members. Wednesday Coffee and crafts is an excelle
- nt resource for all of your questions as you adjust to your new surroundin
- gs.\n\nAttendees have the option of participating in a volunteer-led plann
- ed activity (often a craft) while chatting. While we love children\, we ar
- e unable to accommodate young children at this event. This will be an adul
- ts-only gathering.\n\nNO…\n\nSource: ISEO (iEvents)\n\nhttps://calendar.
- ucsd.edu/event/wednesday-coffee-and-chats
-LOCATION:La Jolla Community Room
-URL:https://calendar.ucsd.edu/event/wednesday-coffee-and-chats
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Chat
-DTSTART:20260904T170000Z
-DTEND:20260904T190000Z
-DTSTAMP:20260829T160929Z
-UID:localist-50701474058047-50701474136947@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:iScholars & iStudents: Please join us on Friday mornings for a
-  fun "chat" where you can practice your English conversational skills with
-  local volunteers and get to know new friends from UCSD’s international 
- community. While we love children\, we are unable to accommodate children 
- at this event. This will be an adults-only gathering.\n\nNo need to pre-re
- gister. Simply show up to a meeting and you will be added to our email lis
- t.When: Every Friday from 10:00 am until 12:00 pm (except for school holid
- ays)Where: The La Jolla Community Room at La Jolla Village Square (downsta
- irs and just to the…\n\nSource: ISEO (iEvents)\n\nhttps://calendar.ucsd.
- edu/event/friday-chat
-LOCATION:8657 Villa La Jolla Dr\, La Jolla\, CA 92037
-URL:https://calendar.ucsd.edu/event/friday-chat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labor Day Holiday
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DTSTAMP:20260829T160929Z
-UID:gcal-9098fdd10e95c1ee@ucsd-grad-calendar
-CATEGORIES:Bioengineering
-DESCRIPTION:Source: Bioengineering
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual: "Meet ISEO & Know the Rules"
-DTSTART:20260914T160000Z
-DTEND:20260914T170000Z
-DTSTAMP:20260829T160929Z
-UID:localist-53774683275844-53774683275845@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:Welcome to UC San Diego! Join the International Services and E
- ngagement Office (ISEO) for an introduction to our office and how we can h
- elp serve you during your time here an international student. We will also
-  review some of the important pieces of information you've learned in your
-  iTriton Online Orientation Course in order to help you maintain your F-1 
- or J-1 status in the United States. \n\nRegistration link: https://ucsd.zo
- om.us/webinar/register/WN_W_1LC-vGQbmtqNSCM81kYA\n\nSource: ISEO (iEvents)
- \n\nhttps://calendar.ucsd.edu/event/virtual-meet-iseo-know-the-rules
-URL:https://calendar.ucsd.edu/event/virtual-meet-iseo-know-the-rules
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual: "Maintaining Your Legal Status: Understanding the End of 
- Duration of Status"
-DTSTART:20260914T170000Z
-DTEND:20260914T180000Z
-DTSTAMP:20260829T160929Z
-UID:localist-53774721648805-53774721648806@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:Confused about what "Duration of Status" and "Fixed Admission"
-  actually means for your time as an F-1 or J-1 international student at UC
- SD? Join us for this critical informational session designed to help you n
- avigate the complexities of visa maintenance after Duration of Status ends
-  on September 15. This session will provide a clear overview of the new ru
- le ending Duration of Status and the essential steps you must take to rema
- in in legal standing.\n\nRegistration link: https://ucsd.zoom.us/webinar/r
- egister/WN_tcIc1fJiRSyt80ahBzvaDA#/registration\n\nSource: ISEO (iEvents)
- \n\nhttps://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-
- understanding-the-end-of-duration-of-status
-URL:https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-
- understanding-the-end-of-duration-of-status
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:International Student Fan Fest
-DTSTART:20260914T200000Z
-DTEND:20260914T210000Z
-DTSTAMP:20260829T160929Z
-UID:localist-53763380082040-53763380082041@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:Ready to show your Triton Spirit? Come play fun games\, win pr
- izes in our raffle\, mingle with international scholar athletes\, and lear
- n about soccer from the UCSD soccer team and coaches! The Fan Fest starts 
- at 1:00 pm before the start of the soccer game at 2 pm\, so come have fun 
- and get ready to cheer your Tritons on strong!\n\nSource: ISEO (iEvents)\n
- \nhttps://calendar.ucsd.edu/event/international-student-fan-fest-7984
-LOCATION:RIMAC Arena
-URL:https://calendar.ucsd.edu/event/international-student-fan-fest-7984
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mommy/Daddy and Me
-DTSTART:20260914T220000Z
-DTEND:20260914T230000Z
-DTSTAMP:20260829T160929Z
-UID:localist-53470606851954-53470606851955@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:iCOMMUNITY We are excited to welcome you and your little ones 
- to a nurturing community space. While most families attending have childre
- n aged 0-7\, families of all ages are invited. We hope this space helps yo
- u connect with other parents\, as it truly takes a village to help our chi
- ldren thrive. We will have picnic blankets\, snacks\, games\, and music du
- ring this fun-filled session!\n\nMDM is hosted every first Monday of the m
- onth (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather 
- at the beautiful Doyle Park near UC San Diego! You can find us sitting on 
- picnic blankets next to the…\n\nSource: ISEO (iEvents)\n\nhttps://calend
- ar.ucsd.edu/event/mommydaddy-and-me-6545
-LOCATION:Doyle Park
-URL:https://calendar.ucsd.edu/event/mommydaddy-and-me-6545
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual: "Meet ISEO & Know the Rules"
-DTSTART:20260914T220000Z
-DTEND:20260914T230000Z
-DTSTAMP:20260829T160929Z
-UID:localist-53774741060527-53774741061552@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:Welcome to UC San Diego! Join the International Services and E
- ngagement Office (ISEO) for an introduction to our office and how we can h
- elp serve you during your time here an international student. We will also
-  review some of the important pieces of information you've learned in your
-  iTriton Online Orientation Course in order to help you maintain your F-1 
- or J-1 status in the United States.\n\nRegistration Link: https://ucsd.zoo
- m.us/webinar/register/WN_5qodLOZ_SZmfmKxhdX4ckw#/registration\n\nSource: I
- SEO (iEvents)\n\nhttps://calendar.ucsd.edu/event/virtual-meet-iseo-know-th
- e-rules-1548
-URL:https://calendar.ucsd.edu/event/virtual-meet-iseo-know-the-rules-1548
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual: "Maintaining Your Legal Status: Understanding the End of 
- Duration of Status"
-DTSTART:20260915T210000Z
-DTEND:20260915T220000Z
-DTSTAMP:20260829T160929Z
-UID:localist-53774814519191-53774814520216@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:Confused about what "Duration of Status" and "Fixed Admission"
-  actually means for your time as an F-1 or J-1 international student at UC
- SD? Join us for this critical informational session designed to help you n
- avigate the complexities of visa maintenance after Duration of Status ends
-  on September 15. This session will provide a clear overview of the new ru
- le ending Duration of Status and the essential steps you must take to rema
- in in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/r
- egister/WN_b6DMQ30PTV2HB2u5oswdxg#/registration\n\nSource: ISEO (iEvents)
- \n\nhttps://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-
- understanding-the-end-of-duration-of-status-6732
-URL:https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-
- understanding-the-end-of-duration-of-status-6732
+SUMMARY:Late health insurance fee waiver deadline (no waivers will be acce
+ pted beyond this date)
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+DTSTAMP:20260917T050413Z
+UID:blink-79b936b60e7e1b41@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Late health insurance fee waiver deadline (no waivers will be 
+ accepted beyond this date)\nTerm: Fall 2026\n\nSource: Enrollment (Booking
+ )\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.
+ html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Triton Weeks of Welcome | Campus
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-10686eebbc4593c1@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a target="_blank" href="https://twow.ucsd.edu/"><u><b>Triton 
@@ -202,10 +35,30 @@ DESCRIPTION:<a target="_blank" href="https://twow.ucsd.edu/"><u><b>Triton
  rst day of Fall quarter classes.</li>\n\nSource: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New International Student Airport Pick-Ups!
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20260917T050413Z
+UID:localist-53518095108060-53861706797454@ucsd-grad-calendar
+CATEGORIES:ISEO (iEvents)
+DESCRIPTION:If you are a new international student coming to UCSD\, start 
+ finding your community via a free pickup from San Diego airport (SAN)! Ple
+ ase request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best a
+ rrange pickups\, but requesting a pickup is not a guarantee of pickup. Sub
+ mit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVT
+ F8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed Univ
+ ersity Fellowship International (RUF-I) at UCSD\, a registered student org
+ anization at UCSD. We partner with community volunteers to provide this fr
+ ee service to new…\n\nSource: ISEO (iEvents)\n\nhttps://calendar.ucsd.ed
+ u/event/new-international-student-airport-pick-ups
+URL:https://calendar.ucsd.edu/event/new-international-student-airport-pick
+ -ups
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Virtual: "Meet ISEO & Know the Rules"
 DTSTART:20260916T160000Z
 DTEND:20260916T170000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53774872502830-53774872503855@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Welcome to UC San Diego! Join the International Services and E
@@ -224,7 +77,7 @@ SUMMARY:Virtual: "Maintaining Your Legal Status: Understanding the End of
  Duration of Status"
 DTSTART:20260916T190000Z
 DTEND:20260916T200000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53774887633834-53774887634859@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Confused about what "Duration of Status" and "Fixed Admission"
@@ -241,10 +94,28 @@ URL:https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-
  understanding-the-end-of-duration-of-status-8785
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grad Thrive
+DTSTART:20260916T200000Z
+DTEND:20260916T230000Z
+DTSTAMP:20260917T050413Z
+UID:localist-53756431618856-53756431618857@ucsd-grad-calendar
+CATEGORIES:GEPA (Grad Ed & Postdoc)
+DESCRIPTION:New graduate students\, kick off your UC San Diego journey wit
+ h Grad Thrive!\n\nThis is your ultimate welcome experience at UC San Diego
+ \, designed to plug you into the resources\, networks\, and community you 
+ need to truly succeed. Dive into essential campus tools\, connect with vib
+ rant graduate student organizations\, and meet your future collaborators a
+ nd friends in a relaxed\, casual setting. Want the inside scoop on campus?
+  Sign up for a guided tour led by current graduate students!\n\nSource: GE
+ PA (Grad Ed & Postdoc)\n\nhttps://calendar.ucsd.edu/event/grad-thrive
+LOCATION:Price Center
+URL:https://calendar.ucsd.edu/event/grad-thrive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Virtual: "Working in the U.S."
 DTSTART:20260916T220000Z
 DTEND:20260916T230000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53774909916906-53774909916907@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Join the International Services and Engagement Office (ISEO) t
@@ -261,7 +132,7 @@ SUMMARY:Virtual: "Maintaining Your Legal Status: Understanding the End of
  Duration of Status"
 DTSTART:20260917T220000Z
 DTEND:20260917T230000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53774920675935-53774920675936@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Confused about what "Duration of Status" and "Fixed Admission"
@@ -278,11 +149,27 @@ URL:https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-
  understanding-the-end-of-duration-of-status-7345
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline for students not attending (who are receiving financial a
+ id\, full-fee waivers o…
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260917T050413Z
+UID:blink-1d3ba73f7ff346f9@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for students not attending (who are receiving financi
+ al aid\, full-fee waivers or graduate fellowships/scholarships) to notify 
+ university that they will not attend. See the schedule of refunds for more
+  information.\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n\nhttps://
+ blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Virtual: "Maintaining Your Legal Status: Understanding the End of 
  Duration of Status"
 DTSTART:20260918T160000Z
 DTEND:20260918T170000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53774930344351-53774930344352@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Confused about what "Duration of Status" and "Fixed Admission"
@@ -302,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Virtual: "Working in the U.S."
 DTSTART:20260918T190000Z
 DTEND:20260918T200000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53774945820914-53774945821939@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Join the International Services and Engagement Office (ISEO) t
@@ -315,10 +202,28 @@ DESCRIPTION:Join the International Services and Engagement Office (ISEO) t
 URL:https://calendar.ucsd.edu/event/virtual-working-in-the-us-8293
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ISMP Welcome Night & Info Session
+DTSTART:20260919T010000Z
+DTEND:20260919T030000Z
+DTSTAMP:20260917T050413Z
+UID:localist-53861694727927-53861694727928@ucsd-grad-calendar
+CATEGORIES:ISEO (iEvents)
+DESCRIPTION:Learn more about ISMP's 1:1 mentorship opportunities and see i
+ f mentorship is a right fit for you! Have the chance to meet many experien
+ ced mentors and alumni who offer professional and life guidance to help in
+ ternational students succeed.\n\nOur mentorship topics include:\n\n- Engli
+ sh conversation coaching\n- Interpersonal skills\n- Resume & interviews ti
+ ps\n- And more!\n\nStudents will have the opportunity to get paired with m
+ entors at this session!\n\nSource: ISEO (iEvents)\n\nhttps://calendar.ucsd
+ .edu/event/ismp-welcome-night-info-session
+LOCATION:Jacobs Hall
+URL:https://calendar.ucsd.edu/event/ismp-welcome-night-info-session
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Craft Event
 DTSTART:20260919T173000Z
 DTEND:20260919T190000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53470750658034-53470750659059@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Spend some time with ISEO and other members of the
@@ -330,10 +235,23 @@ LOCATION:Craft Center
 URL:https://calendar.ucsd.edu/event/craft-event-7052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Quarter begins
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260917T050413Z
+UID:blink-c4625ee7b9091a92@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Quarter begins\nTerm: Fall 2026\n\nSource: Enrollment (Booking
+ )\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.
+ html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20260921T170000Z
 DTEND:20260921T183000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53444277124889-53444277125914@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -350,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Career Center Open House
 DTSTART:20260922T180000Z
 DTEND:20260922T210000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53692324530643-53692324530644@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Music. Activities. Giveaways.\n\nCome out and kick off the new
@@ -367,10 +285,23 @@ LOCATION:Career Services Center
 URL:https://calendar.ucsd.edu/event/career-center-open-house-1021
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Registration fee payment deadline
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DTSTAMP:20260917T050413Z
+UID:blink-e3e2a2bc1486e081@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Registration fee payment deadline\nTerm: Fall 2026\n\nSource: 
+ Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollm
+ ent/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20260923T170000Z
 DTEND:20260923T183000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53444277124889-53444277125915@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -387,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Resume Review Lab
 DTSTART:20260923T180000Z
 DTEND:20260923T200000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53692391950324-53692391951349@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Roll up your sleeves and get your resume ready for success! Th
@@ -403,25 +334,55 @@ BEGIN:VEVENT
 SUMMARY:Engineering Resource Fair | Jacobs School
 DTSTART:20260923T200000Z
 DTEND:20260923T220000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-29c4b0c810255771@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ISMP Mentorship Kick-Off & Workshop #1: How to Connect w/ American
+  Classmates & Professors
+DTSTART:20260924T010000Z
+DTEND:20260924T030000Z
+DTSTAMP:20260917T050413Z
+UID:localist-53861715289233-53873539071855@ucsd-grad-calendar
+CATEGORIES:ISEO (iEvents)
+DESCRIPTION:Learn how communication\, networking\, and relationship-buildi
+ ng work in U.S. universities. This session offers practical guidance for c
+ onnecting confidently with classmates\, colleagues\, and professors.\n\nSo
+ urce: ISEO (iEvents)\n\nhttps://calendar.ucsd.edu/event/ismp-mentorship-ki
+ ck-off-workshop-1-how-to-connect-w-american-classmates-professors
+LOCATION:Design and Innovation Building
+URL:https://calendar.ucsd.edu/event/ismp-mentorship-kick-off-workshop-1-ho
+ w-to-connect-w-american-classmates-professors
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Instruction Begins | Fall Quarter
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-198222b3dd1edd49@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:First day of classes
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+DTSTAMP:20260917T050413Z
+UID:blink-c1df0c157df03b08@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:First day of classes\nTerm: Fall 2026\n\nSource: Enrollment (B
+ ooking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars
+ /2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Resume Review Lab
 DTSTART:20260924T180000Z
 DTEND:20260924T200000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53692833076866-53692833076867@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Roll up your sleeves and get your resume ready for success! Th
@@ -434,26 +395,10 @@ LOCATION:Career Services Center
 URL:https://calendar.ucsd.edu/event/resume-review-lab-5150
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Game Night
-DTSTART:20260925T000000Z
-DTEND:20260925T013000Z
-DTSTAMP:20260829T160929Z
-UID:localist-53470687838790-53470687838791@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:iCOMMUNITY: Get to know other international scholars\, student
- s\, and families at Triton Center! Meet new people while playing classic b
- oard games. ISEO will provide the board games and snacks. Feel free to bri
- ng friends and family!\n\nSource: ISEO (iEvents)\n\nhttps://calendar.ucsd.
- edu/event/game-night-2562
-LOCATION:Triton Administrative Services Building\, East Tower\, Multipurpo
- se Room 1230
-URL:https://calendar.ucsd.edu/event/game-night-2562
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20260925T170000Z
 DTEND:20260925T183000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53444277124889-53444277126940@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -467,19 +412,10 @@ LOCATION:Triton Administrative Services Building\, East Tower\, Multipurpo
 URL:https://calendar.ucsd.edu/event/global-coffee-hour-7503
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BENG 281 | Seminar in Bioengineering
-DTSTART:20260925T210000Z
-DTEND:20260925T220000Z
-DTSTAMP:20260829T160929Z
-UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
-CATEGORIES:Bioengineering
-DESCRIPTION:Source: Bioengineering
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Lingyan Shi\, Ph.D.
 DTSTART:20260925T210000Z
 DTEND:20260925T220000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b>
@@ -491,10 +427,34 @@ DESCRIPTION:2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b>
  alifornia\, San Diego\n\nSource: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BENG 281 | Seminar in Bioengineering
+DTSTART:20260925T210000Z
+DTEND:20260925T220000Z
+DTSTAMP:20260917T050413Z
+UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:Source: Bioengineering
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late registration fee payment deadline (to avoid being dropped fro
+ m booking classes or w…
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260917T050413Z
+UID:blink-37ecac0d4977ba14@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Late registration fee payment deadline (to avoid being dropped
+  from booking classes or wait listed courses)\nTerm: Fall 2026\n\nSource: 
+ Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollm
+ ent/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Resume Review Lab
 DTSTART:20260929T180000Z
 DTEND:20260929T200000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53692842887105-53692842887106@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Roll up your sleeves and get your resume ready for success! Th
@@ -507,10 +467,23 @@ LOCATION:Career Services Center
 URL:https://calendar.ucsd.edu/event/resume-review-lab-6728
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Registration fee payment deadline
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260917T050413Z
+UID:blink-0ccb1d2ed713b4e5@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Registration fee payment deadline\nTerm: Fall 2026\n\nSource: 
+ Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollm
+ ent/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Fair Prep Drop-Ins: Strategy Sessions and Quick Questions
 DTSTART:20260930T170000Z
 DTEND:20260930T220000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53693546275661-53693546276686@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Have questions about the career fairs? Drop by anytime during 
@@ -529,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:Resume Review Lab
 DTSTART:20261001T180000Z
 DTEND:20261001T200000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53692889222829-53692889223854@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Roll up your sleeves and get your resume ready for success! Th
@@ -542,10 +515,77 @@ LOCATION:Career Services Center
 URL:https://calendar.ucsd.edu/event/resume-review-lab-2435
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ISMP Mentorship  Workshop #2:  Connecting with Americans: Work Cul
+ ture & Academia
+DTSTART:20261002T010000Z
+DTEND:20261002T030000Z
+DTSTAMP:20260917T050413Z
+UID:localist-53861737661926-53873568558654@ucsd-grad-calendar
+CATEGORIES:ISEO (iEvents)
+DESCRIPTION:Learn how communication\, networking\, and relationship-buildi
+ ng work in American workplaces and academia. This session offers practical
+  guidance for connecting confidently with classmates\, colleagues\, and pr
+ ofessors.\n\nSource: ISEO (iEvents)\n\nhttps://calendar.ucsd.edu/event/ism
+ p-mentorship-workshop-2-connecting-with-americans-work-culture-academia
+LOCATION:Design & Innovations Building
+URL:https://calendar.ucsd.edu/event/ismp-mentorship-workshop-2-connecting-
+ with-americans-work-culture-academia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISMP Okonomiyaki Night
+DTSTART:20261002T013000Z
+DTEND:20261002T023000Z
+DTSTAMP:20260917T050413Z
+UID:localist-53781562912916-53781562912917@ucsd-grad-calendar
+CATEGORIES:ISEO (iEvents)
+DESCRIPTION:International Student Mentorship Program (ISMP) is a nonprofit
+  organization aiming to provide support and community for international st
+ udents before\, during\, and after their time studying in America! ISMP is
+  made up of a network of volunteer mentors across various locations in the
+  United States and Asia. You can learn more at https://www.internationalme
+ ntorship.org/\n\n\nThis year\, ISMP San Diego is starting a Japan-America 
+ international connection group! Our volunteer mentors include UC San Diego
+ \, UC Berkeley\, and UC Davis graduates - and some of us recently returned
+  from a year of…\n\nSource: ISEO (iEvents)\n\nhttps://calendar.ucsd.edu/
+ event/ismp-dinner-in-an-american-home-3306
+LOCATION:Host Home Near Campus (Rides from Price Center Loop)
+URL:https://calendar.ucsd.edu/event/ismp-dinner-in-an-american-home-3306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BENG 281 | Seminar in Bioengineering | Kelly Kersten\, Ph.D.
+DTSTART:20261002T210000Z
+DTEND:20261002T220000Z
+DTSTAMP:20260917T050413Z
+UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/decoding-macrophage-
+ t-cell-interactions-overcome-resistance-cancer-immunotherapy">Decoding mac
+ rophage – T cell interactions to overcome resistance to cancer immunothe
+ rapy</a><br>Kelly Kersten\, Ph.D.<br><i>Assistant Professor<br>Cancer Meta
+ bolism and Microenvironment Program at the NCI-designated Cancer Center<br
+ >Sanford Burnham Prebys Medical Discovery Institute (SBP)</i>\n\nSource: B
+ ioengineering
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late registration fee payment deadline (to avoid being dropped fro
+ m booking classes or w…
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20260917T050413Z
+UID:blink-bd5970b5aa2c21cc@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Late registration fee payment deadline (to avoid being dropped
+  from booking classes or wait listed courses)\nTerm: Fall 2026\n\nSource: 
+ Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollm
+ ent/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mommy/Daddy and Me
 DTSTART:20261005T220000Z
 DTEND:20261005T230000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53470606851954-53470606852980@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY We are excited to welcome you and your little ones 
@@ -565,7 +605,7 @@ BEGIN:VEVENT
 SUMMARY:Resume Review Lab
 DTSTART:20261006T180000Z
 DTEND:20261006T200000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53692900628052-53692900629077@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Roll up your sleeves and get your resume ready for success! Th
@@ -578,10 +618,28 @@ LOCATION:Career Services Center
 URL:https://calendar.ucsd.edu/event/resume-review-lab-8436
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UC San Diego Alumni Biotech Mixer
+DTSTART:20261007T000000Z
+DTEND:20261007T020000Z
+DTSTAMP:20260917T050413Z
+UID:gcal-4fed529b5add2078@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:<a href="https://calendar.ucsd.edu/event/biotech-mixer" target
+ ="_blank"><u><u>REGISTER TO ATTEND BIOTECH MIXER</u></u></a><br><br>Join f
+ ellow Triton alumni and biotech professionals for a Biotech Mixer celebrat
+ ing the UC San Diego community and building connections across San Diego's
+  thriving life sciences industry. <br><br>Meet alumni from across UC San 
+ Diego\, connect with professionals working in biotech\, and expand your ne
+ twork\, all while enjoying a bite in a relaxed and welcoming setting. Alum
+ ni from all UC San Diego departments and everyone working the biotech indu
+ stry are welcome!\n\nSource: Bioengineering
+LOCATION:Duck Foot Brewing
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall 2026 Career Fair
 DTSTART:20261007T190000Z
 DTEND:20261007T230000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53127945276131-53127945276132@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Please join us on Wednesday\, October 7th\, from 12:00 pm - 4:
@@ -598,10 +656,93 @@ LOCATION:LionTree Arena
 URL:https://calendar.ucsd.edu/event/fall-2026-career-fair
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline to apply to Return to UCSD (undergraduate students)
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260917T050413Z
+UID:blink-c65459a49254e7da@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to apply to Return to UCSD (undergraduate students)\n
+ Term: Winter 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.ed
+ u/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatic wait lists officially end
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260917T050413Z
+UID:blink-b87a8a6c0100a03a@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Automatic wait lists officially end\nTerm: Fall 2026\n\nSource
+ : Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrol
+ lment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for all students to add or re-booking in classes if cance
+ led for non-payment vi…
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260917T050413Z
+UID:blink-f07415be2bb2a7b5@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for all students to add or re-booking in classes if c
+ anceled for non-payment via WebReg (undergraduate and graduate students) T
+ he financial aid freeze date is applied\, and this is also the deadline fo
+ r students to Commence Academic Activity\, an aid requirement\nTerm: Fall 
+ 2026\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors
+ /courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for undergraduate students to apply for part-time status
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260917T050413Z
+UID:blink-cd6e6c0aabc673d7@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for undergraduate students to apply for part-time sta
+ tus\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd
+ .edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Graduate students to file for leave of absence\, in a
+ bsentia or to apply for…
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260917T050413Z
+UID:blink-7cfa3a056d8dd3ab@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Graduate students to file for leave of absence\, 
+ in absentia or to apply for half-time study for current quarter\nTerm: Fal
+ l 2026\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructo
+ rs/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BENG 281 | Seminar in Bioengineering | Hongbo Zhao\, Ph.D.
+DTSTART:20261009T210000Z
+DTEND:20261009T220000Z
+DTSTAMP:20260917T050413Z
+UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
+CATEGORIES:Bioengineering
+DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/presentation-be-anno
+ unced">Presentation to be announced</a><br>Hongbo Zhao Ph.D.<br><i>Assista
+ nt Professor<br>Department of Physics and Chemistry<br>University of Calif
+ ornia\, San Diego</i>\n\nSource: Bioengineering
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20261014T150000Z
 DTEND:20261014T163000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53444457733271-53444457733272@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -618,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:LinkedIn & Networking
 DTSTART:20261014T200000Z
 DTEND:20261014T210000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53692962197170-53692962197171@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:In this workshop\, students will discover how to build a stron
@@ -633,10 +774,39 @@ LOCATION:Career Services Center
 URL:https://calendar.ucsd.edu/event/linkedin-networking-5376
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ISMP Connect: Speed-Friending & How to Ask Great Questions
+DTSTART:20261016T010000Z
+DTEND:20261016T030000Z
+DTSTAMP:20260917T050413Z
+UID:localist-53861757015892-53873621896316@ucsd-grad-calendar
+CATEGORIES:ISEO (iEvents)
+DESCRIPTION:Learn how to connect meaningfully with people through asking g
+ reat questions. This session provides a space for you to practice talking 
+ with ISMP mentors and students in a comfortable\, fun setting.\n\nSource: 
+ ISEO (iEvents)\n\nhttps://calendar.ucsd.edu/event/ismp-connect-series-part
+ -1-speed-friending-how-to-ask-great-questions
+LOCATION:Design and Innovation Building
+URL:https://calendar.ucsd.edu/event/ismp-connect-series-part-1-speed-frien
+ ding-how-to-ask-great-questions
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to file for Advancement to Candidacy for Master's degrees
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260917T050413Z
+UID:blink-e3ac991dd7ab4091@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to file for Advancement to Candidacy for Master's deg
+ rees\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucs
+ d.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Laurel Hind\, Ph.D.
 DTSTART:20261016T210000Z
 DTEND:20261016T220000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/inflammation-chip-re
@@ -649,7 +819,7 @@ BEGIN:VEVENT
 SUMMARY:Experience Engineering | JSOE
 DTSTART:20261017T173000Z
 DTEND:20261017T193000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-d94ca7e85541f326@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<b>What is Experience Engineering? </b><br>Experience Enginee
@@ -666,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:Resume and Cover Letter Workshop
 DTSTART:20261021T200000Z
 DTEND:20261021T210000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53693218134128-53693218134129@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:A workshop on how to construct and improve resumes and cover l
@@ -680,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:Internship/Job & Career Search Strategies
 DTSTART:20261023T000000Z
 DTEND:20261023T010000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53693248431374-53693248431375@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Cover effective strategies to explore industries\, find positi
@@ -693,10 +863,25 @@ URL:https://calendar.ucsd.edu/event/internshipjob-career-search-strategies
  -1863
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline for all students to drop (individual courses) or withdraw
+  (from all courses) wi…
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260917T050413Z
+UID:blink-73a1ba9cac361201@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for all students to drop (individual courses) or with
+ draw (from all courses) without "W" grade on transcript (undergraduate and
+  graduate students)\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n\nht
+ tps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Craft Event
 DTSTART:20261024T173000Z
 DTEND:20261024T190000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53470750658034-53753955944035@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Spend some time with ISEO and other members of the
@@ -711,7 +896,7 @@ BEGIN:VEVENT
 SUMMARY:Interviewing Tips & Tricks
 DTSTART:20261028T200000Z
 DTEND:20261028T210000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53693260645628-53693260646653@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Make a successful impression by learning different types of in
@@ -722,35 +907,32 @@ LOCATION:Career Services Center
 URL:https://calendar.ucsd.edu/event/interviewing-tips-tricks
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Game Night
-DTSTART:20261030T000000Z
-DTEND:20261030T013000Z
-DTSTAMP:20260829T160929Z
-UID:localist-53470687838790-53470687839816@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:iCOMMUNITY: Get to know other international scholars\, student
- s\, and families at Triton Center! Meet new people while playing classic b
- oard games. ISEO will provide the board games and snacks. Feel free to bri
- ng friends and family!\n\nSource: ISEO (iEvents)\n\nhttps://calendar.ucsd.
- edu/event/game-night-2562
-LOCATION:Triton Administrative Services Building\, East Tower\, Multipurpo
- se Room 1230
-URL:https://calendar.ucsd.edu/event/game-night-2562
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Narayan Bhattarai\, Ph.D.
 DTSTART:20261030T210000Z
 DTEND:20261030T220000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline to apply to Return to UCSD (undergraduate students)
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20260917T050413Z
+UID:blink-d5923f659c07569a@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to apply to Return to UCSD (undergraduate students)\n
+ Term: Winter 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.ed
+ u/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mommy/Daddy and Me
 DTSTART:20261102T230000Z
 DTEND:20261103T000000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53470606851954-53470606854005@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY We are excited to welcome you and your little ones 
@@ -770,7 +952,7 @@ BEGIN:VEVENT
 SUMMARY:Fall 2026 Business\, Law\, and Non-STEM Graduate School Fair
 DTSTART:20261104T180000Z
 DTEND:20261104T220000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53128000807058-53128000807059@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Explore Your Future at the UC San Diego 2026 Business\, Law\, 
@@ -792,7 +974,7 @@ BEGIN:VEVENT
 SUMMARY:Internship/Job & Career Search Strategies
 DTSTART:20261104T210000Z
 DTEND:20261104T220000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53693269256294-53693269257319@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Don’t let your career search feel like wandering through a c
@@ -808,7 +990,7 @@ BEGIN:VEVENT
 SUMMARY:Fall 2026 Health\, Medical Science\, and STEM Graduate School Fair
 DTSTART:20261105T180000Z
 DTEND:20261105T220000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53128057316370-53128057317395@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Explore Your Future at the UC San Diego Fall 2026 Health\, Med
@@ -830,7 +1012,7 @@ BEGIN:VEVENT
 SUMMARY:FA26 Graduate & Professional Student Hours
 DTSTART:20261105T230000Z
 DTEND:20261106T001500Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53321388990357-53321419394550@ucsd-grad-calendar
 CATEGORIES:GEPA (Grad Ed & Postdoc)
 DESCRIPTION:This is the Fall 2026 session that offers graduate and profess
@@ -846,7 +1028,7 @@ BEGIN:VEVENT
 SUMMARY:Resume & Cover Letter
 DTSTART:20261106T010000Z
 DTEND:20261106T020000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53693316195888-53693316195889@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Just like the perfect pumpkin spice latte\, your application m
@@ -857,10 +1039,53 @@ DESCRIPTION:Just like the perfect pumpkin spice latte\, your application m
 URL:https://calendar.ucsd.edu/event/resume-cover-letter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline for Undergraduate students to change units
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20260917T050413Z
+UID:blink-764fad4a3aaef606@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Undergraduate students to change units\nTerm: Fal
+ l 2026\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructo
+ rs/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for all students to change grading option (undergraduate 
+ and graduate students)
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20260917T050413Z
+UID:blink-68ce45c999cc6048@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for all students to change grading option (undergradu
+ ate and graduate students)\nTerm: Fall 2026\n\nSource: Enrollment (Booking
+ )\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.
+ html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Undergraduate students to drop (individual courses) o
+ r withdraw (from all c…
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20260917T050413Z
+UID:blink-cdb53c220fbc3a06@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Undergraduate students to drop (individual course
+ s) or withdraw (from all courses) with "W" grade on transcript\nTerm: Fall
+  2026\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructor
+ s/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Pallav Kosuri\, Ph.D.
 DTSTART:20261106T220000Z
 DTEND:20261106T230000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -869,7 +1094,7 @@ BEGIN:VEVENT
 SUMMARY:Veterans Day Holiday
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-8bf84ee079483898@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -878,7 +1103,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Jun Chen\, Ph.D.
 DTSTART:20261113T220000Z
 DTEND:20261113T230000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/discovering-magnetoe
@@ -891,7 +1116,7 @@ BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20261118T160000Z
 DTEND:20261118T173000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53444457733271-53444610233958@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -908,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Mireille Kamariza\, Ph.D.
 DTSTART:20261120T220000Z
 DTEND:20261120T230000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/engineering-programm
@@ -921,7 +1146,7 @@ BEGIN:VEVENT
 SUMMARY:Craft Event
 DTSTART:20261121T183000Z
 DTEND:20261121T200000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53470750658034-53470750661109@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Spend some time with ISEO and other members of the
@@ -936,32 +1161,71 @@ BEGIN:VEVENT
 SUMMARY:Thanksgiving Holiday
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-11d475cd62bc7a0c@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Game Night
-DTSTART:20261204T010000Z
-DTEND:20261204T023000Z
-DTSTAMP:20260829T160929Z
-UID:localist-53470687838790-53470687839817@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:iCOMMUNITY: Get to know other international scholars\, student
- s\, and families at Triton Center! Meet new people while playing classic b
- oard games. ISEO will provide the board games and snacks. Feel free to bri
- ng friends and family!\n\nSource: ISEO (iEvents)\n\nhttps://calendar.ucsd.
- edu/event/game-night-2562
-LOCATION:Triton Administrative Services Building\, East Tower\, Multipurpo
- se Room 1230
-URL:https://calendar.ucsd.edu/event/game-night-2562
+SUMMARY:Deadline for Graduate students to drop (individual courses) or wit
+ hdraw (from all course…
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260917T050413Z
+UID:blink-6c73ee1826962f4f@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Graduate students to drop (individual courses) or
+  withdraw (from all courses) with "W" grade on Transcript\nTerm: Fall 2026
+ \n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/cou
+ rses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billing statement available on TritonPay. (eBill available continu
+ ing students)
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260917T050413Z
+UID:blink-f068c30ba813f992@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Billing statement available on TritonPay. (eBill available con
+ tinuing students)\nTerm: Winter 2027\n\nSource: Enrollment (Booking)\n\nht
+ tps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Graduate students to change units
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260917T050413Z
+UID:blink-705dad595f63852c@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Graduate students to change units\nTerm: Fall 202
+ 6\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/co
+ urses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of classes before finals
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260917T050413Z
+UID:blink-6c0b19b0ff040418@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Last day of classes before finals\nTerm: Fall 2026\n\nSource: 
+ Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollm
+ ent/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Mia Huang\, Ph.D.
 DTSTART:20261204T220000Z
 DTEND:20261204T230000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<b><a href="https://be.ucsd.edu/seminar/2026/mapping-glycan-pr
@@ -975,16 +1239,29 @@ BEGIN:VEVENT
 SUMMARY:Final Exams Begin
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-6cd91170b26c0ef6@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Finals week
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20260917T050413Z
+UID:blink-8c35fdcf729c979b@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Finals week\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n
+ \nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.htm
+ l
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Craft Event
 DTSTART:20261205T183000Z
 DTEND:20261205T200000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53470750658034-53470750662134@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Spend some time with ISEO and other members of the
@@ -999,7 +1276,7 @@ BEGIN:VEVENT
 SUMMARY:Mommy/Daddy and Me
 DTSTART:20261207T230000Z
 DTEND:20261208T000000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53470606851954-53470606855030@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY We are excited to welcome you and your little ones 
@@ -1019,7 +1296,7 @@ BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20261209T160000Z
 DTEND:20261209T173000Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53444457733271-53444457734297@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -1033,19 +1310,133 @@ LOCATION:Triton Administrative Services Building\, East Tower\, Multipurpo
 URL:https://calendar.ucsd.edu/event/global-coffee-hour-270
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline for students not attending (who are receiving financial a
+ id\, full-fee waivers o…
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260917T050413Z
+UID:blink-5a49d4dcfa537e9e@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for students not attending (who are receiving financi
+ al aid\, full-fee waivers or graduate fellowships/scholarships) to notify 
+ university that they will not attend. See the schedule of refunds for more
+  information.\nTerm: Winter 2027\n\nSource: Enrollment (Booking)\n\nhttps:
+ //blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for graduate programs to submit final degree forms to the
+  Division of Graduate…
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260917T050413Z
+UID:blink-476897e97c90a4b1@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for graduate programs to submit final degree forms to
+  the Division of Graduate Education & Postdoctoral Affairs (GEPA)\nTerm: F
+ all 2026\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instruc
+ tors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Final Exams End
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-234b3564dfdedeb9@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Finals week
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260917T050413Z
+UID:blink-fc97b91314788e77@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Finals week\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n
+ \nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.htm
+ l
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to file for "Removal of Grade Incomplete" from previous q
+ uarter
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260917T050413Z
+UID:blink-792f0deb1e7993bd@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to file for "Removal of Grade Incomplete" from previo
+ us quarter\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n\nhttps://bli
+ nk.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarter ends Undergraduate and graduate diplomas for this term wil
+ l be issued with this…
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260917T050413Z
+UID:blink-22698ae674ea8c61@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Quarter ends Undergraduate and graduate diplomas for this term
+  will be issued with this date\nTerm: Fall 2026\n\nSource: Enrollment (Boo
+ king)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2
+ 026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for mandatory health insurance waiver - all students
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DTSTAMP:20260917T050413Z
+UID:blink-a3efa77409f11270@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for mandatory health insurance waiver - all students
+ \nTerm: Winter 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.
+ edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to file for a Request to receive a grade of "Incomplete"
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DTSTAMP:20260917T050413Z
+UID:blink-8eaee76e13fd4006@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to file for a Request to receive a grade of "Incomple
+ te"\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd
+ .edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late health insurance fee waiver deadline (no waivers will be acce
+ pted beyond this date)
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DTSTAMP:20260917T050413Z
+UID:blink-4321e67c2bc9c4b9@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Late health insurance fee waiver deadline (no waivers will be 
+ accepted beyond this date)\nTerm: Winter 2027\n\nSource: Enrollment (Booki
+ ng)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/202
+ 6.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winter Break
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-047bc192a61ad9d0@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1054,7 +1445,7 @@ BEGIN:VEVENT
 SUMMARY:New Year's Holiday
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-90c51b5987208bea@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1063,25 +1454,124 @@ BEGIN:VEVENT
 SUMMARY:Instruction Begins | Winter Quarter
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-d1f67d039c6e3394@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Quarter begins
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+DTSTAMP:20260917T050413Z
+UID:blink-28c65a79afca2549@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Quarter begins\nTerm: Winter 2027\n\nSource: Enrollment (Booki
+ ng)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/202
+ 6.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of classes
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+DTSTAMP:20260917T050413Z
+UID:blink-0b42653a28692f61@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:First day of classes\nTerm: Winter 2027\n\nSource: Enrollment 
+ (Booking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calenda
+ rs/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for all students to add or re-booking in classes if cance
+ led for non-payment vi…
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260917T050413Z
+UID:blink-8a7a69621452c5bf@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for all students to add or re-booking in classes if c
+ anceled for non-payment via WebReg (undergraduate and graduate students) T
+ he financial aid freeze date is applied\, and this is also the deadline fo
+ r students to Commence Academic Activity\, an aid requirement\nTerm: Winte
+ r 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructo
+ rs/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for undergraduate students to apply for part-time status
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260917T050413Z
+UID:blink-0789c1dcc38913c5@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for undergraduate students to apply for part-time sta
+ tus\nTerm: Winter 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.uc
+ sd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Graduate students to file for leave of absence\, in a
+ bsentia or to apply for…
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260917T050413Z
+UID:blink-ab8ce57577c39d49@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Graduate students to file for leave of absence\, 
+ in absentia or to apply for half-time study for current quarter\nTerm: Win
+ ter 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instruc
+ tors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Martin Luther King\, Jr. Holiday
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-6026e11419f7b3bf@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline to file for Advancement to Candidacy for Master's degrees
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+DTSTAMP:20260917T050413Z
+UID:blink-cc49d96a06a430f1@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to file for Advancement to Candidacy for Master's deg
+ rees\nTerm: Winter 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.u
+ csd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for all students to drop (individual courses) or withdraw
+  (from all courses) wi…
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+DTSTAMP:20260917T050413Z
+UID:blink-07e3d1a55a3fef68@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for all students to drop (individual courses) or with
+ draw (from all courses) without "W" grade on transcript (undergraduate and
+  graduate students)\nTerm: Winter 2027\n\nSource: Enrollment (Booking)\n\n
+ https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WI27 Graduate & Professional Student Hours
 DTSTART:20270210T190000Z
 DTEND:20270210T201500Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53321469164508-53321489993184@ucsd-grad-calendar
 CATEGORIES:GEPA (Grad Ed & Postdoc)
 DESCRIPTION:This is the Winter 2027 session that offers graduate and profe
@@ -1094,46 +1584,284 @@ URL:https://calendar.ucsd.edu/event/wi27-graduate-professional-student-hou
  rs
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline for Undergraduate students to change units
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+DTSTAMP:20260917T050413Z
+UID:blink-994d41b590de71d5@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Undergraduate students to change units\nTerm: Win
+ ter 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instruc
+ tors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for all students to change grading option (undergraduate 
+ and graduate students)
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+DTSTAMP:20260917T050413Z
+UID:blink-35a1d0dbb7575336@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for all students to change grading option (undergradu
+ ate and graduate students)\nTerm: Winter 2027\n\nSource: Enrollment (Booki
+ ng)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/202
+ 6.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Undergraduate students to drop (individual courses) o
+ r withdraw (from all c…
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+DTSTAMP:20260917T050413Z
+UID:blink-5d300c7af60dd8ab@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Undergraduate students to drop (individual course
+ s) or withdraw (from all courses) with "W" grade on transcript\nTerm: Wint
+ er 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instruct
+ ors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Presidents' Day Holiday
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-8a163e35db623935@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Billing statement available on TritonPay. (eBill available continu
+ ing students)
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+DTSTAMP:20260917T050413Z
+UID:blink-30823de4a6c0421c@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Billing statement available on TritonPay. (eBill available con
+ tinuing students)\nTerm: Spring 2027\n\nSource: Enrollment (Booking)\n\nht
+ tps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Graduate students to drop (individual courses) or wit
+ hdraw (from all course…
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+DTSTAMP:20260917T050413Z
+UID:blink-c5c4c5f7932f551a@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Graduate students to drop (individual courses) or
+  withdraw (from all courses) with "W" grade on Transcript\nTerm: Winter 20
+ 27\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/c
+ ourses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Instruction Ends | Winter Quarter
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-e34ad78f59147598@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline for Graduate students to change units
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+DTSTAMP:20260917T050413Z
+UID:blink-362df2cbfc6499e8@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Graduate students to change units\nTerm: Winter 2
+ 027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/
+ courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of classes before finals
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+DTSTAMP:20260917T050413Z
+UID:blink-130402c3ee0bd2ae@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Last day of classes before finals\nTerm: Winter 2027\n\nSource
+ : Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrol
+ lment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Final Exams Begin
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-31546f2ce387a1c5@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Finals week
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+DTSTAMP:20260917T050413Z
+UID:blink-09588508e004799e@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Finals week\nTerm: Winter 2027\n\nSource: Enrollment (Booking)
+ \n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for mandatory health insurance waiver - all students
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20260917T050413Z
+UID:blink-4f873a8e01149b83@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for mandatory health insurance waiver - all students
+ \nTerm: Spring 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.
+ edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for students not attending (who are receiving financial a
+ id\, full-fee waivers o…
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+DTSTAMP:20260917T050413Z
+UID:blink-2de62bb0967e9e49@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for students not attending (who are receiving financi
+ al aid\, full-fee waivers or graduate fellowships/scholarships) to notify 
+ university that they will not attend. See the schedule of refunds for more
+  information.\nTerm: Spring 2027\n\nSource: Enrollment (Booking)\n\nhttps:
+ //blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for graduate programs to submit final degree forms to the
+  Division of Graduate…
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+DTSTAMP:20260917T050413Z
+UID:blink-759a67e5e372a743@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for graduate programs to submit final degree forms to
+  the Division of Graduate Education & Postdoctoral Affairs (GEPA)\nTerm: W
+ inter 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instr
+ uctors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Final Exams End
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-8eee9433a16cdf36@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late health insurance fee waiver deadline (no waivers will be acce
+ pted beyond this date)
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20260917T050413Z
+UID:blink-0c9fc29d3e229dad@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Late health insurance fee waiver deadline (no waivers will be 
+ accepted beyond this date)\nTerm: Spring 2027\n\nSource: Enrollment (Booki
+ ng)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/202
+ 6.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finals week
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20260917T050413Z
+UID:blink-766bda2b7767b189@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Finals week\nTerm: Winter 2027\n\nSource: Enrollment (Booking)
+ \n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to file for "Removal of Grade Incomplete" from previous q
+ uarter
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20260917T050413Z
+UID:blink-586713e6c2deae50@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to file for "Removal of Grade Incomplete" from previo
+ us quarter\nTerm: Winter 2027\n\nSource: Enrollment (Booking)\n\nhttps://b
+ link.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarter ends Undergraduate and graduate diplomas for this term wil
+ l be issued with this…
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20260917T050413Z
+UID:blink-c0b960523d44403e@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Quarter ends Undergraduate and graduate diplomas for this term
+  will be issued with this date\nTerm: Winter 2027\n\nSource: Enrollment (B
+ ooking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars
+ /2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to file for a Request to receive a grade of "Incomplete"
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260917T050413Z
+UID:blink-d097ca0f16c3aa9c@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to file for a Request to receive a grade of "Incomple
+ te"\nTerm: Winter 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.uc
+ sd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarter begins
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+DTSTAMP:20260917T050413Z
+UID:blink-a741ed0f92482621@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Quarter begins\nTerm: Spring 2027\n\nSource: Enrollment (Booki
+ ng)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/202
+ 6.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Farmworkers Day Holiday
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-614d43d503ad2bc6@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1142,16 +1870,87 @@ BEGIN:VEVENT
 SUMMARY:Instruction Begins | Spring Quarter
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-9fca7c7fc129bcfc@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:First day of classes
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+DTSTAMP:20260917T050413Z
+UID:blink-ac6d8bf65aa87516@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:First day of classes\nTerm: Spring 2027\n\nSource: Enrollment 
+ (Booking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calenda
+ rs/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for all students to add or re-booking in classes if cance
+ led for non-payment vi…
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20260917T050413Z
+UID:blink-cb98ee025817d342@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for all students to add or re-booking in classes if c
+ anceled for non-payment via WebReg (undergraduate and graduate students) T
+ he financial aid freeze date is applied\, and this is also the deadline fo
+ r students to Commence Academic Activity\, an aid requirement\nTerm: Sprin
+ g 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructo
+ rs/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for undergraduate students to apply for part-time status
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20260917T050413Z
+UID:blink-e7c97ada5d394b2a@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for undergraduate students to apply for part-time sta
+ tus\nTerm: Spring 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.uc
+ sd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Graduate students to file for leave of absence\, in a
+ bsentia or to apply for…
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20260917T050413Z
+UID:blink-81811bb1fea0a759@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Graduate students to file for leave of absence\, 
+ in absentia or to apply for half-time study for current quarter\nTerm: Spr
+ ing 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instruc
+ tors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to file for Advancement to Candidacy for Master's degrees
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+DTSTAMP:20260917T050413Z
+UID:blink-94a9907af6632f55@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to file for Advancement to Candidacy for Master's deg
+ rees\nTerm: Spring 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.u
+ csd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SP27 Graduate & Professional Student Hours
 DTSTART:20270420T150000Z
 DTEND:20270420T161500Z
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:localist-53321508576157-53321516114175@ucsd-grad-calendar
 CATEGORIES:GEPA (Grad Ed & Postdoc)
 DESCRIPTION:This is the Spring 2027 session that offers graduate and profe
@@ -1164,10 +1963,97 @@ URL:https://calendar.ucsd.edu/event/sp27-graduate-professional-student-hou
  rs
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline for all students to drop (individual courses) or withdraw
+  (from all courses) wi…
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+DTSTAMP:20260917T050413Z
+UID:blink-dc4925d7d9f9dcbe@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for all students to drop (individual courses) or with
+ draw (from all courses) without "W" grade on transcript (undergraduate and
+  graduate students)\nTerm: Spring 2027\n\nSource: Enrollment (Booking)\n\n
+ https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Undergraduate students to change units
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260917T050413Z
+UID:blink-648de04eae41eccb@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Undergraduate students to change units\nTerm: Spr
+ ing 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instruc
+ tors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for all students to change grading option (undergraduate 
+ and graduate students)
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260917T050413Z
+UID:blink-d64a2d0732c5ec53@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for all students to change grading option (undergradu
+ ate and graduate students)\nTerm: Spring 2027\n\nSource: Enrollment (Booki
+ ng)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/202
+ 6.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Undergraduate students to drop (individual courses) o
+ r withdraw (from all c…
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20260917T050413Z
+UID:blink-fd7ba924502d4f4f@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Undergraduate students to drop (individual course
+ s) or withdraw (from all courses) with "W" grade on transcript\nTerm: Spri
+ ng 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instruct
+ ors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for academic advising offices to submit degree audits to 
+ Registrar
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+DTSTAMP:20260917T050413Z
+UID:blink-acb5672802388836@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for academic advising offices to submit degree audits
+  to Registrar\nTerm: Winter 2027\n\nSource: Enrollment (Booking)\n\nhttps:
+ //blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for Graduate students to drop (individual courses) or wit
+ hdraw (from all course…
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+DTSTAMP:20260917T050413Z
+UID:blink-c20933ef22a53231@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Graduate students to drop (individual courses) or
+  withdraw (from all courses) with "W" grade on Transcript\nTerm: Spring 20
+ 27\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/c
+ ourses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Memorial Day Observance
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-5d226d1b11133a3c@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1176,36 +2062,173 @@ BEGIN:VEVENT
 SUMMARY:Instruction Ends
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-14783150f63d80c0@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deadline for Graduate students to change units
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+DTSTAMP:20260917T050413Z
+UID:blink-57b1647fcc20eca5@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for Graduate students to change units\nTerm: Spring 2
+ 027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/
+ courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of classes before finals
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+DTSTAMP:20260917T050413Z
+UID:blink-78b1b3db5a9d5eaa@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Last day of classes before finals\nTerm: Spring 2027\n\nSource
+ : Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrol
+ lment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Final Exams Begin
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-9734a86fe1b85775@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Finals week
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+DTSTAMP:20260917T050413Z
+UID:blink-78272ced26aa5b59@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Finals week\nTerm: Spring 2027\n\nSource: Enrollment (Booking)
+ \n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Final Exams End
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-0b7cb4f163d5de14@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Finals week
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+DTSTAMP:20260917T050413Z
+UID:blink-256fe7646e464aed@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Finals week\nTerm: Spring 2027\n\nSource: Enrollment (Booking)
+ \n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to file for "Removal of Grade Incomplete" from previous q
+ uarter
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+DTSTAMP:20260917T050413Z
+UID:blink-00506e99dc0df4ff@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to file for "Removal of Grade Incomplete" from previo
+ us quarter\nTerm: Spring 2027\n\nSource: Enrollment (Booking)\n\nhttps://b
+ link.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for graduate programs to submit final degree forms to the
+  Division of Graduate…
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+DTSTAMP:20260917T050413Z
+UID:blink-ffbc776eb1faafe3@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for graduate programs to submit final degree forms to
+  the Division of Graduate Education & Postdoctoral Affairs (GEPA)\nTerm: S
+ pring 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.ucsd.edu/instr
+ uctors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarter ends Undergraduate and graduate diplomas for this term wil
+ l be issued with this…
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+DTSTAMP:20260917T050413Z
+UID:blink-041eaf6e72559cdc@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Quarter ends Undergraduate and graduate diplomas for this term
+  will be issued with this date\nTerm: Spring 2027\n\nSource: Enrollment (B
+ ooking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars
+ /2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Commencement Programs
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270614
-DTSTAMP:20260829T160929Z
+DTSTAMP:20260917T050413Z
 UID:gcal-0d7e9024298f8d50@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to file for a Request to receive a grade of "Incomplete"
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+DTSTAMP:20260917T050413Z
+UID:blink-c5b28885527c7c7c@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline to file for a Request to receive a grade of "Incomple
+ te"\nTerm: Spring 2027\n\nSource: Enrollment (Booking)\n\nhttps://blink.uc
+ sd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for academic advising offices to submit degree audits to 
+ Registrar
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+DTSTAMP:20260917T050413Z
+UID:blink-77354f17e1e925f0@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for academic advising offices to submit degree audits
+  to Registrar\nTerm: Spring 2027\n\nSource: Enrollment (Booking)\n\nhttps:
+ //blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline for academic advising offices to submit degree audits to 
+ Registrar
+DTSTART;VALUE=DATE:20271119
+DTEND;VALUE=DATE:20271120
+DTSTAMP:20260917T050413Z
+UID:blink-5b6c3e307b9ff5fb@ucsd-grad-calendar
+CATEGORIES:Enrollment (Booking)
+DESCRIPTION:Deadline for academic advising offices to submit degree audits
+  to Registrar\nTerm: Summer 2027\n\nSource: Enrollment (Booking)\n\nhttps:
+ //blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html
+URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
+ tml
 END:VEVENT
 END:VCALENDAR

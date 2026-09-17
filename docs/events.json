@@ -1,135 +1,18 @@
 {
-  "generated": "2026-08-29T16:09:29.115443+00:00",
-  "count": 82,
+  "generated": "2026-09-17T05:04:13.786928+00:00",
+  "count": 156,
   "events": [
     {
-      "uid": "localist-50419645911000-50419646009357@ucsd-grad-calendar",
-      "summary": "Share Your Story as an International Student",
-      "start": "2026-09-01T00:00:00-07:00",
+      "uid": "blink-79b936b60e7e1b41@ucsd-grad-calendar",
+      "summary": "Late health insurance fee waiver deadline (no waivers will be accepted beyond this date)",
+      "start": "2026-09-15T00:00:00-07:00",
       "end": null,
       "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
       "location": "",
-      "url": "https://calendar.ucsd.edu/event/share-your-story-as-an-international-student",
-      "description": "iSTUDENTS: The Center for Race, Immigration, Citizenship, and Equality (RICE) at UC Law San Francisco is conducting a research study on international student experiences in the U.S. If you are on an F, M, J visa, or OPT status, you’re invited to participate in a short survey and a 45-minute interview (in person or via Zoom).\n\nYour voice matters—help us understand how immigration status shapes your sense of belonging across race, language, culture, and life goals.\n\n✅ Flexible scheduling\n🎁 $20 gift card upon interview completion\n🔒 Confidential and IRB-approved\n\nTo participate, email…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-50410245791545-50419707768854@ucsd-grad-calendar",
-      "summary": "Wednesday Crafts and Chats",
-      "start": "2026-09-02T10:00:00-07:00",
-      "end": "2026-09-02T12:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "La Jolla Community Room",
-      "url": "https://calendar.ucsd.edu/event/wednesday-coffee-and-chats",
-      "description": "iScholars & iStudents: Wednesday Coffee and Crafts is an informal, social gathering that provides attendees an opportunity to meet people, make friends, and practice English with local volunteers and fellow international community members. Wednesday Coffee and crafts is an excellent resource for all of your questions as you adjust to your new surroundings.\n\nAttendees have the option of participating in a volunteer-led planned activity (often a craft) while chatting. While we love children, we are unable to accommodate young children at this event. This will be an adults-only gathering.\n\nNO…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-50701474058047-50701474136947@ucsd-grad-calendar",
-      "summary": "Friday Chat",
-      "start": "2026-09-04T10:00:00-07:00",
-      "end": "2026-09-04T12:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "8657 Villa La Jolla Dr, La Jolla, CA 92037",
-      "url": "https://calendar.ucsd.edu/event/friday-chat",
-      "description": "iScholars & iStudents: Please join us on Friday mornings for a fun \"chat\" where you can practice your English conversational skills with local volunteers and get to know new friends from UCSD’s international community. While we love children, we are unable to accommodate children at this event. This will be an adults-only gathering.\n\nNo need to pre-register. Simply show up to a meeting and you will be added to our email list.When: Every Friday from 10:00 am until 12:00 pm (except for school holidays)Where: The La Jolla Community Room at La Jolla Village Square (downstairs and just to the…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-9098fdd10e95c1ee@ucsd-grad-calendar",
-      "summary": "Labor Day Holiday",
-      "start": "2026-09-07T00:00:00-07:00",
-      "end": "2026-09-08",
-      "all_day": true,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53774683275844-53774683275845@ucsd-grad-calendar",
-      "summary": "Virtual: \"Meet ISEO & Know the Rules\"",
-      "start": "2026-09-14T09:00:00-07:00",
-      "end": "2026-09-14T10:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-meet-iseo-know-the-rules",
-      "description": "Welcome to UC San Diego! Join the International Services and Engagement Office (ISEO) for an introduction to our office and how we can help serve you during your time here an international student. We will also review some of the important pieces of information you've learned in your iTriton Online Orientation Course in order to help you maintain your F-1 or J-1 status in the United States. \n\nRegistration link: https://ucsd.zoom.us/webinar/register/WN_W_1LC-vGQbmtqNSCM81kYA",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53774721648805-53774721648806@ucsd-grad-calendar",
-      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
-      "start": "2026-09-14T10:00:00-07:00",
-      "end": "2026-09-14T11:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status",
-      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration link: https://ucsd.zoom.us/webinar/register/WN_tcIc1fJiRSyt80ahBzvaDA#/registration",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53763380082040-53763380082041@ucsd-grad-calendar",
-      "summary": "International Student Fan Fest",
-      "start": "2026-09-14T13:00:00-07:00",
-      "end": "2026-09-14T14:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "RIMAC Arena",
-      "url": "https://calendar.ucsd.edu/event/international-student-fan-fest-7984",
-      "description": "Ready to show your Triton Spirit? Come play fun games, win prizes in our raffle, mingle with international scholar athletes, and learn about soccer from the UCSD soccer team and coaches! The Fan Fest starts at 1:00 pm before the start of the soccer game at 2 pm, so come have fun and get ready to cheer your Tritons on strong!",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53470606851954-53470606851955@ucsd-grad-calendar",
-      "summary": "Mommy/Daddy and Me",
-      "start": "2026-09-14T15:00:00-07:00",
-      "end": "2026-09-14T16:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Doyle Park",
-      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
-      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53774741060527-53774741061552@ucsd-grad-calendar",
-      "summary": "Virtual: \"Meet ISEO & Know the Rules\"",
-      "start": "2026-09-14T15:00:00-07:00",
-      "end": "2026-09-14T16:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-meet-iseo-know-the-rules-1548",
-      "description": "Welcome to UC San Diego! Join the International Services and Engagement Office (ISEO) for an introduction to our office and how we can help serve you during your time here an international student. We will also review some of the important pieces of information you've learned in your iTriton Online Orientation Course in order to help you maintain your F-1 or J-1 status in the United States.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_5qodLOZ_SZmfmKxhdX4ckw#/registration",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53774814519191-53774814520216@ucsd-grad-calendar",
-      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
-      "start": "2026-09-15T14:00:00-07:00",
-      "end": "2026-09-15T15:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status-6732",
-      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_b6DMQ30PTV2HB2u5oswdxg#/registration",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Late health insurance fee waiver deadline (no waivers will be accepted beyond this date)\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -143,6 +26,19 @@
       "location": "",
       "url": "",
       "description": "<a target=\"_blank\" href=\"https://twow.ucsd.edu/\"><u><b>Triton Weeks of Welcome (TWOW)</b></u></a><br><br><li><strong><b>September 16–22, 2026:</b></strong> In-person New Student Orientation Part 3 sessions.</li><br><li><strong><b>September 16–26, 2026:</b></strong> College-specific Welcome Week events (Muir, Warren, Seventh, etc.) and campus-wide TWOW programs.</li><br><li><strong><b>September 24, 2026:</b></strong> First day of Fall quarter classes.</li>",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53518095108060-53861706797454@ucsd-grad-calendar",
+      "summary": "New International Student Airport Pick-Ups!",
+      "start": "2026-09-16T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/new-international-student-airport-pick-ups",
+      "description": "If you are a new international student coming to UCSD, start finding your community via a free pickup from San Diego airport (SAN)! Please request a ride at least 2 WEEKS BEFORE ARRIVAL. We will try our best arrange pickups, but requesting a pickup is not a guarantee of pickup. Submit a request with this google form:\n\n \n\nhttps://forms.gle/GVa2MV3hXVTF8v369\n\n \n\nPick-ups are a non-profit service provided by Reformed University Fellowship International (RUF-I) at UCSD, a registered student organization at UCSD. We partner with community volunteers to provide this free service to new…",
       "quarter": "FA26"
     },
     {
@@ -172,6 +68,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53756431618856-53756431618857@ucsd-grad-calendar",
+      "summary": "Grad Thrive",
+      "start": "2026-09-16T13:00:00-07:00",
+      "end": "2026-09-16T16:00:00-07:00",
+      "all_day": false,
+      "source": "GEPA (Grad Ed & Postdoc)",
+      "color": "#b8860b",
+      "location": "Price Center",
+      "url": "https://calendar.ucsd.edu/event/grad-thrive",
+      "description": "New graduate students, kick off your UC San Diego journey with Grad Thrive!\n\nThis is your ultimate welcome experience at UC San Diego, designed to plug you into the resources, networks, and community you need to truly succeed. Dive into essential campus tools, connect with vibrant graduate student organizations, and meet your future collaborators and friends in a relaxed, casual setting. Want the inside scoop on campus? Sign up for a guided tour led by current graduate students!",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53774909916906-53774909916907@ucsd-grad-calendar",
       "summary": "Virtual: \"Working in the U.S.\"",
       "start": "2026-09-16T15:00:00-07:00",
@@ -195,6 +104,19 @@
       "location": "",
       "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status-7345",
       "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_kFit-Tn_Qx-ndeE9m_t0wA#/registration",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-1d3ba73f7ff346f9@ucsd-grad-calendar",
+      "summary": "Deadline for students not attending (who are receiving financial aid, full-fee waivers o…",
+      "start": "2026-09-18T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for students not attending (who are receiving financial aid, full-fee waivers or graduate fellowships/scholarships) to notify university that they will not attend. See the schedule of refunds for more information.\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -224,6 +146,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53861694727927-53861694727928@ucsd-grad-calendar",
+      "summary": "ISMP Welcome Night & Info Session",
+      "start": "2026-09-18T18:00:00-07:00",
+      "end": "2026-09-18T20:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Jacobs Hall",
+      "url": "https://calendar.ucsd.edu/event/ismp-welcome-night-info-session",
+      "description": "Learn more about ISMP's 1:1 mentorship opportunities and see if mentorship is a right fit for you! Have the chance to meet many experienced mentors and alumni who offer professional and life guidance to help international students succeed.\n\nOur mentorship topics include:\n\n- English conversation coaching\n- Interpersonal skills\n- Resume & interviews tips\n- And more!\n\nStudents will have the opportunity to get paired with mentors at this session!",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53470750658034-53470750659059@ucsd-grad-calendar",
       "summary": "Craft Event",
       "start": "2026-09-19T10:30:00-07:00",
@@ -234,6 +169,19 @@
       "location": "Craft Center",
       "url": "https://calendar.ucsd.edu/event/craft-event-7052",
       "description": "iCOMMUNITY: Spend some time with ISEO and other members of the international community to enjoy creative socializing! We will provide supplies for a craft each month in collaboration with the Craft Center. Families are also welcome to join in the fun.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-c4625ee7b9091a92@ucsd-grad-calendar",
+      "summary": "Quarter begins",
+      "start": "2026-09-21T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Quarter begins\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -260,6 +208,19 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/career-center-open-house-1021",
       "description": "Music. Activities. Giveaways.\n\nCome out and kick off the new academic year with the Career Center on campus! \n\nThe Career Center will be hosting our annual Open House, an exciting way for new and returning students to learn about how the Career Center can help on the career journey. It's a chance for you to get to know where we are, what we do, and more:\n\nWhen: Tuesday, September 22ndd, 2026 from 11 AM to 2 PM\nWhere: Career Center on campus, off of Library Walk\n\nOur Open House is a community building exercise with different parts, from entrance to exit, carefully and intentionally designed…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-e3e2a2bc1486e081@ucsd-grad-calendar",
+      "summary": "Registration fee payment deadline",
+      "start": "2026-09-23T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Registration fee payment deadline\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -302,6 +263,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53861715289233-53873539071855@ucsd-grad-calendar",
+      "summary": "ISMP Mentorship Kick-Off & Workshop #1: How to Connect w/ American Classmates & Professors",
+      "start": "2026-09-23T18:00:00-07:00",
+      "end": "2026-09-23T20:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Design and Innovation Building",
+      "url": "https://calendar.ucsd.edu/event/ismp-mentorship-kick-off-workshop-1-how-to-connect-w-american-classmates-professors",
+      "description": "Learn how communication, networking, and relationship-building work in U.S. universities. This session offers practical guidance for connecting confidently with classmates, colleagues, and professors.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-198222b3dd1edd49@ucsd-grad-calendar",
       "summary": "Instruction Begins | Fall Quarter",
       "start": "2026-09-24T00:00:00-07:00",
@@ -315,6 +289,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "blink-c1df0c157df03b08@ucsd-grad-calendar",
+      "summary": "First day of classes",
+      "start": "2026-09-24T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "First day of classes\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53692833076866-53692833076867@ucsd-grad-calendar",
       "summary": "Resume Review Lab",
       "start": "2026-09-24T11:00:00-07:00",
@@ -325,19 +312,6 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/resume-review-lab-5150",
       "description": "Roll up your sleeves and get your resume ready for success! This hands-on session gives you dedicated time to work on your resume while receiving customized feedback from our Career Advisors. Walk away with a polished resume that helps you stand out and take the next step toward your career goals.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53470687838790-53470687838791@ucsd-grad-calendar",
-      "summary": "Game Night",
-      "start": "2026-09-24T17:00:00-07:00",
-      "end": "2026-09-24T18:30:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
-      "url": "https://calendar.ucsd.edu/event/game-night-2562",
-      "description": "iCOMMUNITY: Get to know other international scholars, students, and families at Triton Center! Meet new people while playing classic board games. ISEO will provide the board games and snacks. Feel free to bring friends and family!",
       "quarter": "FA26"
     },
     {
@@ -355,6 +329,19 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -367,16 +354,16 @@
       "quarter": "FA26"
     },
     {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
+      "uid": "blink-37ecac0d4977ba14@ucsd-grad-calendar",
+      "summary": "Late registration fee payment deadline (to avoid being dropped from booking classes or w…",
+      "start": "2026-09-28T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
       "location": "",
-      "url": "",
-      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Late registration fee payment deadline (to avoid being dropped from booking classes or wait listed courses)\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -390,6 +377,19 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/resume-review-lab-6728",
       "description": "Roll up your sleeves and get your resume ready for success! This hands-on session gives you dedicated time to work on your resume while receiving customized feedback from our Career Advisors. Walk away with a polished resume that helps you stand out and take the next step toward your career goals.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-0ccb1d2ed713b4e5@ucsd-grad-calendar",
+      "summary": "Registration fee payment deadline",
+      "start": "2026-09-30T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Registration fee payment deadline\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -419,6 +419,58 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-53861737661926-53873568558654@ucsd-grad-calendar",
+      "summary": "ISMP Mentorship  Workshop #2:  Connecting with Americans: Work Culture & Academia",
+      "start": "2026-10-01T18:00:00-07:00",
+      "end": "2026-10-01T20:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Design & Innovations Building",
+      "url": "https://calendar.ucsd.edu/event/ismp-mentorship-workshop-2-connecting-with-americans-work-culture-academia",
+      "description": "Learn how communication, networking, and relationship-building work in American workplaces and academia. This session offers practical guidance for connecting confidently with classmates, colleagues, and professors.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53781562912916-53781562912917@ucsd-grad-calendar",
+      "summary": "ISMP Okonomiyaki Night",
+      "start": "2026-10-01T18:30:00-07:00",
+      "end": null,
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Host Home Near Campus (Rides from Price Center Loop)",
+      "url": "https://calendar.ucsd.edu/event/ismp-dinner-in-an-american-home-3306",
+      "description": "International Student Mentorship Program (ISMP) is a nonprofit organization aiming to provide support and community for international students before, during, and after their time studying in America! ISMP is made up of a network of volunteer mentors across various locations in the United States and Asia. You can learn more at https://www.internationalmentorship.org/\n\n\nThis year, ISMP San Diego is starting a Japan-America international connection group! Our volunteer mentors include UC San Diego, UC Berkeley, and UC Davis graduates - and some of us recently returned from a year of…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering | Kelly Kersten, Ph.D.",
+      "start": "2026-10-02T14:00:00-07:00",
+      "end": "2026-10-02T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "<a href=\"https://be.ucsd.edu/seminar/2026/decoding-macrophage-t-cell-interactions-overcome-resistance-cancer-immunotherapy\">Decoding macrophage – T cell interactions to overcome resistance to cancer immunotherapy</a><br>Kelly Kersten, Ph.D.<br><i>Assistant Professor<br>Cancer Metabolism and Microenvironment Program at the NCI-designated Cancer Center<br>Sanford Burnham Prebys Medical Discovery Institute (SBP)</i>",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-bd5970b5aa2c21cc@ucsd-grad-calendar",
+      "summary": "Late registration fee payment deadline (to avoid being dropped from booking classes or w…",
+      "start": "2026-10-05T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Late registration fee payment deadline (to avoid being dropped from booking classes or wait listed courses)\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53470606851954-53470606852980@ucsd-grad-calendar",
       "summary": "Mommy/Daddy and Me",
       "start": "2026-10-05T15:00:00-07:00",
@@ -445,6 +497,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "gcal-4fed529b5add2078@ucsd-grad-calendar",
+      "summary": "UC San Diego Alumni Biotech Mixer",
+      "start": "2026-10-07T00:00:00+00:00",
+      "end": "2026-10-07T02:00:00+00:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "Duck Foot Brewing",
+      "url": "",
+      "description": "<a href=\"https://calendar.ucsd.edu/event/biotech-mixer\" target=\"_blank\"><u><u>REGISTER TO ATTEND BIOTECH MIXER</u></u></a><br><br>Join fellow Triton alumni and biotech professionals for a Biotech Mixer celebrating the UC San Diego community and building connections across San Diego's thriving life sciences industry. <br><br>Meet alumni from across UC San Diego, connect with professionals working in biotech, and expand your network, all while enjoying a bite in a relaxed and welcoming setting. Alumni from all UC San Diego departments and everyone working the biotech industry are welcome!",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53127945276131-53127945276132@ucsd-grad-calendar",
       "summary": "Fall 2026 Career Fair",
       "start": "2026-10-07T12:00:00-07:00",
@@ -455,6 +520,84 @@
       "location": "LionTree Arena",
       "url": "https://calendar.ucsd.edu/event/fall-2026-career-fair",
       "description": "Please join us on Wednesday, October 7th, from 12:00 pm - 4:00 pm for the UC San Diego Fall Career Fair. This event will be at the Liontree Arena with doors opening at 12:00 pm and closing at 4:00 pm\n\nSTUDENT REGISTRATION DETAILS\n\nThe career fairs are open to UC San Diego students and alumni only.In order to gain admittance to the fair, students MUST register through Handshake AND bring their student ID on the day of the fair.The student entrance is located on 2nd level of Liontree Arena near the ticket booths.  We encourage students/alumni not to bring bags or backpacks.  All items must be…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-c65459a49254e7da@ucsd-grad-calendar",
+      "summary": "Deadline to apply to Return to UCSD (undergraduate students)",
+      "start": "2026-10-09T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to apply to Return to UCSD (undergraduate students)\nTerm: Winter 2027",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-b87a8a6c0100a03a@ucsd-grad-calendar",
+      "summary": "Automatic wait lists officially end",
+      "start": "2026-10-09T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Automatic wait lists officially end\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-f07415be2bb2a7b5@ucsd-grad-calendar",
+      "summary": "Deadline for all students to add or re-booking in classes if canceled for non-payment vi…",
+      "start": "2026-10-09T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg (undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-cd6e6c0aabc673d7@ucsd-grad-calendar",
+      "summary": "Deadline for undergraduate students to apply for part-time status",
+      "start": "2026-10-09T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for undergraduate students to apply for part-time status\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-7cfa3a056d8dd3ab@ucsd-grad-calendar",
+      "summary": "Deadline for Graduate students to file for leave of absence, in absentia or to apply for…",
+      "start": "2026-10-09T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Graduate students to file for leave of absence, in absentia or to apply for half-time study for current quarter\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering | Hongbo Zhao, Ph.D.",
+      "start": "2026-10-09T14:00:00-07:00",
+      "end": "2026-10-09T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "<a href=\"https://be.ucsd.edu/seminar/2026/presentation-be-announced\">Presentation to be announced</a><br>Hongbo Zhao Ph.D.<br><i>Assistant Professor<br>Department of Physics and Chemistry<br>University of California, San Diego</i>",
       "quarter": "FA26"
     },
     {
@@ -481,6 +624,32 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/linkedin-networking-5376",
       "description": "In this workshop, students will discover how to build a strong online presence, craft an engaging personal brand, and leverage LinkedIn’s features to connect with professionals in their desired fields. We’ll cover best practices for networking, including informational interviews, elevator pitches, and effective outreach strategies. Step by step, we’ll guide students in optimizing their LinkedIn profiles to attract recruiters and employers.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53861757015892-53873621896316@ucsd-grad-calendar",
+      "summary": "ISMP Connect: Speed-Friending & How to Ask Great Questions",
+      "start": "2026-10-15T18:00:00-07:00",
+      "end": "2026-10-15T20:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Design and Innovation Building",
+      "url": "https://calendar.ucsd.edu/event/ismp-connect-series-part-1-speed-friending-how-to-ask-great-questions",
+      "description": "Learn how to connect meaningfully with people through asking great questions. This session provides a space for you to practice talking with ISMP mentors and students in a comfortable, fun setting.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-e3ac991dd7ab4091@ucsd-grad-calendar",
+      "summary": "Deadline to file for Advancement to Candidacy for Master's degrees",
+      "start": "2026-10-16T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to file for Advancement to Candidacy for Master's degrees\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -536,6 +705,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "blink-73a1ba9cac361201@ucsd-grad-calendar",
+      "summary": "Deadline for all students to drop (individual courses) or withdraw (from all courses) wi…",
+      "start": "2026-10-23T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for all students to drop (individual courses) or withdraw (from all courses) without \"W\" grade on transcript (undergraduate and graduate students)\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53470750658034-53753955944035@ucsd-grad-calendar",
       "summary": "Craft Event",
       "start": "2026-10-24T10:30:00-07:00",
@@ -562,19 +744,6 @@
       "quarter": "FA26"
     },
     {
-      "uid": "localist-53470687838790-53470687839816@ucsd-grad-calendar",
-      "summary": "Game Night",
-      "start": "2026-10-29T17:00:00-07:00",
-      "end": "2026-10-29T18:30:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
-      "url": "https://calendar.ucsd.edu/event/game-night-2562",
-      "description": "iCOMMUNITY: Get to know other international scholars, students, and families at Triton Center! Meet new people while playing classic board games. ISEO will provide the board games and snacks. Feel free to bring friends and family!",
-      "quarter": "FA26"
-    },
-    {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Narayan Bhattarai, Ph.D.",
       "start": "2026-10-30T14:00:00-07:00",
@@ -585,6 +754,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-d5923f659c07569a@ucsd-grad-calendar",
+      "summary": "Deadline to apply to Return to UCSD (undergraduate students)",
+      "start": "2026-11-01T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to apply to Return to UCSD (undergraduate students)\nTerm: Winter 2027",
       "quarter": "FA26"
     },
     {
@@ -663,6 +845,45 @@
       "location": "",
       "url": "https://calendar.ucsd.edu/event/resume-cover-letter",
       "description": "Just like the perfect pumpkin spice latte, your application materials need the right blend of ingredients. We’ll walk you through how to craft a strong resume and cover letter that highlight your skills and stand out to employers.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-764fad4a3aaef606@ucsd-grad-calendar",
+      "summary": "Deadline for Undergraduate students to change units",
+      "start": "2026-11-06T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Undergraduate students to change units\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-68ce45c999cc6048@ucsd-grad-calendar",
+      "summary": "Deadline for all students to change grading option (undergraduate and graduate students)",
+      "start": "2026-11-06T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for all students to change grading option (undergraduate and graduate students)\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-cdb53c220fbc3a06@ucsd-grad-calendar",
+      "summary": "Deadline for Undergraduate students to drop (individual courses) or withdraw (from all c…",
+      "start": "2026-11-06T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Undergraduate students to drop (individual courses) or withdraw (from all courses) with \"W\" grade on transcript\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -757,16 +978,55 @@
       "quarter": "FA26"
     },
     {
-      "uid": "localist-53470687838790-53470687839817@ucsd-grad-calendar",
-      "summary": "Game Night",
-      "start": "2026-12-03T17:00:00-08:00",
-      "end": "2026-12-03T18:30:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
-      "url": "https://calendar.ucsd.edu/event/game-night-2562",
-      "description": "iCOMMUNITY: Get to know other international scholars, students, and families at Triton Center! Meet new people while playing classic board games. ISEO will provide the board games and snacks. Feel free to bring friends and family!",
+      "uid": "blink-6c73ee1826962f4f@ucsd-grad-calendar",
+      "summary": "Deadline for Graduate students to drop (individual courses) or withdraw (from all course…",
+      "start": "2026-11-30T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Graduate students to drop (individual courses) or withdraw (from all courses) with \"W\" grade on Transcript\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-f068c30ba813f992@ucsd-grad-calendar",
+      "summary": "Billing statement available on TritonPay. (eBill available continuing students)",
+      "start": "2026-12-04T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Billing statement available on TritonPay. (eBill available continuing students)\nTerm: Winter 2027",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-705dad595f63852c@ucsd-grad-calendar",
+      "summary": "Deadline for Graduate students to change units",
+      "start": "2026-12-04T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Graduate students to change units\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-6c0b19b0ff040418@ucsd-grad-calendar",
+      "summary": "Last day of classes before finals",
+      "start": "2026-12-04T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Last day of classes before finals\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -793,6 +1053,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-8c35fdcf729c979b@ucsd-grad-calendar",
+      "summary": "Finals week",
+      "start": "2026-12-05T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Finals week\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -835,6 +1108,32 @@
       "quarter": "FA26"
     },
     {
+      "uid": "blink-5a49d4dcfa537e9e@ucsd-grad-calendar",
+      "summary": "Deadline for students not attending (who are receiving financial aid, full-fee waivers o…",
+      "start": "2026-12-11T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for students not attending (who are receiving financial aid, full-fee waivers or graduate fellowships/scholarships) to notify university that they will not attend. See the schedule of refunds for more information.\nTerm: Winter 2027",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-476897e97c90a4b1@ucsd-grad-calendar",
+      "summary": "Deadline for graduate programs to submit final degree forms to the Division of Graduate…",
+      "start": "2026-12-11T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for graduate programs to submit final degree forms to the Division of Graduate Education & Postdoctoral Affairs (GEPA)\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-234b3564dfdedeb9@ucsd-grad-calendar",
       "summary": "Final Exams End",
       "start": "2026-12-12T00:00:00-08:00",
@@ -845,6 +1144,84 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-fc97b91314788e77@ucsd-grad-calendar",
+      "summary": "Finals week",
+      "start": "2026-12-12T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Finals week\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-792f0deb1e7993bd@ucsd-grad-calendar",
+      "summary": "Deadline to file for \"Removal of Grade Incomplete\" from previous quarter",
+      "start": "2026-12-12T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to file for \"Removal of Grade Incomplete\" from previous quarter\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-22698ae674ea8c61@ucsd-grad-calendar",
+      "summary": "Quarter ends Undergraduate and graduate diplomas for this term will be issued with this…",
+      "start": "2026-12-12T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Quarter ends Undergraduate and graduate diplomas for this term will be issued with this date\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-a3efa77409f11270@ucsd-grad-calendar",
+      "summary": "Deadline for mandatory health insurance waiver - all students",
+      "start": "2026-12-14T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for mandatory health insurance waiver - all students\nTerm: Winter 2027",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-8eaee76e13fd4006@ucsd-grad-calendar",
+      "summary": "Deadline to file for a Request to receive a grade of \"Incomplete\"",
+      "start": "2026-12-14T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to file for a Request to receive a grade of \"Incomplete\"\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-4321e67c2bc9c4b9@ucsd-grad-calendar",
+      "summary": "Late health insurance fee waiver deadline (no waivers will be accepted beyond this date)",
+      "start": "2026-12-20T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Late health insurance fee waiver deadline (no waivers will be accepted beyond this date)\nTerm: Winter 2027",
       "quarter": "FA26"
     },
     {
@@ -887,6 +1264,71 @@
       "quarter": "WI27"
     },
     {
+      "uid": "blink-28c65a79afca2549@ucsd-grad-calendar",
+      "summary": "Quarter begins",
+      "start": "2027-01-04T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Quarter begins\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-0b42653a28692f61@ucsd-grad-calendar",
+      "summary": "First day of classes",
+      "start": "2027-01-04T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "First day of classes\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-8a7a69621452c5bf@ucsd-grad-calendar",
+      "summary": "Deadline for all students to add or re-booking in classes if canceled for non-payment vi…",
+      "start": "2027-01-15T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg (undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-0789c1dcc38913c5@ucsd-grad-calendar",
+      "summary": "Deadline for undergraduate students to apply for part-time status",
+      "start": "2027-01-15T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for undergraduate students to apply for part-time status\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-ab8ce57577c39d49@ucsd-grad-calendar",
+      "summary": "Deadline for Graduate students to file for leave of absence, in absentia or to apply for…",
+      "start": "2027-01-15T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Graduate students to file for leave of absence, in absentia or to apply for half-time study for current quarter\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
       "uid": "gcal-6026e11419f7b3bf@ucsd-grad-calendar",
       "summary": "Martin Luther King, Jr. Holiday",
       "start": "2027-01-18T00:00:00-08:00",
@@ -897,6 +1339,32 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-cc49d96a06a430f1@ucsd-grad-calendar",
+      "summary": "Deadline to file for Advancement to Candidacy for Master's degrees",
+      "start": "2027-01-22T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to file for Advancement to Candidacy for Master's degrees\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-07e3d1a55a3fef68@ucsd-grad-calendar",
+      "summary": "Deadline for all students to drop (individual courses) or withdraw (from all courses) wi…",
+      "start": "2027-01-29T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for all students to drop (individual courses) or withdraw (from all courses) without \"W\" grade on transcript (undergraduate and graduate students)\nTerm: Winter 2027",
       "quarter": "WI27"
     },
     {
@@ -913,6 +1381,45 @@
       "quarter": "WI27"
     },
     {
+      "uid": "blink-994d41b590de71d5@ucsd-grad-calendar",
+      "summary": "Deadline for Undergraduate students to change units",
+      "start": "2027-02-12T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Undergraduate students to change units\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-35a1d0dbb7575336@ucsd-grad-calendar",
+      "summary": "Deadline for all students to change grading option (undergraduate and graduate students)",
+      "start": "2027-02-12T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for all students to change grading option (undergraduate and graduate students)\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-5d300c7af60dd8ab@ucsd-grad-calendar",
+      "summary": "Deadline for Undergraduate students to drop (individual courses) or withdraw (from all c…",
+      "start": "2027-02-12T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Undergraduate students to drop (individual courses) or withdraw (from all courses) with \"W\" grade on transcript\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
       "uid": "gcal-8a163e35db623935@ucsd-grad-calendar",
       "summary": "Presidents' Day Holiday",
       "start": "2027-02-15T00:00:00-08:00",
@@ -923,6 +1430,32 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-30823de4a6c0421c@ucsd-grad-calendar",
+      "summary": "Billing statement available on TritonPay. (eBill available continuing students)",
+      "start": "2027-03-04T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Billing statement available on TritonPay. (eBill available continuing students)\nTerm: Spring 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-c5c4c5f7932f551a@ucsd-grad-calendar",
+      "summary": "Deadline for Graduate students to drop (individual courses) or withdraw (from all course…",
+      "start": "2027-03-05T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Graduate students to drop (individual courses) or withdraw (from all courses) with \"W\" grade on Transcript\nTerm: Winter 2027",
       "quarter": "WI27"
     },
     {
@@ -939,6 +1472,32 @@
       "quarter": "WI27"
     },
     {
+      "uid": "blink-362df2cbfc6499e8@ucsd-grad-calendar",
+      "summary": "Deadline for Graduate students to change units",
+      "start": "2027-03-12T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Graduate students to change units\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-130402c3ee0bd2ae@ucsd-grad-calendar",
+      "summary": "Last day of classes before finals",
+      "start": "2027-03-12T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Last day of classes before finals\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
       "uid": "gcal-31546f2ce387a1c5@ucsd-grad-calendar",
       "summary": "Final Exams Begin",
       "start": "2027-03-13T00:00:00-08:00",
@@ -952,6 +1511,58 @@
       "quarter": "WI27"
     },
     {
+      "uid": "blink-09588508e004799e@ucsd-grad-calendar",
+      "summary": "Finals week",
+      "start": "2027-03-13T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Finals week\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-4f873a8e01149b83@ucsd-grad-calendar",
+      "summary": "Deadline for mandatory health insurance waiver - all students",
+      "start": "2027-03-14T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for mandatory health insurance waiver - all students\nTerm: Spring 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-2de62bb0967e9e49@ucsd-grad-calendar",
+      "summary": "Deadline for students not attending (who are receiving financial aid, full-fee waivers o…",
+      "start": "2027-03-19T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for students not attending (who are receiving financial aid, full-fee waivers or graduate fellowships/scholarships) to notify university that they will not attend. See the schedule of refunds for more information.\nTerm: Spring 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-759a67e5e372a743@ucsd-grad-calendar",
+      "summary": "Deadline for graduate programs to submit final degree forms to the Division of Graduate…",
+      "start": "2027-03-19T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for graduate programs to submit final degree forms to the Division of Graduate Education & Postdoctoral Affairs (GEPA)\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
       "uid": "gcal-8eee9433a16cdf36@ucsd-grad-calendar",
       "summary": "Final Exams End",
       "start": "2027-03-20T00:00:00-07:00",
@@ -962,6 +1573,84 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-0c9fc29d3e229dad@ucsd-grad-calendar",
+      "summary": "Late health insurance fee waiver deadline (no waivers will be accepted beyond this date)",
+      "start": "2027-03-20T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Late health insurance fee waiver deadline (no waivers will be accepted beyond this date)\nTerm: Spring 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-766bda2b7767b189@ucsd-grad-calendar",
+      "summary": "Finals week",
+      "start": "2027-03-20T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Finals week\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-586713e6c2deae50@ucsd-grad-calendar",
+      "summary": "Deadline to file for \"Removal of Grade Incomplete\" from previous quarter",
+      "start": "2027-03-20T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to file for \"Removal of Grade Incomplete\" from previous quarter\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-c0b960523d44403e@ucsd-grad-calendar",
+      "summary": "Quarter ends Undergraduate and graduate diplomas for this term will be issued with this…",
+      "start": "2027-03-20T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Quarter ends Undergraduate and graduate diplomas for this term will be issued with this date\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-d097ca0f16c3aa9c@ucsd-grad-calendar",
+      "summary": "Deadline to file for a Request to receive a grade of \"Incomplete\"",
+      "start": "2027-03-22T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to file for a Request to receive a grade of \"Incomplete\"\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-a741ed0f92482621@ucsd-grad-calendar",
+      "summary": "Quarter begins",
+      "start": "2027-03-24T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Quarter begins\nTerm: Spring 2027",
       "quarter": "WI27"
     },
     {
@@ -991,6 +1680,71 @@
       "quarter": "WI27"
     },
     {
+      "uid": "blink-ac6d8bf65aa87516@ucsd-grad-calendar",
+      "summary": "First day of classes",
+      "start": "2027-03-29T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "First day of classes\nTerm: Spring 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-cb98ee025817d342@ucsd-grad-calendar",
+      "summary": "Deadline for all students to add or re-booking in classes if canceled for non-payment vi…",
+      "start": "2027-04-09T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg (undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-e7c97ada5d394b2a@ucsd-grad-calendar",
+      "summary": "Deadline for undergraduate students to apply for part-time status",
+      "start": "2027-04-09T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for undergraduate students to apply for part-time status\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-81811bb1fea0a759@ucsd-grad-calendar",
+      "summary": "Deadline for Graduate students to file for leave of absence, in absentia or to apply for…",
+      "start": "2027-04-09T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Graduate students to file for leave of absence, in absentia or to apply for half-time study for current quarter\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-94a9907af6632f55@ucsd-grad-calendar",
+      "summary": "Deadline to file for Advancement to Candidacy for Master's degrees",
+      "start": "2027-04-16T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to file for Advancement to Candidacy for Master's degrees\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
       "uid": "localist-53321508576157-53321516114175@ucsd-grad-calendar",
       "summary": "SP27 Graduate & Professional Student Hours",
       "start": "2027-04-20T08:00:00-07:00",
@@ -1001,6 +1755,84 @@
       "location": "",
       "url": "https://calendar.ucsd.edu/event/sp27-graduate-professional-student-hours",
       "description": "This is the Spring 2027 session that offers graduate and professional students an opportunity to ask questions of, or share ideas with, Dean Kim and members of the leadership team of the Division of Graduate Education and Postdoctoral Affairs (GEPA). Drop in anytime between 8:00 AM - 9:15 AM PT.",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-dc4925d7d9f9dcbe@ucsd-grad-calendar",
+      "summary": "Deadline for all students to drop (individual courses) or withdraw (from all courses) wi…",
+      "start": "2027-04-23T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for all students to drop (individual courses) or withdraw (from all courses) without \"W\" grade on transcript (undergraduate and graduate students)\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-648de04eae41eccb@ucsd-grad-calendar",
+      "summary": "Deadline for Undergraduate students to change units",
+      "start": "2027-05-07T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Undergraduate students to change units\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-d64a2d0732c5ec53@ucsd-grad-calendar",
+      "summary": "Deadline for all students to change grading option (undergraduate and graduate students)",
+      "start": "2027-05-07T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for all students to change grading option (undergraduate and graduate students)\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-fd7ba924502d4f4f@ucsd-grad-calendar",
+      "summary": "Deadline for Undergraduate students to drop (individual courses) or withdraw (from all c…",
+      "start": "2027-05-07T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Undergraduate students to drop (individual courses) or withdraw (from all courses) with \"W\" grade on transcript\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-acb5672802388836@ucsd-grad-calendar",
+      "summary": "Deadline for academic advising offices to submit degree audits to Registrar",
+      "start": "2027-05-21T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for academic advising offices to submit degree audits to Registrar\nTerm: Winter 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-c20933ef22a53231@ucsd-grad-calendar",
+      "summary": "Deadline for Graduate students to drop (individual courses) or withdraw (from all course…",
+      "start": "2027-05-28T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Graduate students to drop (individual courses) or withdraw (from all courses) with \"W\" grade on Transcript\nTerm: Spring 2027",
       "quarter": "SP27"
     },
     {
@@ -1030,6 +1862,32 @@
       "quarter": "SP27"
     },
     {
+      "uid": "blink-57b1647fcc20eca5@ucsd-grad-calendar",
+      "summary": "Deadline for Graduate students to change units",
+      "start": "2027-06-04T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for Graduate students to change units\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-78b1b3db5a9d5eaa@ucsd-grad-calendar",
+      "summary": "Last day of classes before finals",
+      "start": "2027-06-04T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Last day of classes before finals\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
       "uid": "gcal-9734a86fe1b85775@ucsd-grad-calendar",
       "summary": "Final Exams Begin",
       "start": "2027-06-05T00:00:00-07:00",
@@ -1040,6 +1898,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-78272ced26aa5b59@ucsd-grad-calendar",
+      "summary": "Finals week",
+      "start": "2027-06-05T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Finals week\nTerm: Spring 2027",
       "quarter": "SP27"
     },
     {
@@ -1056,6 +1927,58 @@
       "quarter": "SP27"
     },
     {
+      "uid": "blink-256fe7646e464aed@ucsd-grad-calendar",
+      "summary": "Finals week",
+      "start": "2027-06-11T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Finals week\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-00506e99dc0df4ff@ucsd-grad-calendar",
+      "summary": "Deadline to file for \"Removal of Grade Incomplete\" from previous quarter",
+      "start": "2027-06-11T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to file for \"Removal of Grade Incomplete\" from previous quarter\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-ffbc776eb1faafe3@ucsd-grad-calendar",
+      "summary": "Deadline for graduate programs to submit final degree forms to the Division of Graduate…",
+      "start": "2027-06-11T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for graduate programs to submit final degree forms to the Division of Graduate Education & Postdoctoral Affairs (GEPA)\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-041eaf6e72559cdc@ucsd-grad-calendar",
+      "summary": "Quarter ends Undergraduate and graduate diplomas for this term will be issued with this…",
+      "start": "2027-06-11T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Quarter ends Undergraduate and graduate diplomas for this term will be issued with this date\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
       "uid": "gcal-0d7e9024298f8d50@ucsd-grad-calendar",
       "summary": "Commencement Programs",
       "start": "2027-06-12T00:00:00-07:00",
@@ -1067,6 +1990,45 @@
       "url": "",
       "description": "",
       "quarter": "SP27"
+    },
+    {
+      "uid": "blink-c5b28885527c7c7c@ucsd-grad-calendar",
+      "summary": "Deadline to file for a Request to receive a grade of \"Incomplete\"",
+      "start": "2027-06-14T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to file for a Request to receive a grade of \"Incomplete\"\nTerm: Spring 2027",
+      "quarter": "SP27"
+    },
+    {
+      "uid": "blink-77354f17e1e925f0@ucsd-grad-calendar",
+      "summary": "Deadline for academic advising offices to submit degree audits to Registrar",
+      "start": "2027-08-13T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for academic advising offices to submit degree audits to Registrar\nTerm: Spring 2027",
+      "quarter": "SU27"
+    },
+    {
+      "uid": "blink-5b6c3e307b9ff5fb@ucsd-grad-calendar",
+      "summary": "Deadline for academic advising offices to submit degree audits to Registrar",
+      "start": "2027-11-19T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline for academic advising offices to submit degree audits to Registrar\nTerm: Summer 2027",
+      "quarter": "FA27"
     }
   ]
 }
