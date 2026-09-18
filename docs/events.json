@@ -1,20 +1,7 @@
 {
-  "generated": "2026-09-18T06:19:25.105051+00:00",
-  "count": 149,
+  "generated": "2026-09-18T12:18:37.657545+00:00",
+  "count": 148,
   "events": [
-    {
-      "uid": "localist-53774920675935-53774920675936@ucsd-grad-calendar",
-      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
-      "start": "2026-09-17T15:00:00-07:00",
-      "end": "2026-09-17T16:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status-7345",
-      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_kFit-Tn_Qx-ndeE9m_t0wA#/registration",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-1d3ba73f7ff346f9@ucsd-grad-calendar",
       "summary": "Deadline for students not attending (who are receiving financial aid, full-fee waivers o…",
