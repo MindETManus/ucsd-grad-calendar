@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T06:18:29.976574+00:00",
-  "count": 148,
+  "generated": "2026-09-19T12:18:38.538926+00:00",
+  "count": 145,
   "events": [
     {
       "uid": "blink-1d3ba73f7ff346f9@ucsd-grad-calendar",
@@ -13,45 +13,6 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "Deadline for students not attending (who are receiving financial aid, full-fee waivers or graduate fellowships/scholarships) to notify university that they will not attend. See the schedule of refunds for more information.\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53774930344351-53774930344352@ucsd-grad-calendar",
-      "summary": "Virtual: \"Maintaining Your Legal Status: Understanding the End of Duration of Status\"",
-      "start": "2026-09-18T09:00:00-07:00",
-      "end": "2026-09-18T10:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-maintaining-your-legal-status-understanding-the-end-of-duration-of-status-5028",
-      "description": "Confused about what \"Duration of Status\" and \"Fixed Admission\" actually means for your time as an F-1 or J-1 international student at UCSD? Join us for this critical informational session designed to help you navigate the complexities of visa maintenance after Duration of Status ends on September 15. This session will provide a clear overview of the new rule ending Duration of Status and the essential steps you must take to remain in legal standing.\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_wFt1d2xmRKCbKYPvhtW5cQ#/registration",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53774945820914-53774945821939@ucsd-grad-calendar",
-      "summary": "Virtual: \"Working in the U.S.\"",
-      "start": "2026-09-18T12:00:00-07:00",
-      "end": "2026-09-18T13:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/virtual-working-in-the-us-8293",
-      "description": "Join the International Services and Engagement Office (ISEO) to learn some of basics of on-campus and off-campus employment in the United States as an F-1 or J-1 student. This is an ideal session to attend in preparation for our more in-depth employment workshops offered later in the year!\n\nRegistration Link: https://ucsd.zoom.us/webinar/register/WN_hSI90CiTRgiwMjGEqBelng#/registration",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53861694727927-53861694727928@ucsd-grad-calendar",
-      "summary": "ISMP Welcome Night & Info Session",
-      "start": "2026-09-18T18:00:00-07:00",
-      "end": "2026-09-18T20:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Jacobs Hall",
-      "url": "https://calendar.ucsd.edu/event/ismp-welcome-night-info-session",
-      "description": "Learn more about ISMP's 1:1 mentorship opportunities and see if mentorship is a right fit for you! Have the chance to meet many experienced mentors and alumni who offer professional and life guidance to help international students succeed.\n\nOur mentorship topics include:\n\n- English conversation coaching\n- Interpersonal skills\n- Resume & interviews tips\n- And more!\n\nStudents will have the opportunity to get paired with mentors at this session!",
       "quarter": "FA26"
     },
     {
