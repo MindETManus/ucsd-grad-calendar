@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T12:18:33.438018+00:00",
+  "generated": "2026-09-21T18:17:11.652362+00:00",
   "count": 143,
   "events": [
     {
@@ -23,7 +23,7 @@
       "all_day": false,
       "source": "ISEO (iEvents)",
       "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1320",
       "url": "https://calendar.ucsd.edu/event/global-coffee-hour-7503",
       "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
       "quarter": "FA26"
@@ -62,7 +62,7 @@
       "all_day": false,
       "source": "ISEO (iEvents)",
       "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1320",
       "url": "https://calendar.ucsd.edu/event/global-coffee-hour-7503",
       "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
       "quarter": "FA26"
@@ -153,22 +153,9 @@
       "all_day": false,
       "source": "ISEO (iEvents)",
       "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1230",
+      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1320",
       "url": "https://calendar.ucsd.edu/event/global-coffee-hour-7503",
       "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "",
       "quarter": "FA26"
     },
     {
@@ -182,6 +169,19 @@
       "location": "",
       "url": "",
       "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "",
       "quarter": "FA26"
     },
     {
@@ -380,7 +380,7 @@
       "quarter": "FA26"
     },
     {
-      "uid": "blink-f07415be2bb2a7b5@ucsd-grad-calendar",
+      "uid": "blink-696911fe99190d20@ucsd-grad-calendar",
       "summary": "Deadline for all students to add or re-booking in classes if canceled for non-payment vi…",
       "start": "2026-10-09T00:00:00-07:00",
       "end": null,
@@ -389,7 +389,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg (undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Fall 2026",
+      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg ( undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -536,7 +536,7 @@
       "quarter": "FA26"
     },
     {
-      "uid": "blink-73a1ba9cac361201@ucsd-grad-calendar",
+      "uid": "blink-b63c68eda99160fb@ucsd-grad-calendar",
       "summary": "Deadline for all students to drop (individual courses) or withdraw (from all courses) wi…",
       "start": "2026-10-23T00:00:00-07:00",
       "end": null,
@@ -545,7 +545,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to drop (individual courses) or withdraw (from all courses) without \"W\" grade on transcript (undergraduate and graduate students)\nTerm: Fall 2026",
+      "description": "Deadline for all students to drop (individual courses) or withdraw (from all courses) without \"W\" grade on transcript ( undergraduate and graduate students)\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -692,8 +692,8 @@
       "quarter": "FA26"
     },
     {
-      "uid": "blink-68ce45c999cc6048@ucsd-grad-calendar",
-      "summary": "Deadline for all students to change grading option (undergraduate and graduate students)",
+      "uid": "blink-9b2906011529bcf9@ucsd-grad-calendar",
+      "summary": "Deadline for all students to change grading option ( undergraduate and graduate students)",
       "start": "2026-11-06T00:00:00-08:00",
       "end": null,
       "all_day": true,
@@ -701,7 +701,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to change grading option (undergraduate and graduate students)\nTerm: Fall 2026",
+      "description": "Deadline for all students to change grading option ( undergraduate and graduate students)\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -1121,7 +1121,7 @@
       "quarter": "WI27"
     },
     {
-      "uid": "blink-8a7a69621452c5bf@ucsd-grad-calendar",
+      "uid": "blink-796817e463ffb47d@ucsd-grad-calendar",
       "summary": "Deadline for all students to add or re-booking in classes if canceled for non-payment vi…",
       "start": "2027-01-15T00:00:00-08:00",
       "end": null,
@@ -1130,7 +1130,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg (undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Winter 2027",
+      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg ( undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Winter 2027",
       "quarter": "WI27"
     },
     {
@@ -1186,7 +1186,7 @@
       "quarter": "WI27"
     },
     {
-      "uid": "blink-07e3d1a55a3fef68@ucsd-grad-calendar",
+      "uid": "blink-81a72fea61d03c55@ucsd-grad-calendar",
       "summary": "Deadline for all students to drop (individual courses) or withdraw (from all courses) wi…",
       "start": "2027-01-29T00:00:00-08:00",
       "end": null,
@@ -1195,7 +1195,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to drop (individual courses) or withdraw (from all courses) without \"W\" grade on transcript (undergraduate and graduate students)\nTerm: Winter 2027",
+      "description": "Deadline for all students to drop (individual courses) or withdraw (from all courses) without \"W\" grade on transcript ( undergraduate and graduate students)\nTerm: Winter 2027",
       "quarter": "WI27"
     },
     {
@@ -1225,8 +1225,8 @@
       "quarter": "WI27"
     },
     {
-      "uid": "blink-35a1d0dbb7575336@ucsd-grad-calendar",
-      "summary": "Deadline for all students to change grading option (undergraduate and graduate students)",
+      "uid": "blink-4ca5cffac1c90eb6@ucsd-grad-calendar",
+      "summary": "Deadline for all students to change grading option ( undergraduate and graduate students)",
       "start": "2027-02-12T00:00:00-08:00",
       "end": null,
       "all_day": true,
@@ -1234,7 +1234,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to change grading option (undergraduate and graduate students)\nTerm: Winter 2027",
+      "description": "Deadline for all students to change grading option ( undergraduate and graduate students)\nTerm: Winter 2027",
       "quarter": "WI27"
     },
     {
@@ -1524,7 +1524,7 @@
       "quarter": "WI27"
     },
     {
-      "uid": "blink-cb98ee025817d342@ucsd-grad-calendar",
+      "uid": "blink-9d3e04429abea55e@ucsd-grad-calendar",
       "summary": "Deadline for all students to add or re-booking in classes if canceled for non-payment vi…",
       "start": "2027-04-09T00:00:00-07:00",
       "end": null,
@@ -1533,7 +1533,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg (undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Spring 2027",
+      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg ( undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Spring 2027",
       "quarter": "SP27"
     },
     {
@@ -1589,7 +1589,7 @@
       "quarter": "SP27"
     },
     {
-      "uid": "blink-dc4925d7d9f9dcbe@ucsd-grad-calendar",
+      "uid": "blink-d7626f4a7eab4dfc@ucsd-grad-calendar",
       "summary": "Deadline for all students to drop (individual courses) or withdraw (from all courses) wi…",
       "start": "2027-04-23T00:00:00-07:00",
       "end": null,
@@ -1598,7 +1598,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to drop (individual courses) or withdraw (from all courses) without \"W\" grade on transcript (undergraduate and graduate students)\nTerm: Spring 2027",
+      "description": "Deadline for all students to drop (individual courses) or withdraw (from all courses) without \"W\" grade on transcript ( undergraduate and graduate students)\nTerm: Spring 2027",
       "quarter": "SP27"
     },
     {
@@ -1615,8 +1615,8 @@
       "quarter": "SP27"
     },
     {
-      "uid": "blink-d64a2d0732c5ec53@ucsd-grad-calendar",
-      "summary": "Deadline for all students to change grading option (undergraduate and graduate students)",
+      "uid": "blink-160076fba755b8e1@ucsd-grad-calendar",
+      "summary": "Deadline for all students to change grading option ( undergraduate and graduate students)",
       "start": "2027-05-07T00:00:00-07:00",
       "end": null,
       "all_day": true,
@@ -1624,7 +1624,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to change grading option (undergraduate and graduate students)\nTerm: Spring 2027",
+      "description": "Deadline for all students to change grading option ( undergraduate and graduate students)\nTerm: Spring 2027",
       "quarter": "SP27"
     },
     {
