@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-22T18:19:25.684240+00:00",
-  "count": 142,
+  "generated": "2026-09-23T00:20:07.250372+00:00",
+  "count": 141,
   "events": [
     {
       "uid": "blink-c4625ee7b9091a92@ucsd-grad-calendar",
@@ -234,19 +234,6 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/resume-review-lab-2435",
       "description": "Roll up your sleeves and get your resume ready for success! This hands-on session gives you dedicated time to work on your resume while receiving customized feedback from our Career Advisors. Walk away with a polished resume that helps you stand out and take the next step toward your career goals.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53861737661926-53873568558654@ucsd-grad-calendar",
-      "summary": "ISMP Mentorship  Workshop #2:  Connecting with Americans: Work Culture & Academia",
-      "start": "2026-10-01T18:00:00-07:00",
-      "end": "2026-10-01T20:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Design & Innovations Building",
-      "url": "https://calendar.ucsd.edu/event/ismp-mentorship-workshop-2-connecting-with-americans-work-culture-academia",
-      "description": "Learn how communication, networking, and relationship-building work in American workplaces and academia. This session offers practical guidance for connecting confidently with classmates, colleagues, and professors.",
       "quarter": "FA26"
     },
     {
