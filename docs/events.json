@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T06:19:50.772756+00:00",
-  "count": 139,
+  "generated": "2026-09-24T12:19:24.337746+00:00",
+  "count": 136,
   "events": [
     {
       "uid": "blink-e3e2a2bc1486e081@ucsd-grad-calendar",
@@ -16,32 +16,6 @@
       "quarter": "FA26"
     },
     {
-      "uid": "localist-53444277124889-53444277125915@ucsd-grad-calendar",
-      "summary": "Global Coffee Hour",
-      "start": "2026-09-23T10:00:00-07:00",
-      "end": "2026-09-23T11:30:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1320",
-      "url": "https://calendar.ucsd.edu/event/global-coffee-hour-7503",
-      "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53692391950324-53692391951349@ucsd-grad-calendar",
-      "summary": "Resume Review Lab",
-      "start": "2026-09-23T11:00:00-07:00",
-      "end": "2026-09-23T13:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/resume-review-lab",
-      "description": "Roll up your sleeves and get your resume ready for success! This hands-on session gives you dedicated time to work on your resume while receiving customized feedback from our Career Advisors. Walk away with a polished resume that helps you stand out and take the next step toward your career goals.\n\nRegistration through Handshake is required.",
-      "quarter": "FA26"
-    },
-    {
       "uid": "gcal-29c4b0c810255771@ucsd-grad-calendar",
       "summary": "Engineering Resource Fair | Jacobs School",
       "start": "2026-09-23T20:00:00+00:00",
@@ -52,19 +26,6 @@
       "location": "",
       "url": "",
       "description": "",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53861715289233-53873539071855@ucsd-grad-calendar",
-      "summary": "ISMP Mentorship Kick-Off & Workshop #1: How to Connect w/ American Classmates & Professors",
-      "start": "2026-09-23T18:00:00-07:00",
-      "end": "2026-09-23T20:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Design and Innovation Building",
-      "url": "https://calendar.ucsd.edu/event/ismp-mentorship-kick-off-workshop-1-how-to-connect-w-american-classmates-professors",
-      "description": "Learn how communication, networking, and relationship-building work in U.S. universities. This session offers practical guidance for connecting confidently with classmates, colleagues, and professors.",
       "quarter": "FA26"
     },
     {
@@ -121,19 +82,6 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -143,6 +91,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
       "quarter": "FA26"
     },
     {
