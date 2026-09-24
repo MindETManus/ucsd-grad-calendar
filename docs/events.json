@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T12:19:24.337746+00:00",
-  "count": 136,
+  "generated": "2026-09-24T18:18:49.288405+00:00",
+  "count": 135,
   "events": [
     {
       "uid": "blink-e3e2a2bc1486e081@ucsd-grad-calendar",
@@ -82,19 +82,6 @@
     },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering",
-      "start": "2026-09-25T14:00:00-07:00",
-      "end": "2026-09-25T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Lingyan Shi, Ph.D.",
       "start": "2026-09-25T14:00:00-07:00",
       "end": "2026-09-25T15:00:00-07:00",
@@ -104,6 +91,19 @@
       "location": "",
       "url": "",
       "description": "2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b> </b><br><b><br></b><br><b><a href=\"https://be.ucsd.edu/seminar/2026/2026-dr-kitty-fronek-and-dr-arnost-fronek-endowed-lecture-watching-chemistry-life\">\"Watching the Chemistry of Life Unfold - Seeing the growth, aging and death of cells\"</a></b><br><b>Lingyan Shi, Ph.D.</b><br>Associate Professor<br>Shu Chien-Gene Lay Department of Bioengineering<br>University of California, San Diego",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
+      "summary": "BENG 281 | Seminar in Bioengineering",
+      "start": "2026-09-25T14:00:00-07:00",
+      "end": "2026-09-25T15:00:00-07:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "",
       "quarter": "FA26"
     },
     {
@@ -221,19 +221,6 @@
       "location": "Doyle Park",
       "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
       "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53692900628052-53692900629077@ucsd-grad-calendar",
-      "summary": "Resume Review Lab",
-      "start": "2026-10-06T11:00:00-07:00",
-      "end": "2026-10-06T13:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/resume-review-lab-8436",
-      "description": "Roll up your sleeves and get your resume ready for success! This hands-on session gives you dedicated time to work on your resume while receiving customized feedback from our Career Advisors. Walk away with a polished resume that helps you stand out and take the next step toward your career goals.",
       "quarter": "FA26"
     },
     {
