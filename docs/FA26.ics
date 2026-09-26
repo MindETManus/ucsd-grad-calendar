@@ -5,40 +5,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:UCSD Grad Life Calendar — FA26
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:First day of classes
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-DTSTAMP:20260926T002006Z
-UID:blink-c1df0c157df03b08@ucsd-grad-calendar
-CATEGORIES:Enrollment (Booking)
-DESCRIPTION:First day of classes\nTerm: Fall 2026\n\nSource: Enrollment (B
- ooking)\n\nhttps://blink.ucsd.edu/instructors/courses/enrollment/calendars
- /2026.html
-URL:https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Global Coffee Hour
-DTSTART:20260925T170000Z
-DTEND:20260925T183000Z
-DTSTAMP:20260926T002006Z
-UID:localist-53444277124889-53444277126940@ucsd-grad-calendar
-CATEGORIES:ISEO (iEvents)
-DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
- try! Global Coffee Hour is meant to bring together both international and 
- domestic students\, scholars and families to celebrate our global communit
- y at UC San Diego. Join us for fun activities and build connections that e
- xpand across the world.\n\nSource: ISEO (iEvents)\n\nhttps://calendar.ucsd
- .edu/event/global-coffee-hour-7503
-LOCATION:Triton Administrative Services Building\, East Tower\, Multipurpo
- se Room 1320
-URL:https://calendar.ucsd.edu/event/global-coffee-hour-7503
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering
 DTSTART:20260925T210000Z
 DTEND:20260925T220000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -47,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Lingyan Shi\, Ph.D.
 DTSTART:20260925T210000Z
 DTEND:20260925T220000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:2026 Dr. Kitty Fronek and Dr. Arnost Fronek Endowed Lecture<b>
@@ -63,7 +33,7 @@ SUMMARY:Late registration fee payment deadline (to avoid being dropped fro
  m booking classes or w…
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-37ecac0d4977ba14@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Late registration fee payment deadline (to avoid being dropped
@@ -77,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Resume Review Lab
 DTSTART:20260929T180000Z
 DTEND:20260929T200000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53692842887105-53692842887106@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Roll up your sleeves and get your resume ready for success! Th
@@ -93,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Registration fee payment deadline
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-0ccb1d2ed713b4e5@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Registration fee payment deadline\nTerm: Fall 2026\n\nSource: 
@@ -106,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Career Fair Prep Drop-Ins: Strategy Sessions and Quick Questions
 DTSTART:20260930T170000Z
 DTEND:20260930T220000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53693546275661-53693546276686@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Have questions about the career fairs? Drop by anytime during 
@@ -125,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Resume Review Lab
 DTSTART:20261001T180000Z
 DTEND:20261001T200000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53692889222829-53692889223854@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Roll up your sleeves and get your resume ready for success! Th
@@ -141,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:ISMP Okonomiyaki Night
 DTSTART:20261002T013000Z
 DTEND:20261002T023000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53781562912916-53781562912917@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:International Student Mentorship Program (ISMP) is a nonprofit
@@ -161,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Kelly Kersten\, Ph.D.
 DTSTART:20261002T210000Z
 DTEND:20261002T220000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/decoding-macrophage-
@@ -177,7 +147,7 @@ SUMMARY:Late registration fee payment deadline (to avoid being dropped fro
  m booking classes or w…
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-bd5970b5aa2c21cc@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Late registration fee payment deadline (to avoid being dropped
@@ -191,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Mommy/Daddy and Me
 DTSTART:20261005T220000Z
 DTEND:20261005T230000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53470606851954-53470606852980@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY We are excited to welcome you and your little ones 
@@ -211,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:UC San Diego Alumni Biotech Mixer
 DTSTART:20261007T000000Z
 DTEND:20261007T020000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-4fed529b5add2078@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://calendar.ucsd.edu/event/biotech-mixer" target
@@ -229,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Fall 2026 Career Fair
 DTSTART:20261007T190000Z
 DTEND:20261007T230000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53127945276131-53127945276132@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Please join us on Wednesday\, October 7th\, from 12:00 pm - 4:
@@ -249,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to apply to Return to UCSD (undergraduate students)
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-c65459a49254e7da@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to apply to Return to UCSD (undergraduate students)\n
@@ -262,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Automatic wait lists officially end
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-b87a8a6c0100a03a@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Automatic wait lists officially end\nTerm: Fall 2026\n\nSource
@@ -276,7 +246,7 @@ SUMMARY:Deadline for all students to add or re-booking in classes if cance
  led for non-payment vi…
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-696911fe99190d20@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to add or re-booking in classes if c
@@ -292,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for undergraduate students to apply for part-time status
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-cd6e6c0aabc673d7@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for undergraduate students to apply for part-time sta
@@ -306,7 +276,7 @@ SUMMARY:Deadline for Graduate students to file for leave of absence\, in a
  bsentia or to apply for…
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-7cfa3a056d8dd3ab@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to file for leave of absence\, 
@@ -320,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Hongbo Zhao\, Ph.D.
 DTSTART:20261009T210000Z
 DTEND:20261009T220000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/presentation-be-anno
@@ -332,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20261014T150000Z
 DTEND:20261014T163000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53444457733271-53444457733272@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -349,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:LinkedIn & Networking
 DTSTART:20261014T200000Z
 DTEND:20261014T210000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53692962197170-53692962197171@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:In this workshop\, students will discover how to build a stron
@@ -367,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:ISMP Connect: Speed-Friending & How to Ask Great Questions
 DTSTART:20261016T010000Z
 DTEND:20261016T030000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53861757015892-53873621896316@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Learn how to connect meaningfully with people through asking g
@@ -383,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to file for Advancement to Candidacy for Master's degrees
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-e3ac991dd7ab4091@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for Advancement to Candidacy for Master's deg
@@ -396,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Laurel Hind\, Ph.D.
 DTSTART:20261016T210000Z
 DTEND:20261016T220000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/inflammation-chip-re
@@ -409,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Experience Engineering | JSOE
 DTSTART:20261017T173000Z
 DTEND:20261017T193000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-d94ca7e85541f326@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<b>What is Experience Engineering? </b><br>Experience Enginee
@@ -426,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:Resume and Cover Letter Workshop
 DTSTART:20261021T200000Z
 DTEND:20261021T210000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53693218134128-53693218134129@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:A workshop on how to construct and improve resumes and cover l
@@ -440,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:Internship/Job & Career Search Strategies
 DTSTART:20261023T000000Z
 DTEND:20261023T010000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53693248431374-53693248431375@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Cover effective strategies to explore industries\, find positi
@@ -457,7 +427,7 @@ SUMMARY:Deadline for all students to drop (individual courses) or withdraw
   (from all courses) wi…
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-b63c68eda99160fb@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to drop (individual courses) or with
@@ -471,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:Craft Event
 DTSTART:20261024T173000Z
 DTEND:20261024T190000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53470750658034-53753955944035@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Spend some time with ISEO and other members of the
@@ -486,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Interviewing Tips & Tricks
 DTSTART:20261028T200000Z
 DTEND:20261028T210000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53693260645628-53693260646653@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Make a successful impression by learning different types of in
@@ -500,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Narayan Bhattarai\, Ph.D.
 DTSTART:20261030T210000Z
 DTEND:20261030T220000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -509,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to apply to Return to UCSD (undergraduate students)
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-d5923f659c07569a@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to apply to Return to UCSD (undergraduate students)\n
@@ -522,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:Mommy/Daddy and Me
 DTSTART:20261102T230000Z
 DTEND:20261103T000000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53470606851954-53470606854005@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY We are excited to welcome you and your little ones 
@@ -542,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:Fall 2026 Business\, Law\, and Non-STEM Graduate School Fair
 DTSTART:20261104T180000Z
 DTEND:20261104T220000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53128000807058-53128000807059@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Explore Your Future at the UC San Diego 2026 Business\, Law\, 
@@ -564,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Internship/Job & Career Search Strategies
 DTSTART:20261104T210000Z
 DTEND:20261104T220000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53693269256294-53693269257319@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Don’t let your career search feel like wandering through a c
@@ -580,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:Fall 2026 Health\, Medical Science\, and STEM Graduate School Fair
 DTSTART:20261105T180000Z
 DTEND:20261105T220000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53128057316370-53128057317395@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Explore Your Future at the UC San Diego Fall 2026 Health\, Med
@@ -602,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:FA26 Graduate & Professional Student Hours
 DTSTART:20261105T230000Z
 DTEND:20261106T001500Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53321388990357-53321419394550@ucsd-grad-calendar
 CATEGORIES:GEPA (Grad Ed & Postdoc)
 DESCRIPTION:This is the Fall 2026 session that offers graduate and profess
@@ -618,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:Resume & Cover Letter
 DTSTART:20261106T010000Z
 DTEND:20261106T020000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53693316195888-53693316195889@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Just like the perfect pumpkin spice latte\, your application m
@@ -632,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for Undergraduate students to change units
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-764fad4a3aaef606@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Undergraduate students to change units\nTerm: Fal
@@ -646,7 +616,7 @@ SUMMARY:Deadline for all students to change grading option ( undergraduate
   and graduate students)
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-9b2906011529bcf9@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to change grading option ( undergrad
@@ -661,7 +631,7 @@ SUMMARY:Deadline for Undergraduate students to drop (individual courses) o
  r withdraw (from all c…
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-cdb53c220fbc3a06@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Undergraduate students to drop (individual course
@@ -675,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Pallav Kosuri\, Ph.D.
 DTSTART:20261106T220000Z
 DTEND:20261106T230000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -684,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:Veterans Day Holiday
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-8bf84ee079483898@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -693,7 +663,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Jun Chen\, Ph.D.
 DTSTART:20261113T220000Z
 DTEND:20261113T230000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/discovering-magnetoe
@@ -706,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20261118T160000Z
 DTEND:20261118T173000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53444457733271-53444610233958@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -723,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Mireille Kamariza\, Ph.D.
 DTSTART:20261120T220000Z
 DTEND:20261120T230000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/engineering-programm
@@ -736,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:Craft Event
 DTSTART:20261121T183000Z
 DTEND:20261121T200000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53470750658034-53470750661109@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Spend some time with ISEO and other members of the
@@ -751,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:Thanksgiving Holiday
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-11d475cd62bc7a0c@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -761,7 +731,7 @@ SUMMARY:Deadline for Graduate students to drop (individual courses) or wit
  hdraw (from all course…
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-6c73ee1826962f4f@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to drop (individual courses) or
@@ -776,7 +746,7 @@ SUMMARY:Billing statement available on TritonPay. (eBill available continu
  ing students)
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-f068c30ba813f992@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Billing statement available on TritonPay. (eBill available con
@@ -789,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for Graduate students to change units
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-705dad595f63852c@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to change units\nTerm: Fall 202
@@ -802,7 +772,7 @@ BEGIN:VEVENT
 SUMMARY:Last day of classes before finals
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-6c0b19b0ff040418@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Last day of classes before finals\nTerm: Fall 2026\n\nSource: 
@@ -815,7 +785,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Mia Huang\, Ph.D.
 DTSTART:20261204T220000Z
 DTEND:20261204T230000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<b><a href="https://be.ucsd.edu/seminar/2026/mapping-glycan-pr
@@ -829,7 +799,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams Begin
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-6cd91170b26c0ef6@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -838,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:Finals week
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-8c35fdcf729c979b@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Finals week\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n
@@ -851,7 +821,7 @@ BEGIN:VEVENT
 SUMMARY:Craft Event
 DTSTART:20261205T183000Z
 DTEND:20261205T200000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53470750658034-53470750662134@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Spend some time with ISEO and other members of the
@@ -866,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:Mommy/Daddy and Me
 DTSTART:20261207T230000Z
 DTEND:20261208T000000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53470606851954-53470606855030@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY We are excited to welcome you and your little ones 
@@ -886,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20261209T160000Z
 DTEND:20261209T173000Z
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:localist-53444457733271-53444457734297@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -904,7 +874,7 @@ SUMMARY:Deadline for students not attending (who are receiving financial a
  id\, full-fee waivers o…
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-5a49d4dcfa537e9e@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for students not attending (who are receiving financi
@@ -920,7 +890,7 @@ SUMMARY:Deadline for graduate programs to submit final degree forms to the
   Division of Graduate…
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-476897e97c90a4b1@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for graduate programs to submit final degree forms to
@@ -934,7 +904,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams End
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-234b3564dfdedeb9@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -943,7 +913,7 @@ BEGIN:VEVENT
 SUMMARY:Finals week
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-fc97b91314788e77@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Finals week\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n
@@ -957,7 +927,7 @@ SUMMARY:Deadline to file for "Removal of Grade Incomplete" from previous q
  uarter
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-792f0deb1e7993bd@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for "Removal of Grade Incomplete" from previo
@@ -971,7 +941,7 @@ SUMMARY:Quarter ends Undergraduate and graduate diplomas for this term wil
  l be issued with this…
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-22698ae674ea8c61@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Quarter ends Undergraduate and graduate diplomas for this term
@@ -985,7 +955,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for mandatory health insurance waiver - all students
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-a3efa77409f11270@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for mandatory health insurance waiver - all students
@@ -998,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to file for a Request to receive a grade of "Incomplete"
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-8eaee76e13fd4006@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for a Request to receive a grade of "Incomple
@@ -1012,7 +982,7 @@ SUMMARY:Late health insurance fee waiver deadline (no waivers will be acce
  pted beyond this date)
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:blink-4321e67c2bc9c4b9@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Late health insurance fee waiver deadline (no waivers will be 
@@ -1026,7 +996,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Break
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-047bc192a61ad9d0@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1035,7 +1005,7 @@ BEGIN:VEVENT
 SUMMARY:New Year's Holiday
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20260926T002006Z
+DTSTAMP:20260926T110739Z
 UID:gcal-90c51b5987208bea@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
