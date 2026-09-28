@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-28T13:27:04.596085+00:00",
-  "count": 127,
+  "generated": "2026-09-28T23:05:59.234706+00:00",
+  "count": 126,
   "events": [
     {
       "uid": "blink-37ecac0d4977ba14@ucsd-grad-calendar",
@@ -247,19 +247,6 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/linkedin-networking-5376",
       "description": "In this workshop, students will discover how to build a strong online presence, craft an engaging personal brand, and leverage LinkedIn’s features to connect with professionals in their desired fields. We’ll cover best practices for networking, including informational interviews, elevator pitches, and effective outreach strategies. Step by step, we’ll guide students in optimizing their LinkedIn profiles to attract recruiters and employers.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53861757015892-53873621896316@ucsd-grad-calendar",
-      "summary": "ISMP Connect: Speed-Friending & How to Ask Great Questions",
-      "start": "2026-10-15T18:00:00-07:00",
-      "end": "2026-10-15T20:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Design and Innovation Building",
-      "url": "https://calendar.ucsd.edu/event/ismp-connect-series-part-1-speed-friending-how-to-ask-great-questions",
-      "description": "Learn how to connect meaningfully with people through asking great questions. This session provides a space for you to practice talking with ISMP mentors and students in a comfortable, fun setting.",
       "quarter": "FA26"
     },
     {
