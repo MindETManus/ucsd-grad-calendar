@@ -1,33 +1,7 @@
 {
-  "generated": "2026-09-30T04:59:51.162182+00:00",
-  "count": 133,
+  "generated": "2026-09-30T12:15:51.770420+00:00",
+  "count": 131,
   "events": [
-    {
-      "uid": "blink-37ecac0d4977ba14@ucsd-grad-calendar",
-      "summary": "Late registration fee payment deadline (to avoid being dropped from booking classes or w…",
-      "start": "2026-09-28T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "Enrollment (Booking)",
-      "color": "#455a64",
-      "location": "",
-      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Late registration fee payment deadline (to avoid being dropped from booking classes or wait listed courses)\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53692842887105-53692842887106@ucsd-grad-calendar",
-      "summary": "Resume Review Lab",
-      "start": "2026-09-29T11:00:00-07:00",
-      "end": "2026-09-29T13:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/resume-review-lab-6728",
-      "description": "Roll up your sleeves and get your resume ready for success! This hands-on session gives you dedicated time to work on your resume while receiving customized feedback from our Career Advisors. Walk away with a polished resume that helps you stand out and take the next step toward your career goals.",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-0ccb1d2ed713b4e5@ucsd-grad-calendar",
       "summary": "Registration fee payment deadline",
