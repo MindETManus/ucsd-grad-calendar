@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T22:05:03.151525+00:00",
-  "count": 126,
+  "generated": "2026-09-30T04:59:51.162182+00:00",
+  "count": 133,
   "events": [
     {
       "uid": "blink-37ecac0d4977ba14@ucsd-grad-calendar",
@@ -224,6 +224,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54109416920184-54109416920185@ucsd-grad-calendar",
+      "summary": "Language Conversation Tables",
+      "start": "2026-10-13T17:00:00-07:00",
+      "end": "2026-10-13T18:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall ",
+      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
+      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53444457733271-53444457733272@ucsd-grad-calendar",
       "summary": "Global Coffee Hour",
       "start": "2026-10-14T08:00:00-07:00",
@@ -289,6 +302,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54109416920184-54109416921210@ucsd-grad-calendar",
+      "summary": "Language Conversation Tables",
+      "start": "2026-10-20T17:00:00-07:00",
+      "end": "2026-10-20T18:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall ",
+      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
+      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53693218134128-53693218134129@ucsd-grad-calendar",
       "summary": "Resume and Cover Letter Workshop",
       "start": "2026-10-21T13:00:00-07:00",
@@ -341,6 +367,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54109416920184-54109416922235@ucsd-grad-calendar",
+      "summary": "Language Conversation Tables",
+      "start": "2026-10-27T17:00:00-07:00",
+      "end": "2026-10-27T18:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall ",
+      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
+      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53693260645628-53693260646653@ucsd-grad-calendar",
       "summary": "Interviewing Tips & Tricks",
       "start": "2026-10-28T13:00:00-07:00",
@@ -390,6 +429,19 @@
       "location": "Doyle Park",
       "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
       "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54109416920184-54109416922236@ucsd-grad-calendar",
+      "summary": "Language Conversation Tables",
+      "start": "2026-11-03T17:00:00-08:00",
+      "end": "2026-11-03T18:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall ",
+      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
+      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
       "quarter": "FA26"
     },
     {
@@ -510,6 +562,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54109416920184-54109416923261@ucsd-grad-calendar",
+      "summary": "Language Conversation Tables",
+      "start": "2026-11-10T17:00:00-08:00",
+      "end": "2026-11-10T18:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall ",
+      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
+      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-8bf84ee079483898@ucsd-grad-calendar",
       "summary": "Veterans Day Holiday",
       "start": "2026-11-11T00:00:00-08:00",
@@ -533,6 +598,19 @@
       "location": "",
       "url": "",
       "description": "<a href=\"https://be.ucsd.edu/seminar/2026/discovering-magnetoelasticity-soft-matter-bioelectronics\">Discovering Magnetoelasticity in Soft Matter for Bioelectronics</a><br><b>Jun Chen, Ph.D.</b><br>Associate Professor<br>UCLA Innovation Fellows<br>UCLA Society of Hellman Fellows<br>UCLA Department of Bioengineering",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54109416920184-54109416924286@ucsd-grad-calendar",
+      "summary": "Language Conversation Tables",
+      "start": "2026-11-17T17:00:00-08:00",
+      "end": "2026-11-17T18:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall ",
+      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
+      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
       "quarter": "FA26"
     },
     {
@@ -572,6 +650,19 @@
       "location": "Craft Center",
       "url": "https://calendar.ucsd.edu/event/craft-event-7052",
       "description": "iCOMMUNITY: Spend some time with ISEO and other members of the international community to enjoy creative socializing! We will provide supplies for a craft each month in collaboration with the Craft Center. Families are also welcome to join in the fun.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54109416920184-54109416924287@ucsd-grad-calendar",
+      "summary": "Language Conversation Tables",
+      "start": "2026-11-24T17:00:00-08:00",
+      "end": "2026-11-24T18:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall ",
+      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
+      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
       "quarter": "FA26"
     },
     {
