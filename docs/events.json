@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T12:50:19.465097+00:00",
-  "count": 132,
+  "generated": "2026-10-01T22:31:44.858260+00:00",
+  "count": 156,
   "events": [
     {
       "uid": "blink-0ccb1d2ed713b4e5@ucsd-grad-calendar",
@@ -13,6 +13,32 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "Registration fee payment deadline\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54125377999296-54125378011596@ucsd-grad-calendar",
+      "summary": "Provider spotlight: campusSIMS",
+      "start": "2026-10-01T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/provider-spotlight-campussims",
+      "description": "CampusSIMS is our trusted wireless partner, created especially for international students:\n\nWhy should you get your U.S. phone number through campusSIMS? In addition to unlimited talk & text plus high-speed data on America's largest 5G network, they also provide:\n- Plans starting at $15/month with no contracts\n- International credit cards accepted\n- No US bank account required\n- A U.S. phone number that's ready to use as soon as you arrive in the U.S.\n\nGet your U.S. phone number today with campusSIMS and take one more thing off your to-do list. Safe travels!",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54125345904823-54125345921218@ucsd-grad-calendar",
+      "summary": "Provider Spotlight: LAX LINQ",
+      "start": "2026-10-01T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/provider-spotlight-lax-linq",
+      "description": "LAX LINQ (SD - LAX Shuttle)\n\nA veteran-owned shuttle service connecting San Diego and Los Angeles International Airport (LAX). With six daily trips, it's the most affordable option—trusted by over 2,000 five-star Google reviews. \n\nVisit LAXLINQ.comLinks to an external site. for more information. \n\nProvider spotlight focuses on highlighting local resources that work with ISEO in supporting our orientation and programming efforts. We are thankful for the valuable contributions these sponsors provide which enable us to enhance the new international student and scholar experience. Note that all…",
       "quarter": "FA26"
     },
     {
@@ -29,6 +55,32 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-51766255022586-54005532166265@ucsd-grad-calendar",
+      "summary": "English Conversation Hour",
+      "start": "2026-10-01T15:30:00-07:00",
+      "end": "2026-10-01T16:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Matthews Quad Picnic Tables",
+      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
+      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53861737661926-53873568558654@ucsd-grad-calendar",
+      "summary": "ISMP Mentorship  Workshop #2:  Connecting with Americans: Work Culture & Academia",
+      "start": "2026-10-01T18:00:00-07:00",
+      "end": "2026-10-01T20:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Center for Memory and Recording Research",
+      "url": "https://calendar.ucsd.edu/event/ismp-mentorship-workshop-2-connecting-with-americans-work-culture-academia",
+      "description": "Learn how communication, networking, and relationship-building work in American workplaces and academia. This session offers practical guidance for connecting confidently with classmates, colleagues, and professors.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53781562912916-53781562912917@ucsd-grad-calendar",
       "summary": "ISMP Okonomiyaki Night",
       "start": "2026-10-01T18:30:00-07:00",
@@ -39,6 +91,32 @@
       "location": "Host Home Near Campus (Rides from Price Center Loop)",
       "url": "https://calendar.ucsd.edu/event/ismp-dinner-in-an-american-home-3306",
       "description": "International Student Mentorship Program (ISMP) is a nonprofit organization aiming to provide support and community for international students before, during, and after their time studying in America! ISMP is made up of a network of volunteer mentors across various locations in the United States and Asia. You can learn more at https://www.internationalmentorship.org/\n\n\nThis year, ISMP San Diego is starting a Japan-America international connection group! Our volunteer mentors include UC San Diego, UC Berkeley, and UC Davis graduates - and some of us recently returned from a year of…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54125377999296-54125378012621@ucsd-grad-calendar",
+      "summary": "Provider spotlight: campusSIMS",
+      "start": "2026-10-02T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/provider-spotlight-campussims",
+      "description": "CampusSIMS is our trusted wireless partner, created especially for international students:\n\nWhy should you get your U.S. phone number through campusSIMS? In addition to unlimited talk & text plus high-speed data on America's largest 5G network, they also provide:\n- Plans starting at $15/month with no contracts\n- International credit cards accepted\n- No US bank account required\n- A U.S. phone number that's ready to use as soon as you arrive in the U.S.\n\nGet your U.S. phone number today with campusSIMS and take one more thing off your to-do list. Safe travels!",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54125345904823-54125345924291@ucsd-grad-calendar",
+      "summary": "Provider Spotlight: LAX LINQ",
+      "start": "2026-10-02T00:00:00-07:00",
+      "end": null,
+      "all_day": true,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/provider-spotlight-lax-linq",
+      "description": "LAX LINQ (SD - LAX Shuttle)\n\nA veteran-owned shuttle service connecting San Diego and Los Angeles International Airport (LAX). With six daily trips, it's the most affordable option—trusted by over 2,000 five-star Google reviews. \n\nVisit LAXLINQ.comLinks to an external site. for more information. \n\nProvider spotlight focuses on highlighting local resources that work with ISEO in supporting our orientation and programming efforts. We are thankful for the valuable contributions these sponsors provide which enable us to enhance the new international student and scholar experience. Note that all…",
       "quarter": "FA26"
     },
     {
@@ -81,6 +159,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54117687894108-54117687894109@ucsd-grad-calendar",
+      "summary": "Lilly Lunch & Learn",
+      "start": "2026-10-06T12:00:00-07:00",
+      "end": "2026-10-06T13:00:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/lilly-lunch-learn-3157",
+      "description": "Join Lilly at UCSD's Career Center on Tuesday, October 6th from 12:00 - 1:00 PM for a Lunch & Learn session. There, you will have the opportunity to learn more about Lilly, the kind of R&D work being done and available internship opportunities!",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-4fed529b5add2078@ucsd-grad-calendar",
       "summary": "UC San Diego Alumni Biotech Mixer",
       "start": "2026-10-07T00:00:00+00:00",
@@ -94,6 +185,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54117254551566-54117254551567@ucsd-grad-calendar",
+      "summary": "TSMC Information Session",
+      "start": "2026-10-06T17:00:00-07:00",
+      "end": "2026-10-06T18:30:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/tsmc-information-session",
+      "description": "Join TSMC AZ Career Talk session to discover the secrets to success from industry experts! The talk will provide you with valuable suggestion on personal growth and strategies you need to take your career to the next level. Don't miss out on this amazing opportunity to network with us and explore opportunities at TSMC. \n\nThe target audience for this event is seniors and recent graduates in engineering and data science related majors. Food will be provided!\n\nNOTE: Attendance is on a first come, first served basis. Registration does not guarantee admission – it simply indicates intention to…",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53127945276131-53127945276132@ucsd-grad-calendar",
       "summary": "Fall 2026 Career Fair",
       "start": "2026-10-07T12:00:00-07:00",
@@ -104,6 +208,45 @@
       "location": "LionTree Arena",
       "url": "https://calendar.ucsd.edu/event/fall-2026-career-fair",
       "description": "Please join us on Wednesday, October 7th, from 12:00 pm - 4:00 pm for the UC San Diego Fall Career Fair. This event will be at the Liontree Arena with doors opening at 12:00 pm and closing at 4:00 pm\n\nSTUDENT REGISTRATION DETAILS\n\nThe career fairs are open to UC San Diego students and alumni only.In order to gain admittance to the fair, students MUST register through Handshake AND bring their student ID on the day of the fair.The student entrance is located on 2nd level of Liontree Arena near the ticket booths.  We encourage students/alumni not to bring bags or backpacks.  All items must be…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54117760482601-54117760483626@ucsd-grad-calendar",
+      "summary": "BAE Systems Information Session",
+      "start": "2026-10-08T12:00:00-07:00",
+      "end": "2026-10-08T13:00:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/bae-systems-information-session",
+      "description": "Join us for an information session to learn more about careers at BAE Systems in our Software Engineering function. Speak to our hiring team about opportunities to join as an intern or entry-level employee.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-51766255022586-54005532171386@ucsd-grad-calendar",
+      "summary": "English Conversation Hour",
+      "start": "2026-10-08T15:30:00-07:00",
+      "end": "2026-10-08T16:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Matthews Quad Picnic Tables",
+      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
+      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54117815866377-54117815866378@ucsd-grad-calendar",
+      "summary": "Discover Insmed - Explore the Science & Culture Behind Our Mission",
+      "start": "2026-10-08T16:00:00-07:00",
+      "end": "2026-10-08T17:30:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/discover-insmed-explore-the-science-culture-behind-our-mission",
+      "description": "For patients, each other, and the future of science, we’re in. Are you?\nInterested in learning what it means to work for a company striving to transform the lives of patients with serious diseases? Insmed will be on campus to connect with students about our mission, vision, culture and to answer questions you may have about early career opportunities we offer!\n\nWe hope to see you there!",
       "quarter": "FA26"
     },
     {
@@ -185,6 +328,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54117857519749-54117857520774@ucsd-grad-calendar",
+      "summary": "Human Rights Isn't Just for NGOs: A Conversation with PwC",
+      "start": "2026-10-13T17:00:00-07:00",
+      "end": "2026-10-13T19:00:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/human-rights-isnt-just-for-ngos-a-conversation-with-pwc",
+      "description": "Curious about careers that connect human rights, business, sustainability, law, and global supply chains? Join us for an introduction to the growing field of Business & Human Rights, where organizations work to ensure ethical and responsible practices across their operations.\n\nHear from Jennyfer Leduc, Director of Human Rights Services at PwC, as she shares how human rights work comes to life in the consulting world and explores the diverse career paths shaping the future of responsible business.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-54109416920184-54109416920185@ucsd-grad-calendar",
       "summary": "Language Conversation Tables",
       "start": "2026-10-13T17:00:00-07:00",
@@ -211,6 +367,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54118475188071-54118475189096@ucsd-grad-calendar",
+      "summary": "Broad Institute: Early Career Researchers Opportunities",
+      "start": "2026-10-14T13:00:00-07:00",
+      "end": "2026-10-14T14:00:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/broad-institute-early-career-researchers-opportunities",
+      "description": "Join representatives from the Broad Institute of MIT and Harvard for a virtual information session! Learn about the Broad’s mission to understand the causes of disease and close the gap between  new biological insights and patient impact.\n\nBased in Cambridge, Massachusetts, The Broad Institute of MIT and Harvard is a research organization that convenes a community of researchers from across many disciplines and partner institutions—MIT, Harvard, and Harvard-affiliated hospitals. Our origins are rooted in genomics, and as biomedical research and knowledge have expanded since 2004, so have we.…",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53692962197170-53692962197171@ucsd-grad-calendar",
       "summary": "LinkedIn & Networking",
       "start": "2026-10-14T13:00:00-07:00",
@@ -221,6 +390,45 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/linkedin-networking-5376",
       "description": "In this workshop, students will discover how to build a strong online presence, craft an engaging personal brand, and leverage LinkedIn’s features to connect with professionals in their desired fields. We’ll cover best practices for networking, including informational interviews, elevator pitches, and effective outreach strategies. Step by step, we’ll guide students in optimizing their LinkedIn profiles to attract recruiters and employers.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54118370578642-54118370580691@ucsd-grad-calendar",
+      "summary": "Information Session and Networking with Veeva Systems",
+      "start": "2026-10-14T17:00:00-07:00",
+      "end": "2026-10-14T19:00:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/information-session-and-networking-with-veeva-systems",
+      "description": "Want to explore your software engineering career with a company building products that make a real difference? Join the Veeva Systems team in the Horizon Room for a quick info session, then head outside with us for one on one chats and networking!\n\nWe’ll kick things off with a brief overview of Veeva and a look into our intern and new grad software engineering roles, then turn the focus entirely to helping you. Feel free to bring your resume for personalized feedback, get our best interview advice, and ask any burning questions about navigating the hiring process. Afterwards, stick around for…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-51766255022586-54005532177531@ucsd-grad-calendar",
+      "summary": "English Conversation Hour",
+      "start": "2026-10-15T15:30:00-07:00",
+      "end": "2026-10-15T16:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Matthews Quad Picnic Tables",
+      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
+      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-53861757015892-53873621896316@ucsd-grad-calendar",
+      "summary": "ISMP Connect: Speed-Friending & How to Ask Great Questions",
+      "start": "2026-10-15T18:00:00-07:00",
+      "end": "2026-10-15T20:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Center for Memory and Recording Research",
+      "url": "https://calendar.ucsd.edu/event/ismp-connect-series-part-1-speed-friending-how-to-ask-great-questions",
+      "description": "Learn how to connect meaningfully with people through asking great questions. This session provides a space for you to practice talking with ISMP mentors and students in a comfortable, fun setting.",
       "quarter": "FA26"
     },
     {
@@ -263,6 +471,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54118537278185-54118537278186@ucsd-grad-calendar",
+      "summary": "Microsoft Day @ UCSD!",
+      "start": "2026-10-20T10:00:00-07:00",
+      "end": "2026-10-20T19:00:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/microsoft-day-ucsd",
+      "description": "Join us for a full day of Microsoft events offered at UC San Diego! From Tech Talks, to Recruiter Networking, a Keynote Speaker, and more!\n\nDetailed agenda to follow.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-54109416920184-54109416921210@ucsd-grad-calendar",
       "summary": "Language Conversation Tables",
       "start": "2026-10-20T17:00:00-07:00",
@@ -289,6 +510,32 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54118591594359-54118591594360@ucsd-grad-calendar",
+      "summary": "Morrison Foerster Patent Career Series",
+      "start": "2026-10-21T17:00:00-07:00",
+      "end": "2026-10-21T19:00:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/morrison-foerster-patent-career-series",
+      "description": "Join our patent career series, designed for students and post-docs in the life sciences who are interested in patent law. The series features quarterly in-person sessions highlighting different career considerations for patent law.\n\nFood will be provided for each session.\n\nMoFo’s Patent Career Series introduces key concepts in IP law with an emphasis on life sciences patent issues. Each session will teach important elements of patent law through case studies, practical examples, and Q&A.\n\nWho Should Attend?\nStudents and postdocs seeking to deepen their understanding of patent law, including…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-51766255022586-54005532181628@ucsd-grad-calendar",
+      "summary": "English Conversation Hour",
+      "start": "2026-10-22T15:30:00-07:00",
+      "end": "2026-10-22T16:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Matthews Quad Picnic Tables",
+      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
+      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53693248431374-53693248431375@ucsd-grad-calendar",
       "summary": "Internship/Job & Career Search Strategies",
       "start": "2026-10-22T17:00:00-07:00",
@@ -299,6 +546,19 @@
       "location": "",
       "url": "https://calendar.ucsd.edu/event/internshipjob-career-search-strategies-1863",
       "description": "Cover effective strategies to explore industries, find positions that fit you, and stay organized throughout the process. Learn how to keep your search warm, steady, and intentional—no matter where you are in your career journey.\n\nPlease register via Handshake.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54118763416136-54118763417161@ucsd-grad-calendar",
+      "summary": "Picogrid Info Session",
+      "start": "2026-10-22T17:00:00-07:00",
+      "end": "2026-10-22T18:30:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/picogrid-info-session",
+      "description": "Join Picogrid for an in-person conversation with members of our engineering and business team at one of El Segundo's fastest-growing defense startups. Learn about the defense tech scene brewing right in UCSD's backyard, what a day in the life looks like at a startup like Picogrid, and what opportunities exist for engineers.",
       "quarter": "FA26"
     },
     {
@@ -364,6 +624,19 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/interviewing-tips-tricks",
       "description": "Make a successful impression by learning different types of interviews, practice answering interview style questions & other tips and tricks to help you navigate the interview process.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-51766255022586-54005532191869@ucsd-grad-calendar",
+      "summary": "English Conversation Hour",
+      "start": "2026-10-29T15:30:00-07:00",
+      "end": "2026-10-29T16:30:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Matthews Quad Picnic Tables",
+      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
+      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
       "quarter": "FA26"
     },
     {
@@ -471,6 +744,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-51766255022586-54005532204158@ucsd-grad-calendar",
+      "summary": "English Conversation Hour",
+      "start": "2026-11-05T15:30:00-08:00",
+      "end": "2026-11-05T16:30:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Matthews Quad Picnic Tables",
+      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
+      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-53693316195888-53693316195889@ucsd-grad-calendar",
       "summary": "Resume & Cover Letter",
       "start": "2026-11-05T17:00:00-08:00",
@@ -575,6 +861,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-51766255022586-54005532216447@ucsd-grad-calendar",
+      "summary": "English Conversation Hour",
+      "start": "2026-11-12T15:30:00-08:00",
+      "end": "2026-11-12T16:30:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Matthews Quad Picnic Tables",
+      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
+      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Jun Chen, Ph.D.",
       "start": "2026-11-13T14:00:00-08:00",
@@ -611,6 +910,19 @@
       "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1320",
       "url": "https://calendar.ucsd.edu/event/global-coffee-hour-270",
       "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-51766255022586-54005532293248@ucsd-grad-calendar",
+      "summary": "English Conversation Hour",
+      "start": "2026-11-19T15:30:00-08:00",
+      "end": "2026-11-19T16:30:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Matthews Quad Picnic Tables",
+      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
+      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
       "quarter": "FA26"
     },
     {
