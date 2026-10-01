@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T05:13:15.715315+00:00",
-  "count": 133,
+  "generated": "2026-10-01T12:50:19.465097+00:00",
+  "count": 132,
   "events": [
     {
       "uid": "blink-0ccb1d2ed713b4e5@ucsd-grad-calendar",
@@ -13,19 +13,6 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "Registration fee payment deadline\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53693546275661-53693546276686@ucsd-grad-calendar",
-      "summary": "Career Fair Prep Drop-Ins: Strategy Sessions and Quick Questions",
-      "start": "2026-09-30T10:00:00-07:00",
-      "end": "2026-09-30T15:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/career-fair-prep-drop-ins-strategy-sessions-and-quick-questions",
-      "description": "Have questions about the career fairs? Drop by anytime during the day to get one-on-one support from Career Center staff and peer educators. Whether you need a quick resume review, tips for navigating the fair, help practicing your introduction, or advice on what to wear, we've got you covered. No appointment needed - just bring your questions and we'll help you feel confident and ready to connect with employers.",
       "quarter": "FA26"
     },
     {
