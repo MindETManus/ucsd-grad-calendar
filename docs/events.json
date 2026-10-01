@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T22:04:20.538926+00:00",
-  "count": 131,
+  "generated": "2026-10-01T05:13:15.715315+00:00",
+  "count": 133,
   "events": [
     {
       "uid": "blink-0ccb1d2ed713b4e5@ucsd-grad-calendar",
@@ -341,6 +341,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54118799173660-54118799174685@ucsd-grad-calendar",
+      "summary": "SAP Next Gen and The Autonomous Enterprise",
+      "start": "2026-10-27T17:00:00-07:00",
+      "end": "2026-10-27T18:00:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/sap-next-gen-and-the-autonomous-enterprise",
+      "description": "Curious about what AI looks like beyond the classroom?\n\nJoin our Global NExt Gen Community Lead, Allie Trzaska, and Global Vice President of the SAP Mission Control Center, Holger Graf, for an insider's look at how one of the world's leading technology companies is using AI to shape the future of business and support our Next Gen talent along the journey.\n\nWhat you'll learn:\n\nSAP's vision for the Autonomous EnterpriseReal examples of how employees use AI every dayNext Gen Community supportCareer paths into AI and technology at SAPOpportunities for students and early-career professionalsThe…",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-54109416920184-54109416922235@ucsd-grad-calendar",
       "summary": "Language Conversation Tables",
       "start": "2026-10-27T17:00:00-07:00",
@@ -533,6 +546,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54118840514903-54118840515928@ucsd-grad-calendar",
+      "summary": "Veeva Coffee Chats + Tabling",
+      "start": "2026-11-10T09:00:00-08:00",
+      "end": "2026-11-10T11:00:00-08:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/veeva-coffee-chats-tabling",
+      "description": "Join Veeva at the Career Center in a relaxed environment to learn more and discuss the multiple summer internship and new grad positions available in Software Engineering at Veeva! Free coffee, tea, and pastries included!\n\nPlease note: Positions are based across the Bay Area, Columbus Ohio, and Boston Massachusetts. Sponsorship is not provided.",
       "quarter": "FA26"
     },
     {
