@@ -1,33 +1,7 @@
 {
-  "generated": "2026-10-03T04:45:27.515217+00:00",
-  "count": 149,
+  "generated": "2026-10-03T11:24:49.799265+00:00",
+  "count": 147,
   "events": [
-    {
-      "uid": "localist-54125377999296-54125378012621@ucsd-grad-calendar",
-      "summary": "Provider spotlight: campusSIMS",
-      "start": "2026-10-02T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/provider-spotlight-campussims",
-      "description": "CampusSIMS is our trusted wireless partner, created especially for international students:\n\nWhy should you get your U.S. phone number through campusSIMS? In addition to unlimited talk & text plus high-speed data on America's largest 5G network, they also provide:\n- Plans starting at $15/month with no contracts\n- International credit cards accepted\n- No US bank account required\n- A U.S. phone number that's ready to use as soon as you arrive in the U.S.\n\nGet your U.S. phone number today with campusSIMS and take one more thing off your to-do list. Safe travels!",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54125345904823-54125345924291@ucsd-grad-calendar",
-      "summary": "Provider Spotlight: LAX LINQ",
-      "start": "2026-10-02T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/provider-spotlight-lax-linq",
-      "description": "LAX LINQ (SD - LAX Shuttle)\n\nA veteran-owned shuttle service connecting San Diego and Los Angeles International Airport (LAX). With six daily trips, it's the most affordable option—trusted by over 2,000 five-star Google reviews. \n\nVisit LAXLINQ.comLinks to an external site. for more information. \n\nProvider spotlight focuses on highlighting local resources that work with ISEO in supporting our orientation and programming efforts. We are thankful for the valuable contributions these sponsors provide which enable us to enhance the new international student and scholar experience. Note that all…",
-      "quarter": "FA26"
-    },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Kelly Kersten, Ph.D.",
