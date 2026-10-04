@@ -1,20 +1,7 @@
 {
-  "generated": "2026-10-03T20:51:18.124275+00:00",
-  "count": 147,
+  "generated": "2026-10-04T05:17:01.427473+00:00",
+  "count": 146,
   "events": [
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Kelly Kersten, Ph.D.",
-      "start": "2026-10-02T14:00:00-07:00",
-      "end": "2026-10-02T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "<a href=\"https://be.ucsd.edu/seminar/2026/decoding-macrophage-t-cell-interactions-overcome-resistance-cancer-immunotherapy\">Decoding macrophage – T cell interactions to overcome resistance to cancer immunotherapy</a><br>Kelly Kersten, Ph.D.<br><i>Assistant Professor<br>Cancer Metabolism and Microenvironment Program at the NCI-designated Cancer Center<br>Sanford Burnham Prebys Medical Discovery Institute (SBP)</i>",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-bd5970b5aa2c21cc@ucsd-grad-calendar",
       "summary": "Late registration fee payment deadline (to avoid being dropped from booking classes or w…",
