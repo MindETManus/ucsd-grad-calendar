@@ -1,33 +1,7 @@
 {
-  "generated": "2026-10-07T05:20:14.733015+00:00",
-  "count": 146,
+  "generated": "2026-10-07T13:01:43.507850+00:00",
+  "count": 143,
   "events": [
-    {
-      "uid": "blink-bd5970b5aa2c21cc@ucsd-grad-calendar",
-      "summary": "Late registration fee payment deadline (to avoid being dropped from booking classes or w…",
-      "start": "2026-10-05T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "Enrollment (Booking)",
-      "color": "#455a64",
-      "location": "",
-      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Late registration fee payment deadline (to avoid being dropped from booking classes or wait listed courses)\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54117687894108-54117687894109@ucsd-grad-calendar",
-      "summary": "Lilly Lunch & Learn",
-      "start": "2026-10-06T12:00:00-07:00",
-      "end": "2026-10-06T13:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/lilly-lunch-learn-3157",
-      "description": "Join Lilly at UCSD's Career Center on Tuesday, October 6th from 12:00 - 1:00 PM for a Lunch & Learn session. There, you will have the opportunity to learn more about Lilly, the kind of R&D work being done and available internship opportunities!",
-      "quarter": "FA26"
-    },
     {
       "uid": "gcal-4fed529b5add2078@ucsd-grad-calendar",
       "summary": "UC San Diego Alumni Biotech Mixer",
@@ -39,19 +13,6 @@
       "location": "Duck Foot Brewing",
       "url": "",
       "description": "<a href=\"https://calendar.ucsd.edu/event/biotech-mixer\" target=\"_blank\"><u><u>REGISTER TO ATTEND BIOTECH MIXER</u></u></a><br><br>Join fellow Triton alumni and biotech professionals for a Biotech Mixer celebrating the UC San Diego community and building connections across San Diego's thriving life sciences industry. <br><br>Meet alumni from across UC San Diego, connect with professionals working in biotech, and expand your network, all while enjoying a bite in a relaxed and welcoming setting. Alumni from all UC San Diego departments and everyone working the biotech industry are welcome!",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54117254551566-54117254551567@ucsd-grad-calendar",
-      "summary": "TSMC Information Session",
-      "start": "2026-10-06T17:00:00-07:00",
-      "end": "2026-10-06T18:30:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/tsmc-information-session",
-      "description": "Join TSMC AZ Career Talk session to discover the secrets to success from industry experts! The talk will provide you with valuable suggestion on personal growth and strategies you need to take your career to the next level. Don't miss out on this amazing opportunity to network with us and explore opportunities at TSMC. \n\nThe target audience for this event is seniors and recent graduates in engineering and data science related majors. Food will be provided!\n\nNOTE: Attendance is on a first come, first served basis. Registration does not guarantee admission – it simply indicates intention to…",
       "quarter": "FA26"
     },
     {
