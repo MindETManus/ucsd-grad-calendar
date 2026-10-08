@@ -1,20 +1,7 @@
 {
-  "generated": "2026-10-07T22:56:35.371866+00:00",
-  "count": 144,
+  "generated": "2026-10-08T05:29:29.772098+00:00",
+  "count": 143,
   "events": [
-    {
-      "uid": "gcal-4fed529b5add2078@ucsd-grad-calendar",
-      "summary": "UC San Diego Alumni Biotech Mixer",
-      "start": "2026-10-07T00:00:00+00:00",
-      "end": "2026-10-07T02:00:00+00:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "Duck Foot Brewing",
-      "url": "",
-      "description": "<a href=\"https://calendar.ucsd.edu/event/biotech-mixer\" target=\"_blank\"><u><u>REGISTER TO ATTEND BIOTECH MIXER</u></u></a><br><br>Join fellow Triton alumni and biotech professionals for a Biotech Mixer celebrating the UC San Diego community and building connections across San Diego's thriving life sciences industry. <br><br>Meet alumni from across UC San Diego, connect with professionals working in biotech, and expand your network, all while enjoying a bite in a relaxed and welcoming setting. Alumni from all UC San Diego departments and everyone working the biotech industry are welcome!",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-53127945276131-53127945276132@ucsd-grad-calendar",
       "summary": "Fall 2026 Career Fair",
