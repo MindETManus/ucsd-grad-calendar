@@ -1,20 +1,7 @@
 {
-  "generated": "2026-10-08T05:29:29.772098+00:00",
-  "count": 143,
+  "generated": "2026-10-08T13:09:00.955073+00:00",
+  "count": 142,
   "events": [
-    {
-      "uid": "localist-53127945276131-53127945276132@ucsd-grad-calendar",
-      "summary": "Fall 2026 Career Fair",
-      "start": "2026-10-07T12:00:00-07:00",
-      "end": "2026-10-07T16:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "LionTree Arena",
-      "url": "https://calendar.ucsd.edu/event/fall-2026-career-fair",
-      "description": "Please join us on Wednesday, October 7th, from 12:00 pm - 4:00 pm for the UC San Diego Fall Career Fair. This event will be at the Liontree Arena with doors opening at 12:00 pm and closing at 4:00 pm\n\nSTUDENT REGISTRATION DETAILS\n\nThe career fairs are open to UC San Diego students and alumni only.In order to gain admittance to the fair, students MUST register through Handshake AND bring their student ID on the day of the fair.The student entrance is located on 2nd level of Liontree Arena near the ticket booths.  We encourage students/alumni not to bring bags or backpacks.  All items must be…",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-54117760482601-54117760483626@ucsd-grad-calendar",
       "summary": "BAE Systems Information Session",
