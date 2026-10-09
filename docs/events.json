@@ -1,46 +1,7 @@
 {
-  "generated": "2026-10-09T05:33:18.446357+00:00",
-  "count": 142,
+  "generated": "2026-10-09T12:55:28.727664+00:00",
+  "count": 139,
   "events": [
-    {
-      "uid": "localist-54117760482601-54117760483626@ucsd-grad-calendar",
-      "summary": "BAE Systems Information Session",
-      "start": "2026-10-08T12:00:00-07:00",
-      "end": "2026-10-08T13:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/bae-systems-information-session",
-      "description": "Join us for an information session to learn more about careers at BAE Systems in our Software Engineering function. Speak to our hiring team about opportunities to join as an intern or entry-level employee.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-51766255022586-54005532171386@ucsd-grad-calendar",
-      "summary": "English Conversation Hour",
-      "start": "2026-10-08T15:30:00-07:00",
-      "end": "2026-10-08T16:30:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Matthews Quad Picnic Tables",
-      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
-      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54117815866377-54117815866378@ucsd-grad-calendar",
-      "summary": "Discover Insmed - Explore the Science & Culture Behind Our Mission",
-      "start": "2026-10-08T16:00:00-07:00",
-      "end": "2026-10-08T17:30:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/discover-insmed-explore-the-science-culture-behind-our-mission",
-      "description": "For patients, each other, and the future of science, we’re in. Are you?\nInterested in learning what it means to work for a company striving to transform the lives of patients with serious diseases? Insmed will be on campus to connect with students about our mission, vision, culture and to answer questions you may have about early career opportunities we offer!\n\nWe hope to see you there!",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-c65459a49254e7da@ucsd-grad-calendar",
       "summary": "Deadline to apply to Return to UCSD (undergraduate students)",
