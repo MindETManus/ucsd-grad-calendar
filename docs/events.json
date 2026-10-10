@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T22:28:31.891732+00:00",
+  "generated": "2026-10-10T05:17:21.750194+00:00",
   "count": 139,
   "events": [
     {
@@ -29,7 +29,7 @@
       "quarter": "FA26"
     },
     {
-      "uid": "blink-696911fe99190d20@ucsd-grad-calendar",
+      "uid": "blink-f101af9660ad0d4a@ucsd-grad-calendar",
       "summary": "Deadline for all students to add or re-booking in classes if canceled for non-payment vi…",
       "start": "2026-10-09T00:00:00-07:00",
       "end": null,
@@ -38,7 +38,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg ( undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Fall 2026",
+      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via TSS ( undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Fall 2026",
       "quarter": "FA26"
     },
     {
@@ -1069,7 +1069,7 @@
       "quarter": "WI27"
     },
     {
-      "uid": "blink-796817e463ffb47d@ucsd-grad-calendar",
+      "uid": "blink-518161d493722463@ucsd-grad-calendar",
       "summary": "Deadline for all students to add or re-booking in classes if canceled for non-payment vi…",
       "start": "2027-01-15T00:00:00-08:00",
       "end": null,
@@ -1078,7 +1078,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg ( undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Winter 2027",
+      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via TSS ( undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Winter 2027",
       "quarter": "WI27"
     },
     {
@@ -1472,7 +1472,7 @@
       "quarter": "WI27"
     },
     {
-      "uid": "blink-9d3e04429abea55e@ucsd-grad-calendar",
+      "uid": "blink-f8807561d3eda5b8@ucsd-grad-calendar",
       "summary": "Deadline for all students to add or re-booking in classes if canceled for non-payment vi…",
       "start": "2027-04-09T00:00:00-07:00",
       "end": null,
@@ -1481,7 +1481,7 @@
       "color": "#455a64",
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via WebReg ( undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Spring 2027",
+      "description": "Deadline for all students to add or re-booking in classes if canceled for non-payment via TSS ( undergraduate and graduate students) The financial aid freeze date is applied, and this is also the deadline for students to Commence Academic Activity, an aid requirement\nTerm: Spring 2027",
       "quarter": "SP27"
     },
     {
