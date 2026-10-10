@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T12:13:21.510044+00:00",
-  "count": 139,
+  "generated": "2026-10-10T21:25:01.413589+00:00",
+  "count": 138,
   "events": [
     {
       "uid": "blink-c65459a49254e7da@ucsd-grad-calendar",
@@ -65,19 +65,6 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "Deadline for Graduate students to file for leave of absence, in absentia or to apply for half-time study for current quarter\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Hongbo Zhao, Ph.D.",
-      "start": "2026-10-09T14:00:00-07:00",
-      "end": "2026-10-09T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "<a href=\"https://be.ucsd.edu/seminar/2026/presentation-be-announced\">Presentation to be announced</a><br>Hongbo Zhao Ph.D.<br><i>Assistant Professor<br>Department of Physics and Chemistry<br>University of California, San Diego</i>",
       "quarter": "FA26"
     },
     {
