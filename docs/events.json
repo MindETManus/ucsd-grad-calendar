@@ -1,18 +1,18 @@
 {
-  "generated": "2026-10-11T12:27:50.079221+00:00",
-  "count": 133,
+  "generated": "2026-10-11T21:42:11.539667+00:00",
+  "count": 131,
   "events": [
     {
-      "uid": "localist-53470606851954-54143755711076@ucsd-grad-calendar",
+      "uid": "localist-53470606851954-54215442856500@ucsd-grad-calendar",
       "summary": "Mommy/Daddy and Me",
-      "start": "2026-10-12T15:00:00-07:00",
-      "end": "2026-10-12T16:00:00-07:00",
+      "start": "2026-10-13T15:00:00-07:00",
+      "end": "2026-10-13T16:00:00-07:00",
       "all_day": false,
       "source": "ISEO (iEvents)",
       "color": "#c2185b",
-      "location": "Doyle Park",
+      "location": "visit mdm.ucsd.edu for location",
       "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
-      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
+      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session! Visit MDM.ucsd.edu for more information regarding the location, what to expect, etc. \n\n📅 When & Where We Meet: MDM gatherings are typically held on the first Monday of each month (excluding holidays), from 3:00–4:00…",
       "quarter": "FA26"
     },
     {
@@ -351,19 +351,6 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "Deadline to apply to Return to UCSD (undergraduate students)\nTerm: Winter 2027",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53470606851954-53470606854005@ucsd-grad-calendar",
-      "summary": "Mommy/Daddy and Me",
-      "start": "2026-11-02T15:00:00-08:00",
-      "end": "2026-11-02T16:00:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Doyle Park",
-      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
-      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
       "quarter": "FA26"
     },
     {
@@ -780,19 +767,6 @@
       "location": "Craft Center",
       "url": "https://calendar.ucsd.edu/event/craft-event-7052",
       "description": "iCOMMUNITY: Spend some time with ISEO and other members of the international community to enjoy creative socializing! We will provide supplies for a craft each month in collaboration with the Craft Center. Families are also welcome to join in the fun.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53470606851954-53470606855030@ucsd-grad-calendar",
-      "summary": "Mommy/Daddy and Me",
-      "start": "2026-12-07T15:00:00-08:00",
-      "end": "2026-12-07T16:00:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Doyle Park",
-      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
-      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session!\n\nMDM is hosted every first Monday of the month (excluding holidays) from 3:00pm – 4:00pm at Doyle Park. We gather at the beautiful Doyle Park near UC San Diego! You can find us sitting on picnic blankets next to the…",
       "quarter": "FA26"
     },
     {
