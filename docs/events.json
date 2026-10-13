@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-13T13:55:18.008640+00:00",
-  "count": 131,
+  "generated": "2026-10-13T22:28:07.749328+00:00",
+  "count": 133,
   "events": [
     {
       "uid": "localist-53470606851954-54215442856500@ucsd-grad-calendar",
@@ -52,6 +52,19 @@
       "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1320",
       "url": "https://calendar.ucsd.edu/event/global-coffee-hour-270",
       "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54118475188071-54118475189096@ucsd-grad-calendar",
+      "summary": "Broad Institute: Early Career Researchers Opportunities",
+      "start": "2026-10-14T12:00:00-07:00",
+      "end": "2026-10-14T13:00:00-07:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/broad-institute-early-career-researchers-opportunities",
+      "description": "Join representatives from the Broad Institute of MIT and Harvard for a virtual information session! Learn about the Broad’s mission to understand the causes of disease and close the gap between  new biological insights and patient impact.\n\nBased in Cambridge, Massachusetts, The Broad Institute of MIT and Harvard is a research organization that convenes a community of researchers from across many disciplines and partner institutions—MIT, Harvard, and Harvard-affiliated hospitals. Our origins are rooted in genomics, and as biomedical research and knowledge have expanded since 2004, so have we.…",
       "quarter": "FA26"
     },
     {
@@ -572,6 +585,19 @@
       "location": "",
       "url": "",
       "description": "<a href=\"https://be.ucsd.edu/seminar/2026/discovering-magnetoelasticity-soft-matter-bioelectronics\">Discovering Magnetoelasticity in Soft Matter for Bioelectronics</a><br><b>Jun Chen, Ph.D.</b><br>Associate Professor<br>UCLA Innovation Fellows<br>UCLA Society of Hellman Fellows<br>UCLA Department of Bioengineering",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54224505343376-54224505344401@ucsd-grad-calendar",
+      "summary": "Tesla Day | Networking Event",
+      "start": "2026-11-16T17:00:00-08:00",
+      "end": "2026-11-16T20:00:00-08:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Mandeville Auditorium",
+      "url": "https://calendar.ucsd.edu/event/tesla-day-networking-event",
+      "description": "Join the Tesla team for an interactive information session highlighting Tesla's energy business, followed by live resume reviews and networking opportunities with hiring managers. \n\nWe are recruiting for full-time engineering positions - primarily students eligible to begin full-time work in December. Visa Sponsorship available. \n\nPlease register via Handshake.",
       "quarter": "FA26"
     },
     {
