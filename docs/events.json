@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T14:59:26.306165+00:00",
+  "generated": "2026-10-13T00:25:41.378610+00:00",
   "count": 131,
   "events": [
     {
@@ -52,19 +52,6 @@
       "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1320",
       "url": "https://calendar.ucsd.edu/event/global-coffee-hour-270",
       "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54118475188071-54118475189096@ucsd-grad-calendar",
-      "summary": "Broad Institute: Early Career Researchers Opportunities",
-      "start": "2026-10-14T13:00:00-07:00",
-      "end": "2026-10-14T14:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/broad-institute-early-career-researchers-opportunities",
-      "description": "Join representatives from the Broad Institute of MIT and Harvard for a virtual information session! Learn about the Broad’s mission to understand the causes of disease and close the gap between  new biological insights and patient impact.\n\nBased in Cambridge, Massachusetts, The Broad Institute of MIT and Harvard is a research organization that convenes a community of researchers from across many disciplines and partner institutions—MIT, Harvard, and Harvard-affiliated hospitals. Our origins are rooted in genomics, and as biomedical research and knowledge have expanded since 2004, so have we.…",
       "quarter": "FA26"
     },
     {
@@ -208,6 +195,19 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/morrison-foerster-patent-career-series",
       "description": "Join our patent career series, designed for students and post-docs in the life sciences who are interested in patent law. The series features quarterly in-person sessions highlighting different career considerations for patent law.\n\nFood will be provided for each session.\n\nMoFo’s Patent Career Series introduces key concepts in IP law with an emphasis on life sciences patent issues. Each session will teach important elements of patent law through case studies, practical examples, and Q&A.\n\nWho Should Attend?\nStudents and postdocs seeking to deepen their understanding of patent law, including…",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54224308407307-54224308408332@ucsd-grad-calendar",
+      "summary": "Tea as a Bridge: Connecting Cultures, Generations & Ideas",
+      "start": "2026-10-21T17:00:00-07:00",
+      "end": "2026-10-21T19:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall",
+      "url": "https://calendar.ucsd.edu/event/tea-as-a-bridge-connecting-cultures-generations-ideas",
+      "description": "Explore how tea connects cultures, heritage, and communities through Amy’s journey building PARU, followed by an open Q&A and select tea samples!",
       "quarter": "FA26"
     },
     {
