@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14T16:54:48.754297+00:00",
-  "count": 130,
+  "generated": "2026-10-14T21:28:10.905371+00:00",
+  "count": 135,
   "events": [
     {
       "uid": "localist-53444457733271-53444457733272@ucsd-grad-calendar",
@@ -328,6 +328,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "localist-54241079231358-54241079231359@ucsd-grad-calendar",
+      "summary": "Beyond the Resume: The Art of Networking (For Graduate Students)",
+      "start": "2026-11-03T00:00:00-08:00",
+      "end": "2026-11-04T00:00:00-08:00",
+      "all_day": false,
+      "source": "GEPA (Grad Ed & Postdoc)",
+      "color": "#b8860b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/beyond-the-resume-the-art-of-networking-for-graduate-students",
+      "description": "Unlock your professional potential by learning how to build meaningful connections from scratch. This interactive workshop will teach you the art of crafting cold emails and navigating networking events with confidence. You will walk away with proven communication strategies, and the tools needed to land internships and mentorships. Join us to turn cold outreach into warm opportunities and kickstart your career.",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-54109416920184-54109416922236@ucsd-grad-calendar",
       "summary": "Language Conversation Tables",
       "start": "2026-11-03T17:00:00-08:00",
@@ -364,6 +377,19 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/internshipjob-career-search-strategies-6750",
       "description": "Don’t let your career search feel like wandering through a corn maze! This session will provide strategies and tools to help you identify opportunities, stay organized, and move forward confidently in your internship or job search.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-29c833e57b0ea6f6@ucsd-grad-calendar",
+      "summary": "Schedule of Classes and Booking times available",
+      "start": "2026-11-05T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Schedule of Classes and Booking times available\nTerm: Winter 2027",
       "quarter": "FA26"
     },
     {
@@ -484,6 +510,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "blink-79fc9267b0d8eb10@ucsd-grad-calendar",
+      "summary": "Booking begins for all continuing students (New graduate students check with your program)",
+      "start": "2026-11-09T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Booking begins for all continuing students (New graduate students check with your program)\nTerm: Winter 2027",
+      "quarter": "FA26"
+    },
+    {
       "uid": "localist-54118840514903-54118840515928@ucsd-grad-calendar",
       "summary": "Veeva Coffee Chats + Tabling",
       "start": "2026-11-10T09:00:00-08:00",
@@ -546,6 +585,19 @@
       "location": "",
       "url": "",
       "description": "<a href=\"https://be.ucsd.edu/seminar/2026/discovering-magnetoelasticity-soft-matter-bioelectronics\">Discovering Magnetoelasticity in Soft Matter for Bioelectronics</a><br><b>Jun Chen, Ph.D.</b><br>Associate Professor<br>UCLA Innovation Fellows<br>UCLA Society of Hellman Fellows<br>UCLA Department of Bioengineering",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "blink-e1bfc7bf247f3fd3@ucsd-grad-calendar",
+      "summary": "Wait Lists Open",
+      "start": "2026-11-16T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Wait Lists Open\nTerm: Winter 2027",
       "quarter": "FA26"
     },
     {
@@ -949,6 +1001,19 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "First day of classes\nTerm: Winter 2027",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "blink-bdcddfdb11e49fd1@ucsd-grad-calendar",
+      "summary": "Automatic wait lists officially end",
+      "start": "2027-01-15T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Automatic wait lists officially end\nTerm: Winter 2027",
       "quarter": "WI27"
     },
     {
