@@ -1,46 +1,7 @@
 {
-  "generated": "2026-10-14T04:21:57.724709+00:00",
-  "count": 133,
+  "generated": "2026-10-14T11:32:24.755056+00:00",
+  "count": 130,
   "events": [
-    {
-      "uid": "localist-53470606851954-54215442856500@ucsd-grad-calendar",
-      "summary": "Mommy/Daddy and Me",
-      "start": "2026-10-13T15:00:00-07:00",
-      "end": "2026-10-13T16:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Doyle Park",
-      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-6545",
-      "description": "iCOMMUNITY We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have picnic blankets, snacks, games, and music during this fun-filled session! Visit MDM.ucsd.edu for more information regarding the location, what to expect, etc. \n\n📅 When & Where We Meet: MDM gatherings are typically held on the first Monday of each month (excluding holidays), from 3:00–4:00…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54117857519749-54117857520774@ucsd-grad-calendar",
-      "summary": "Human Rights Isn't Just for NGOs: A Conversation with PwC",
-      "start": "2026-10-13T17:00:00-07:00",
-      "end": "2026-10-13T19:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/human-rights-isnt-just-for-ngos-a-conversation-with-pwc",
-      "description": "Curious about careers that connect human rights, business, sustainability, law, and global supply chains? Join us for an introduction to the growing field of Business & Human Rights, where organizations work to ensure ethical and responsible practices across their operations.\n\nHear from Jennyfer Leduc, Director of Human Rights Services at PwC, as she shares how human rights work comes to life in the consulting world and explores the diverse career paths shaping the future of responsible business.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54109416920184-54109416920185@ucsd-grad-calendar",
-      "summary": "Language Conversation Tables",
-      "start": "2026-10-13T17:00:00-07:00",
-      "end": "2026-10-13T18:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Great Hall ",
-      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
-      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-53444457733271-53444457733272@ucsd-grad-calendar",
       "summary": "Global Coffee Hour",
