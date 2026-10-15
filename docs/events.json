@@ -1,59 +1,7 @@
 {
-  "generated": "2026-10-15T04:04:03.062091+00:00",
-  "count": 135,
+  "generated": "2026-10-15T11:10:29.960770+00:00",
+  "count": 131,
   "events": [
-    {
-      "uid": "localist-53444457733271-53444457733272@ucsd-grad-calendar",
-      "summary": "Global Coffee Hour",
-      "start": "2026-10-14T08:00:00-07:00",
-      "end": "2026-10-14T09:30:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Triton Administrative Services Building, East Tower, Multipurpose Room 1320",
-      "url": "https://calendar.ucsd.edu/event/global-coffee-hour-270",
-      "description": "iCOMMUNITY: Come on over for a cup of coffee and a morning pastry! Global Coffee Hour is meant to bring together both international and domestic students, scholars and families to celebrate our global community at UC San Diego. Join us for fun activities and build connections that expand across the world.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54118475188071-54118475189096@ucsd-grad-calendar",
-      "summary": "Broad Institute: Early Career Researchers Opportunities",
-      "start": "2026-10-14T12:00:00-07:00",
-      "end": "2026-10-14T13:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/broad-institute-early-career-researchers-opportunities",
-      "description": "Join representatives from the Broad Institute of MIT and Harvard for a virtual information session! Learn about the Broad’s mission to understand the causes of disease and close the gap between  new biological insights and patient impact.\n\nBased in Cambridge, Massachusetts, The Broad Institute of MIT and Harvard is a research organization that convenes a community of researchers from across many disciplines and partner institutions—MIT, Harvard, and Harvard-affiliated hospitals. Our origins are rooted in genomics, and as biomedical research and knowledge have expanded since 2004, so have we.…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53692962197170-53692962197171@ucsd-grad-calendar",
-      "summary": "LinkedIn & Networking",
-      "start": "2026-10-14T13:00:00-07:00",
-      "end": "2026-10-14T14:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/linkedin-networking-5376",
-      "description": "In this workshop, students will discover how to build a strong online presence, craft an engaging personal brand, and leverage LinkedIn’s features to connect with professionals in their desired fields. We’ll cover best practices for networking, including informational interviews, elevator pitches, and effective outreach strategies. Step by step, we’ll guide students in optimizing their LinkedIn profiles to attract recruiters and employers.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54118370578642-54118370580691@ucsd-grad-calendar",
-      "summary": "Information Session and Networking with Veeva Systems",
-      "start": "2026-10-14T17:00:00-07:00",
-      "end": "2026-10-14T19:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/information-session-and-networking-with-veeva-systems",
-      "description": "Want to explore your software engineering career with a company building products that make a real difference? Join the Veeva Systems team in the Horizon Room for a quick info session, then head outside with us for one on one chats and networking!\n\nWe’ll kick things off with a brief overview of Veeva and a look into our intern and new grad software engineering roles, then turn the focus entirely to helping you. Feel free to bring your resume for personalized feedback, get our best interview advice, and ask any burning questions about navigating the hiring process. Afterwards, stick around for…",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-51766255022586-54005532177531@ucsd-grad-calendar",
       "summary": "English Conversation Hour",
