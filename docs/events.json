@@ -1,46 +1,7 @@
 {
-  "generated": "2026-10-16T04:00:09.847869+00:00",
-  "count": 147,
+  "generated": "2026-10-16T11:05:25.060113+00:00",
+  "count": 144,
   "events": [
-    {
-      "uid": "localist-53984343013240-53984343027580@ucsd-grad-calendar",
-      "summary": "The Big Questions: Scripture Reading & Dialogue Group",
-      "start": "2026-10-15T13:30:00-07:00",
-      "end": "2026-10-15T14:15:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Starbucks @ Price Center",
-      "url": "https://calendar.ucsd.edu/event/the-big-questions-scripture-reading-dialogue-group",
-      "description": "The Bible has shaped global history, art, ethics, and literature more than any other text, yet most people have never read it for themselves. This is an opportunity to read it for yourself over coffee or tea. No preaching, no assumptions, and no prior background required, just open dialogue.\n\nFAQ's \n\nQ: What is Scripture Reading?\n\nA: Time to read through the bible\n\nQ: Who is invited?\n\nA: All UCSD students (undergrads & grads) are welcome to join, no prior background required. Sign up here so we know how much coffee & tea to get and if you need a bible.\n\nQ: When & How long is Scripture…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-51766255022586-54005532177531@ucsd-grad-calendar",
-      "summary": "English Conversation Hour",
-      "start": "2026-10-15T15:30:00-07:00",
-      "end": "2026-10-15T16:30:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Matthews Quad Picnic Tables",
-      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
-      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53861757015892-53873621896316@ucsd-grad-calendar",
-      "summary": "ISMP Connect: Speed-Friending & How to Ask Great Questions",
-      "start": "2026-10-15T18:00:00-07:00",
-      "end": "2026-10-15T20:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Center for Memory and Recording Research",
-      "url": "https://calendar.ucsd.edu/event/ismp-connect-series-part-1-speed-friending-how-to-ask-great-questions",
-      "description": "Learn how to connect meaningfully with people through asking great questions. This session provides a space for you to practice talking with ISMP mentors and students in a comfortable, fun setting.",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-e3ac991dd7ab4091@ucsd-grad-calendar",
       "summary": "Deadline to file for Advancement to Candidacy for Master's degrees",
