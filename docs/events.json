@@ -1,20 +1,7 @@
 {
-  "generated": "2026-10-18T03:57:37.107236+00:00",
-  "count": 143,
+  "generated": "2026-10-18T10:43:38.560486+00:00",
+  "count": 142,
   "events": [
-    {
-      "uid": "blink-e3ac991dd7ab4091@ucsd-grad-calendar",
-      "summary": "Deadline to file for Advancement to Candidacy for Master's degrees",
-      "start": "2026-10-16T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "Enrollment (Booking)",
-      "color": "#455a64",
-      "location": "",
-      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline to file for Advancement to Candidacy for Master's degrees\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
     {
       "uid": "gcal-d94ca7e85541f326@ucsd-grad-calendar",
       "summary": "Experience Engineering | JSOE",
