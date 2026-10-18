@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T20:23:02.122840+00:00",
-  "count": 144,
+  "generated": "2026-10-18T03:57:37.107236+00:00",
+  "count": 143,
   "events": [
     {
       "uid": "blink-e3ac991dd7ab4091@ucsd-grad-calendar",
@@ -13,19 +13,6 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "Deadline to file for Advancement to Candidacy for Master's degrees\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Laurel Hind, Ph.D.",
-      "start": "2026-10-16T14:00:00-07:00",
-      "end": "2026-10-16T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "<a href=\"https://be.ucsd.edu/seminar/2026/inflammation-chip-redefining-how-we-study-immune-responses\">Inflammation-on-a-Chip: Redefining How We Study Immune Responses</a><br><b>Laurel Hind, Ph.D.</b><br>Assistant Professor<br>Department of Chemical and Biological Engineering<br>University of Colorado – Boulder",
       "quarter": "FA26"
     },
     {
