@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Microsoft Day @ UCSD!
 DTSTART:20261020T170000Z
 DTEND:20261021T020000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54118537278185-54118537278186@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Join us for a full day of Microsoft events offered at UC San D
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Language Conversation Tables
 DTSTART:20261021T000000Z
 DTEND:20261021T010000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54109416920184-54109416921210@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Language Conversation Tables (LCTs) meet weekly on Tuesdays an
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Resume and Cover Letter Workshop
 DTSTART:20261021T200000Z
 DTEND:20261021T210000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53693218134128-53693218134129@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:A workshop on how to construct and improve resumes and cover l
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Morrison Foerster Patent Career Series
 DTSTART:20261022T000000Z
 DTEND:20261022T020000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54118591594359-54118591594360@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Join our patent career series\, designed for students and post
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Tea as a Bridge: Connecting Cultures\, Generations & Ideas
 DTSTART:20261022T000000Z
 DTEND:20261022T020000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54224308407307-54224308408332@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Explore how tea connects cultures\, heritage\, and communities
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302133543@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:English Conversation Hour
 DTSTART:20261022T223000Z
 DTEND:20261022T233000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-51766255022586-54005532181628@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:For international students and visiting scholars! Join us with
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Internship/Job & Career Search Strategies
 DTSTART:20261023T000000Z
 DTEND:20261023T010000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53693248431374-53693248431375@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Cover effective strategies to explore industries\, find positi
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Picogrid Info Session
 DTSTART:20261023T000000Z
 DTEND:20261023T013000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54118763416136-54118763417161@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Join Picogrid for an in-person conversation with members of ou
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Proverbs & Pizza (Wisdom Studies Series)
 DTSTART:20261023T010000Z
 DTEND:20261023T023000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54196683922875-54196683923900@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:What does it mean to live wisely and well? Join us as we explo
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302134568@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -196,7 +196,7 @@ SUMMARY:Deadline for all students to drop (individual courses) or withdraw
   (from all courses) wi…
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-b63c68eda99160fb@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to drop (individual courses) or with
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Craft Event
 DTSTART:20261024T173000Z
 DTEND:20261024T190000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53470750658034-53753955944035@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Spend some time with ISEO and other members of the
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:SAP Next Gen and The Autonomous Enterprise
 DTSTART:20261028T000000Z
 DTEND:20261028T010000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54118799173660-54118799174685@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Curious about what AI looks like beyond the classroom?\n\nJoin
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Language Conversation Tables
 DTSTART:20261028T000000Z
 DTEND:20261028T010000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54109416920184-54109416922235@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Language Conversation Tables (LCTs) meet weekly on Tuesdays an
@@ -262,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:Interviewing Tips & Tricks
 DTSTART:20261028T200000Z
 DTEND:20261028T210000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53693260645628-53693260646653@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Make a successful impression by learning different types of in
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302135593@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:English Conversation Hour
 DTSTART:20261029T223000Z
 DTEND:20261029T233000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-51766255022586-54005532191869@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:For international students and visiting scholars! Join us with
@@ -314,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:Proverbs & Pumpkins (Wisdom Studies Series)
 DTSTART:20261030T010000Z
 DTEND:20261030T023000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54196781866623-54196781866624@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:What does it mean to live wisely and well? Join us as we explo
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302136618@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Narayan Bhattarai\, Ph.D.
 DTSTART:20261030T210000Z
 DTEND:20261030T220000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to apply to Return to UCSD (undergraduate students)
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-d5923f659c07569a@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to apply to Return to UCSD (undergraduate students)\n
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Resume: The Art of Networking (For Graduate Students)
 DTSTART:20261103T080000Z
 DTEND:20261104T080000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54241079231358-54241079231359@ucsd-grad-calendar
 CATEGORIES:GEPA (Grad Ed & Postdoc)
 DESCRIPTION:Unlock your professional potential by learning how to build me
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Language Conversation Tables
 DTSTART:20261104T010000Z
 DTEND:20261104T020000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54109416920184-54109416922236@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Language Conversation Tables (LCTs) meet weekly on Tuesdays an
@@ -409,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:Fall 2026 Business\, Law\, and Non-STEM Graduate School Fair
 DTSTART:20261104T180000Z
 DTEND:20261104T220000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53128000807058-53128000807059@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Explore Your Future at the UC San Diego 2026 Business\, Law\, 
@@ -431,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:Internship/Job & Career Search Strategies
 DTSTART:20261104T210000Z
 DTEND:20261104T220000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53693269256294-53693269257319@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Don’t let your career search feel like wandering through a c
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302137643@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -468,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:Schedule of Classes and Booking times available
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-29c833e57b0ea6f6@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Schedule of Classes and Booking times available\nTerm: Winter 
@@ -481,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:Fall 2026 Health\, Medical Science\, and STEM Graduate School Fair
 DTSTART:20261105T180000Z
 DTEND:20261105T220000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53128057316370-53128057317395@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Explore Your Future at the UC San Diego Fall 2026 Health\, Med
@@ -503,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:FA26 Graduate & Professional Student Hours
 DTSTART:20261105T230000Z
 DTEND:20261106T001500Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53321388990357-53321419394550@ucsd-grad-calendar
 CATEGORIES:GEPA (Grad Ed & Postdoc)
 DESCRIPTION:This is the Fall 2026 session that offers graduate and profess
@@ -519,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:English Conversation Hour
 DTSTART:20261105T233000Z
 DTEND:20261106T003000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-51766255022586-54005532204158@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:For international students and visiting scholars! Join us with
@@ -536,7 +536,7 @@ BEGIN:VEVENT
 SUMMARY:Resume & Cover Letter
 DTSTART:20261106T010000Z
 DTEND:20261106T020000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53693316195888-53693316195889@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Just like the perfect pumpkin spice latte\, your application m
@@ -550,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302138668@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -571,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for Undergraduate students to change units
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-764fad4a3aaef606@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Undergraduate students to change units\nTerm: Fal
@@ -585,7 +585,7 @@ SUMMARY:Deadline for all students to change grading option ( undergraduate
   and graduate students)
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-9b2906011529bcf9@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to change grading option ( undergrad
@@ -600,7 +600,7 @@ SUMMARY:Deadline for Undergraduate students to drop (individual courses) o
  r withdraw (from all c…
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-cdb53c220fbc3a06@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Undergraduate students to drop (individual course
@@ -614,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Pallav Kosuri\, Ph.D.
 DTSTART:20261106T220000Z
 DTEND:20261106T230000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -623,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:Engineering Reunions: Jacobs School Homecoming Picnic
 DTSTART:20261107T220000Z
 DTEND:20261108T000000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-8d9f9ae6685bd2b4@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Mark your calendars — Homecoming Week is coming back to UC S
@@ -642,7 +642,7 @@ SUMMARY:Booking begins for all continuing students (New graduate students
  check with your program)
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-79fc9267b0d8eb10@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Booking begins for all continuing students (New graduate stude
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:Veeva Coffee Chats + Tabling
 DTSTART:20261110T170000Z
 DTEND:20261110T190000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54118840514903-54118840515928@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Join Veeva at the Career Center in a relaxed environment to le
@@ -673,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:Language Conversation Tables
 DTSTART:20261111T010000Z
 DTEND:20261111T020000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54109416920184-54109416923261@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Language Conversation Tables (LCTs) meet weekly on Tuesdays an
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Veterans Day Holiday
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-8bf84ee079483898@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -698,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:English Conversation Hour
 DTSTART:20261112T233000Z
 DTEND:20261113T003000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-51766255022586-54005532216447@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:For international students and visiting scholars! Join us with
@@ -715,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:Proverbs & Pasta (Wisdom Studies Series)
 DTSTART:20261113T020000Z
 DTEND:20261113T033000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54196799354631-54196799355656@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:What does it mean to live wisely and well? Join us as we explo
@@ -732,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Jun Chen\, Ph.D.
 DTSTART:20261113T220000Z
 DTEND:20261113T230000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/discovering-magnetoe
@@ -745,7 +745,7 @@ BEGIN:VEVENT
 SUMMARY:Wait Lists Open
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-e1bfc7bf247f3fd3@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Wait Lists Open\nTerm: Winter 2027\n\nSource: Enrollment (Book
@@ -758,7 +758,7 @@ BEGIN:VEVENT
 SUMMARY:Tesla Day | Networking Event
 DTSTART:20261117T010000Z
 DTEND:20261117T040000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54224505343376-54224505344401@ucsd-grad-calendar
 CATEGORIES:Career Center
 DESCRIPTION:Join the Tesla team for an interactive information session hig
@@ -775,7 +775,7 @@ BEGIN:VEVENT
 SUMMARY:Language Conversation Tables
 DTSTART:20261118T010000Z
 DTEND:20261118T020000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54109416920184-54109416924286@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Language Conversation Tables (LCTs) meet weekly on Tuesdays an
@@ -791,7 +791,7 @@ BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20261118T160000Z
 DTEND:20261118T173000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53444457733271-53444610233958@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -808,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302139693@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -829,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:English Conversation Hour
 DTSTART:20261119T233000Z
 DTEND:20261120T003000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-51766255022586-54005532293248@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:For international students and visiting scholars! Join us with
@@ -846,7 +846,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302140718@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -867,7 +867,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Mireille Kamariza\, Ph.D.
 DTSTART:20261120T220000Z
 DTEND:20261120T230000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<a href="https://be.ucsd.edu/seminar/2026/engineering-programm
@@ -880,7 +880,7 @@ BEGIN:VEVENT
 SUMMARY:Craft Event
 DTSTART:20261121T183000Z
 DTEND:20261121T200000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53470750658034-53470750661109@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Spend some time with ISEO and other members of the
@@ -895,7 +895,7 @@ BEGIN:VEVENT
 SUMMARY:Language Conversation Tables
 DTSTART:20261125T010000Z
 DTEND:20261125T020000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-54109416920184-54109416924287@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:Language Conversation Tables (LCTs) meet weekly on Tuesdays an
@@ -911,7 +911,7 @@ BEGIN:VEVENT
 SUMMARY:Thanksgiving Holiday
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-11d475cd62bc7a0c@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -921,7 +921,7 @@ SUMMARY:Deadline for Graduate students to drop (individual courses) or wit
  hdraw (from all course…
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-6c73ee1826962f4f@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to drop (individual courses) or
@@ -935,7 +935,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302141743@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -956,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302142768@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -978,7 +978,7 @@ SUMMARY:Billing statement available on TritonPay. (eBill available continu
  ing students)
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-f068c30ba813f992@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Billing statement available on TritonPay. (eBill available con
@@ -991,7 +991,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for Graduate students to change units
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-705dad595f63852c@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to change units\nTerm: Fall 202
@@ -1004,7 +1004,7 @@ BEGIN:VEVENT
 SUMMARY:Last day of classes before finals
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-6c0b19b0ff040418@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Last day of classes before finals\nTerm: Fall 2026\n\nSource: 
@@ -1017,7 +1017,7 @@ BEGIN:VEVENT
 SUMMARY:BENG 281 | Seminar in Bioengineering | Mia Huang\, Ph.D.
 DTSTART:20261204T220000Z
 DTEND:20261204T230000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-7a952e3bc17c6efb@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:<b><a href="https://be.ucsd.edu/seminar/2026/mapping-glycan-pr
@@ -1031,7 +1031,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams Begin
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-6cd91170b26c0ef6@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1040,7 +1040,7 @@ BEGIN:VEVENT
 SUMMARY:Finals week
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-8c35fdcf729c979b@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Finals week\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n
@@ -1053,7 +1053,7 @@ BEGIN:VEVENT
 SUMMARY:Craft Event
 DTSTART:20261205T183000Z
 DTEND:20261205T200000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53470750658034-53470750662134@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Spend some time with ISEO and other members of the
@@ -1068,7 +1068,7 @@ BEGIN:VEVENT
 SUMMARY:Global Coffee Hour
 DTSTART:20261209T160000Z
 DTEND:20261209T173000Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53444457733271-53444457734297@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:iCOMMUNITY: Come on over for a cup of coffee and a morning pas
@@ -1085,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302143793@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -1106,7 +1106,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Questions: Scripture Reading & Dialogue Group
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53984343013240-54251302144818@ucsd-grad-calendar
 CATEGORIES:ISEO (iEvents)
 DESCRIPTION:The Bible has shaped global history\, art\, ethics\, and liter
@@ -1128,7 +1128,7 @@ SUMMARY:Deadline for students not attending (who are receiving financial a
  id\, full-fee waivers o…
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-5a49d4dcfa537e9e@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for students not attending (who are receiving financi
@@ -1144,7 +1144,7 @@ SUMMARY:Deadline for graduate programs to submit final degree forms to the
   Division of Graduate…
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-476897e97c90a4b1@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for graduate programs to submit final degree forms to
@@ -1158,7 +1158,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams End
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-234b3564dfdedeb9@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1167,7 +1167,7 @@ BEGIN:VEVENT
 SUMMARY:Finals week
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-fc97b91314788e77@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Finals week\nTerm: Fall 2026\n\nSource: Enrollment (Booking)\n
@@ -1181,7 +1181,7 @@ SUMMARY:Deadline to file for "Removal of Grade Incomplete" from previous q
  uarter
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-792f0deb1e7993bd@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for "Removal of Grade Incomplete" from previo
@@ -1195,7 +1195,7 @@ SUMMARY:Quarter ends Undergraduate and graduate diplomas for this term wil
  l be issued with this…
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-22698ae674ea8c61@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Quarter ends Undergraduate and graduate diplomas for this term
@@ -1209,7 +1209,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for mandatory health insurance waiver - all students
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-a3efa77409f11270@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for mandatory health insurance waiver - all students
@@ -1222,7 +1222,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to file for a Request to receive a grade of "Incomplete"
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-8eaee76e13fd4006@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for a Request to receive a grade of "Incomple
@@ -1236,7 +1236,7 @@ SUMMARY:Late health insurance fee waiver deadline (no waivers will be acce
  pted beyond this date)
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-4321e67c2bc9c4b9@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Late health insurance fee waiver deadline (no waivers will be 
@@ -1250,7 +1250,7 @@ BEGIN:VEVENT
 SUMMARY:Winter Break
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-047bc192a61ad9d0@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1259,7 +1259,7 @@ BEGIN:VEVENT
 SUMMARY:New Year's Holiday
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-90c51b5987208bea@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1268,7 +1268,7 @@ BEGIN:VEVENT
 SUMMARY:Instruction Begins | Winter Quarter
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-d1f67d039c6e3394@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1277,7 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:Quarter begins
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-28c65a79afca2549@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Quarter begins\nTerm: Winter 2027\n\nSource: Enrollment (Booki
@@ -1290,7 +1290,7 @@ BEGIN:VEVENT
 SUMMARY:First day of classes
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-0b42653a28692f61@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:First day of classes\nTerm: Winter 2027\n\nSource: Enrollment 
@@ -1303,7 +1303,7 @@ BEGIN:VEVENT
 SUMMARY:Automatic wait lists officially end
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-bdcddfdb11e49fd1@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Automatic wait lists officially end\nTerm: Winter 2027\n\nSour
@@ -1317,7 +1317,7 @@ SUMMARY:Deadline for all students to add or re-booking in classes if cance
  led for non-payment vi…
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-518161d493722463@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to add or re-booking in classes if c
@@ -1333,7 +1333,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for undergraduate students to apply for part-time status
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-0789c1dcc38913c5@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for undergraduate students to apply for part-time sta
@@ -1347,7 +1347,7 @@ SUMMARY:Deadline for Graduate students to file for leave of absence\, in a
  bsentia or to apply for…
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-ab8ce57577c39d49@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to file for leave of absence\, 
@@ -1361,7 +1361,7 @@ BEGIN:VEVENT
 SUMMARY:Martin Luther King\, Jr. Holiday
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-6026e11419f7b3bf@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1370,7 +1370,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to file for Advancement to Candidacy for Master's degrees
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-cc49d96a06a430f1@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for Advancement to Candidacy for Master's deg
@@ -1384,7 +1384,7 @@ SUMMARY:Deadline for all students to drop (individual courses) or withdraw
   (from all courses) wi…
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-81a72fea61d03c55@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to drop (individual courses) or with
@@ -1399,7 +1399,7 @@ BEGIN:VEVENT
 SUMMARY:WI27 Graduate & Professional Student Hours
 DTSTART:20270210T190000Z
 DTEND:20270210T201500Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53321469164508-53321489993184@ucsd-grad-calendar
 CATEGORIES:GEPA (Grad Ed & Postdoc)
 DESCRIPTION:This is the Winter 2027 session that offers graduate and profe
@@ -1415,7 +1415,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for Undergraduate students to change units
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-994d41b590de71d5@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Undergraduate students to change units\nTerm: Win
@@ -1429,7 +1429,7 @@ SUMMARY:Deadline for all students to change grading option ( undergraduate
   and graduate students)
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-4ca5cffac1c90eb6@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to change grading option ( undergrad
@@ -1444,7 +1444,7 @@ SUMMARY:Deadline for Undergraduate students to drop (individual courses) o
  r withdraw (from all c…
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-5d300c7af60dd8ab@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Undergraduate students to drop (individual course
@@ -1458,7 +1458,7 @@ BEGIN:VEVENT
 SUMMARY:Presidents' Day Holiday
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-8a163e35db623935@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1468,7 +1468,7 @@ SUMMARY:Billing statement available on TritonPay. (eBill available continu
  ing students)
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-30823de4a6c0421c@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Billing statement available on TritonPay. (eBill available con
@@ -1482,7 +1482,7 @@ SUMMARY:Deadline for Graduate students to drop (individual courses) or wit
  hdraw (from all course…
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-c5c4c5f7932f551a@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to drop (individual courses) or
@@ -1496,7 +1496,7 @@ BEGIN:VEVENT
 SUMMARY:Instruction Ends | Winter Quarter
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-e34ad78f59147598@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1505,7 +1505,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for Graduate students to change units
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-362df2cbfc6499e8@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to change units\nTerm: Winter 2
@@ -1518,7 +1518,7 @@ BEGIN:VEVENT
 SUMMARY:Last day of classes before finals
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-130402c3ee0bd2ae@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Last day of classes before finals\nTerm: Winter 2027\n\nSource
@@ -1531,7 +1531,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams Begin
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-31546f2ce387a1c5@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1540,7 +1540,7 @@ BEGIN:VEVENT
 SUMMARY:Finals week
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-09588508e004799e@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Finals week\nTerm: Winter 2027\n\nSource: Enrollment (Booking)
@@ -1553,7 +1553,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for mandatory health insurance waiver - all students
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-4f873a8e01149b83@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for mandatory health insurance waiver - all students
@@ -1567,7 +1567,7 @@ SUMMARY:Deadline for students not attending (who are receiving financial a
  id\, full-fee waivers o…
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-2de62bb0967e9e49@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for students not attending (who are receiving financi
@@ -1583,7 +1583,7 @@ SUMMARY:Deadline for graduate programs to submit final degree forms to the
   Division of Graduate…
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-759a67e5e372a743@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for graduate programs to submit final degree forms to
@@ -1597,7 +1597,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams End
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-8eee9433a16cdf36@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1607,7 +1607,7 @@ SUMMARY:Late health insurance fee waiver deadline (no waivers will be acce
  pted beyond this date)
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-0c9fc29d3e229dad@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Late health insurance fee waiver deadline (no waivers will be 
@@ -1621,7 +1621,7 @@ BEGIN:VEVENT
 SUMMARY:Finals week
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-766bda2b7767b189@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Finals week\nTerm: Winter 2027\n\nSource: Enrollment (Booking)
@@ -1635,7 +1635,7 @@ SUMMARY:Deadline to file for "Removal of Grade Incomplete" from previous q
  uarter
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-586713e6c2deae50@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for "Removal of Grade Incomplete" from previo
@@ -1649,7 +1649,7 @@ SUMMARY:Quarter ends Undergraduate and graduate diplomas for this term wil
  l be issued with this…
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-c0b960523d44403e@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Quarter ends Undergraduate and graduate diplomas for this term
@@ -1663,7 +1663,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to file for a Request to receive a grade of "Incomplete"
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-d097ca0f16c3aa9c@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for a Request to receive a grade of "Incomple
@@ -1676,7 +1676,7 @@ BEGIN:VEVENT
 SUMMARY:Quarter begins
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-a741ed0f92482621@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Quarter begins\nTerm: Spring 2027\n\nSource: Enrollment (Booki
@@ -1689,7 +1689,7 @@ BEGIN:VEVENT
 SUMMARY:Farmworkers Day Holiday
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-614d43d503ad2bc6@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1698,7 +1698,7 @@ BEGIN:VEVENT
 SUMMARY:Instruction Begins | Spring Quarter
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-9fca7c7fc129bcfc@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1707,7 +1707,7 @@ BEGIN:VEVENT
 SUMMARY:First day of classes
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-ac6d8bf65aa87516@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:First day of classes\nTerm: Spring 2027\n\nSource: Enrollment 
@@ -1721,7 +1721,7 @@ SUMMARY:Deadline for all students to add or re-booking in classes if cance
  led for non-payment vi…
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-f8807561d3eda5b8@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to add or re-booking in classes if c
@@ -1737,7 +1737,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for undergraduate students to apply for part-time status
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-e7c97ada5d394b2a@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for undergraduate students to apply for part-time sta
@@ -1751,7 +1751,7 @@ SUMMARY:Deadline for Graduate students to file for leave of absence\, in a
  bsentia or to apply for…
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-81811bb1fea0a759@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to file for leave of absence\, 
@@ -1765,7 +1765,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to file for Advancement to Candidacy for Master's degrees
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-94a9907af6632f55@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for Advancement to Candidacy for Master's deg
@@ -1778,7 +1778,7 @@ BEGIN:VEVENT
 SUMMARY:SP27 Graduate & Professional Student Hours
 DTSTART:20270420T150000Z
 DTEND:20270420T161500Z
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:localist-53321508576157-53321516114175@ucsd-grad-calendar
 CATEGORIES:GEPA (Grad Ed & Postdoc)
 DESCRIPTION:This is the Spring 2027 session that offers graduate and profe
@@ -1795,7 +1795,7 @@ SUMMARY:Deadline for all students to drop (individual courses) or withdraw
   (from all courses) wi…
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-d7626f4a7eab4dfc@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to drop (individual courses) or with
@@ -1810,7 +1810,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for Undergraduate students to change units
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-648de04eae41eccb@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Undergraduate students to change units\nTerm: Spr
@@ -1824,7 +1824,7 @@ SUMMARY:Deadline for all students to change grading option ( undergraduate
   and graduate students)
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-160076fba755b8e1@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for all students to change grading option ( undergrad
@@ -1839,7 +1839,7 @@ SUMMARY:Deadline for Undergraduate students to drop (individual courses) o
  r withdraw (from all c…
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-fd7ba924502d4f4f@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Undergraduate students to drop (individual course
@@ -1854,7 +1854,7 @@ SUMMARY:Deadline for academic advising offices to submit degree audits to
  Registrar
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-acb5672802388836@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for academic advising offices to submit degree audits
@@ -1868,7 +1868,7 @@ SUMMARY:Deadline for Graduate students to drop (individual courses) or wit
  hdraw (from all course…
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270529
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-c20933ef22a53231@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to drop (individual courses) or
@@ -1882,7 +1882,7 @@ BEGIN:VEVENT
 SUMMARY:Memorial Day Observance
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-5d226d1b11133a3c@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1891,7 +1891,7 @@ BEGIN:VEVENT
 SUMMARY:Instruction Ends
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-14783150f63d80c0@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1900,7 +1900,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline for Graduate students to change units
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-57b1647fcc20eca5@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for Graduate students to change units\nTerm: Spring 2
@@ -1913,7 +1913,7 @@ BEGIN:VEVENT
 SUMMARY:Last day of classes before finals
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-78b1b3db5a9d5eaa@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Last day of classes before finals\nTerm: Spring 2027\n\nSource
@@ -1926,7 +1926,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams Begin
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-9734a86fe1b85775@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1935,7 +1935,7 @@ BEGIN:VEVENT
 SUMMARY:Finals week
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-78272ced26aa5b59@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Finals week\nTerm: Spring 2027\n\nSource: Enrollment (Booking)
@@ -1948,7 +1948,7 @@ BEGIN:VEVENT
 SUMMARY:Final Exams End
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-0b7cb4f163d5de14@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -1957,7 +1957,7 @@ BEGIN:VEVENT
 SUMMARY:Finals week
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-256fe7646e464aed@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Finals week\nTerm: Spring 2027\n\nSource: Enrollment (Booking)
@@ -1971,7 +1971,7 @@ SUMMARY:Deadline to file for "Removal of Grade Incomplete" from previous q
  uarter
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-00506e99dc0df4ff@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for "Removal of Grade Incomplete" from previo
@@ -1985,7 +1985,7 @@ SUMMARY:Deadline for graduate programs to submit final degree forms to the
   Division of Graduate…
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-ffbc776eb1faafe3@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for graduate programs to submit final degree forms to
@@ -2000,7 +2000,7 @@ SUMMARY:Quarter ends Undergraduate and graduate diplomas for this term wil
  l be issued with this…
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-041eaf6e72559cdc@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Quarter ends Undergraduate and graduate diplomas for this term
@@ -2014,7 +2014,7 @@ BEGIN:VEVENT
 SUMMARY:Commencement Programs
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270614
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:gcal-0d7e9024298f8d50@ucsd-grad-calendar
 CATEGORIES:Bioengineering
 DESCRIPTION:Source: Bioengineering
@@ -2023,7 +2023,7 @@ BEGIN:VEVENT
 SUMMARY:Deadline to file for a Request to receive a grade of "Incomplete"
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270615
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-c5b28885527c7c7c@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline to file for a Request to receive a grade of "Incomple
@@ -2037,7 +2037,7 @@ SUMMARY:Deadline for academic advising offices to submit degree audits to
  Registrar
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-77354f17e1e925f0@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for academic advising offices to submit degree audits
@@ -2051,7 +2051,7 @@ SUMMARY:Deadline for academic advising offices to submit degree audits to
  Registrar
 DTSTART;VALUE=DATE:20271119
 DTEND;VALUE=DATE:20271120
-DTSTAMP:20261019T040617Z
+DTSTAMP:20261019T124259Z
 UID:blink-5b6c3e307b9ff5fb@ucsd-grad-calendar
 CATEGORIES:Enrollment (Booking)
 DESCRIPTION:Deadline for academic advising offices to submit degree audits
