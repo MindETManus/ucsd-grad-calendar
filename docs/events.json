@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-20T16:38:37.437128+00:00",
-  "count": 141,
+  "generated": "2026-10-20T21:26:10.444693+00:00",
+  "count": 142,
   "events": [
     {
       "uid": "localist-54118537278185-54118537278186@ucsd-grad-calendar",
@@ -208,6 +208,19 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/interviewing-tips-tricks",
       "description": "Make a successful impression by learning different types of interviews, practice answering interview style questions & other tips and tricks to help you navigate the interview process.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54295159009256-54295159009257@ucsd-grad-calendar",
+      "summary": "Social Horror’s Global Origins",
+      "start": "2026-10-28T17:00:00-07:00",
+      "end": "2026-10-28T19:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall",
+      "url": "https://calendar.ucsd.edu/event/social-horrors-global-origins",
+      "description": "Join us on October 28th, 5pm-7pm, in the Great Hall for an exciting conversation between Jac Jemc and Katie Walkiewicz as they dive into social horror and its global origins of cultural traditions and storytelling. After the conversation, stick around for a group activity, turning your fears into a 2-sentence horror story, with opportunities to share!",
       "quarter": "FA26"
     },
     {
