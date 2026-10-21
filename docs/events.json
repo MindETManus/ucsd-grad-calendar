@@ -1,33 +1,7 @@
 {
-  "generated": "2026-10-21T04:08:06.479516+00:00",
-  "count": 142,
+  "generated": "2026-10-21T11:30:12.031665+00:00",
+  "count": 140,
   "events": [
-    {
-      "uid": "localist-54118537278185-54118537278186@ucsd-grad-calendar",
-      "summary": "Microsoft Day @ UCSD!",
-      "start": "2026-10-20T10:00:00-07:00",
-      "end": "2026-10-20T19:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/microsoft-day-ucsd",
-      "description": "Join us for a full day of Microsoft events offered at UC San Diego! From Tech Talks, to Recruiter Networking, a Keynote Speaker, and more!\n\nDetailed agenda to follow.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54109416920184-54109416921210@ucsd-grad-calendar",
-      "summary": "Language Conversation Tables",
-      "start": "2026-10-20T17:00:00-07:00",
-      "end": "2026-10-20T18:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Great Hall ",
-      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
-      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-53693218134128-53693218134129@ucsd-grad-calendar",
       "summary": "Resume and Cover Letter Workshop",
