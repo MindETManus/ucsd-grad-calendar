@@ -1,46 +1,7 @@
 {
-  "generated": "2026-10-22T04:08:45.908008+00:00",
-  "count": 143,
+  "generated": "2026-10-22T11:30:13.266688+00:00",
+  "count": 140,
   "events": [
-    {
-      "uid": "localist-53693218134128-53693218134129@ucsd-grad-calendar",
-      "summary": "Resume and Cover Letter Workshop",
-      "start": "2026-10-21T13:00:00-07:00",
-      "end": "2026-10-21T14:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/resume-and-cover-letter-workshop-3316",
-      "description": "A workshop on how to construct and improve resumes and cover letters to effectively highlight your skills, experience, and qualifications.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54118591594359-54118591594360@ucsd-grad-calendar",
-      "summary": "Morrison Foerster Patent Career Series",
-      "start": "2026-10-21T17:00:00-07:00",
-      "end": "2026-10-21T19:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/morrison-foerster-patent-career-series",
-      "description": "Join our patent career series, designed for students and post-docs in the life sciences who are interested in patent law. The series features quarterly in-person sessions highlighting different career considerations for patent law.\n\nFood will be provided for each session.\n\nMoFo’s Patent Career Series introduces key concepts in IP law with an emphasis on life sciences patent issues. Each session will teach important elements of patent law through case studies, practical examples, and Q&A.\n\nWho Should Attend?\nStudents and postdocs seeking to deepen their understanding of patent law, including…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54224308407307-54224308408332@ucsd-grad-calendar",
-      "summary": "Tea as a Bridge: Connecting Cultures, Generations & Ideas",
-      "start": "2026-10-21T17:00:00-07:00",
-      "end": "2026-10-21T19:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Great Hall",
-      "url": "https://calendar.ucsd.edu/event/tea-as-a-bridge-connecting-cultures-generations-ideas",
-      "description": "Explore how tea connects cultures, heritage, and communities through Amy’s journey building PARU, followed by an open Q&A and select tea samples!",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-53984343013240-54251302133543@ucsd-grad-calendar",
       "summary": "The Big Questions: Scripture Reading & Dialogue Group",
