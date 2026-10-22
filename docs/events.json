@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T21:27:25.940559+00:00",
-  "count": 140,
+  "generated": "2026-10-22T04:08:45.908008+00:00",
+  "count": 143,
   "events": [
     {
       "uid": "localist-53693218134128-53693218134129@ucsd-grad-calendar",
@@ -471,6 +471,19 @@
       "quarter": "FA26"
     },
     {
+      "uid": "blink-12c464bcc4a6b7dc@ucsd-grad-calendar",
+      "summary": "Deadline to enter holds for upcoming booking cycle and effective date to be used (Date)",
+      "start": "2026-11-07T00:00:00-08:00",
+      "end": null,
+      "all_day": true,
+      "source": "Enrollment (Booking)",
+      "color": "#455a64",
+      "location": "",
+      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
+      "description": "Deadline to enter holds for upcoming booking cycle and effective date to be used\nTerm: Winter 2027",
+      "quarter": "FA26"
+    },
+    {
       "uid": "gcal-8d9f9ae6685bd2b4@ucsd-grad-calendar",
       "summary": "Engineering Reunions: Jacobs School Homecoming Picnic",
       "start": "2026-11-07T22:00:00+00:00",
@@ -520,6 +533,19 @@
       "location": "Great Hall ",
       "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
       "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54305033919308-54305033919309@ucsd-grad-calendar",
+      "summary": "Yakitori (& S'mores) Party",
+      "start": "2026-11-10T17:30:00-08:00",
+      "end": "2026-11-10T19:30:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Grad Housing",
+      "url": "https://calendar.ucsd.edu/event/yakitori-smores-party",
+      "description": "International Student Mentorship Program (ISMP) is a nonprofit organization aiming to provide support and community for international students before, during, and after their time studying in America! ISMP is made up of a network of volunteer mentors across various locations in the United States and Asia. You can learn more at https://www.internationalmentorship.org/\n\nThis year, ISMP San Diego started a Japan-America international connection group! We would like to invite students to a Yakitori Party, an event where you can practice English while grilling yakitori. We will also make American…",
       "quarter": "FA26"
     },
     {
@@ -1222,6 +1248,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "WI27"
+    },
+    {
+      "uid": "gcal-34f0392d2298c336@ucsd-grad-calendar",
+      "summary": "2027 BENG PhD Recruitment Day",
+      "start": "2027-02-19T00:00:00-08:00",
+      "end": "2027-02-20",
+      "all_day": true,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "<p dir=\"ltr\">Dear Bioengineering Faculty and Faculty Affiliates,</p><p dir=\"ltr\">Though it may seem far away, we have already begun planning for the <b>Bioengineering 2027 PhD Recruitment Weekend</b>! We are excited to announce that this year’s Bioengineering Program Visit Day will take place on <b>Friday, February 19th, 2027</b>. This important event welcomes prospective graduate students to our department and showcases the vibrant research and community that make our program exceptional.</p><p dir=\"ltr\">We hope you will participate in one or more of the day’s events. Opportunities for…",
       "quarter": "WI27"
     },
     {
