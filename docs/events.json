@@ -1,20 +1,7 @@
 {
-  "generated": "2026-10-24T04:04:05.531001+00:00",
-  "count": 135,
+  "generated": "2026-10-24T10:39:41.444157+00:00",
+  "count": 134,
   "events": [
-    {
-      "uid": "localist-53984343013240-54251302134568@ucsd-grad-calendar",
-      "summary": "The Big Questions: Scripture Reading & Dialogue Group",
-      "start": "2026-10-23T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Starbucks @ Price Center",
-      "url": "https://calendar.ucsd.edu/event/the-big-questions-scripture-reading-dialogue-group",
-      "description": "The Bible has shaped global history, art, ethics, and literature more than any other text, yet most people have never read it for themselves. This is an opportunity to read it for yourself over coffee or tea. No preaching, no assumptions, and no prior background required, just open dialogue.\n\nFAQ's \n\nQ: What is Scripture Reading?\n\nA: Time to read through the bible\n\nQ: Who is invited?\n\nA: All UCSD students (undergrads & grads) are welcome to join, no prior background required. Sign up here so we know how much coffee & tea to get and if you need a bible.\n\nQ: When & How long is Scripture…",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-b63c68eda99160fb@ucsd-grad-calendar",
       "summary": "Deadline for all students to drop (individual courses) or withdraw (from all courses) wi…",
