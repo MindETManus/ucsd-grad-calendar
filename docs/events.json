@@ -1,33 +1,7 @@
 {
-  "generated": "2026-10-25T04:05:59.142210+00:00",
-  "count": 134,
+  "generated": "2026-10-25T11:03:21.226056+00:00",
+  "count": 132,
   "events": [
-    {
-      "uid": "blink-b63c68eda99160fb@ucsd-grad-calendar",
-      "summary": "Deadline for all students to drop (individual courses) or withdraw (from all courses) wi…",
-      "start": "2026-10-23T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "Enrollment (Booking)",
-      "color": "#455a64",
-      "location": "",
-      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to drop (individual courses) or withdraw (from all courses) without \"W\" grade on transcript ( undergraduate and graduate students)\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53470750658034-53753955944035@ucsd-grad-calendar",
-      "summary": "Craft Event",
-      "start": "2026-10-24T10:30:00-07:00",
-      "end": "2026-10-24T12:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Craft Center",
-      "url": "https://calendar.ucsd.edu/event/craft-event-7052",
-      "description": "iCOMMUNITY: Spend some time with ISEO and other members of the international community to enjoy creative socializing! We will provide supplies for a craft each month in collaboration with the Craft Center. Families are also welcome to join in the fun.",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-54118799173660-54118799174685@ucsd-grad-calendar",
       "summary": "SAP Next Gen and The Autonomous Enterprise",
