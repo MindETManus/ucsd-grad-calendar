@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-26T12:36:39.554825+00:00",
-  "count": 132,
+  "generated": "2026-10-26T22:30:25.417923+00:00",
+  "count": 134,
   "events": [
     {
       "uid": "localist-54118799173660-54118799174685@ucsd-grad-calendar",
@@ -182,6 +182,19 @@
       "location": "Career Services Center",
       "url": "https://calendar.ucsd.edu/event/internshipjob-career-search-strategies-6750",
       "description": "Don’t let your career search feel like wandering through a corn maze! This session will provide strategies and tools to help you identify opportunities, stay organized, and move forward confidently in your internship or job search.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54295235563481-54295235564506@ucsd-grad-calendar",
+      "summary": "Global Forum: Lyd Film Screening",
+      "start": "2026-11-04T17:00:00-08:00",
+      "end": "2026-11-04T19:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall",
+      "url": "https://calendar.ucsd.edu/event/global-forum-lyd-film-screening",
+      "description": "Join International House for a screening and discussion of Lyd: A Sci-Fi Documentary on Wednesday, November 4th from 5pm-7pm in the Great Hall. \n\nFrom directors, Rami Younis and Sarah Ema Friedland, this feature-length, sci-fi documentary shares multiple pasts, presents, and futures of the city of Lyd. From the perspective of the city herself, voiced by Palestinian actress Maisa Abd Elhadi, the viewer is guided through the lifespan of a five-thousand-year-old city and its residents. Lyd was once a thriving Palestinian city with a rich history. In 636 AD, it was even considered the first…",
       "quarter": "FA26"
     },
     {
@@ -611,6 +624,19 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "Deadline for Graduate students to drop (individual courses) or withdraw (from all courses) with \"W\" grade on Transcript\nTerm: Fall 2026",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54347137614151-54347144856644@ucsd-grad-calendar",
+      "summary": "Global Forum: New Writing Series",
+      "start": "2026-12-02T17:00:00-08:00",
+      "end": "2026-12-02T19:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Great Hall",
+      "url": "https://calendar.ucsd.edu/event/global-forum-new-writing-series",
+      "description": "Join us on Wednesday, December 2nd from 5:00PM-7:00PM in the Great Hall for the New Writing Series. This event features readings from the UCSD Literature Department's PHD students: Ana Villalpando, Nilufar Karimi, Phuong Vuong, Traimaine Suubi, and Vyxz Vasquez.",
       "quarter": "FA26"
     },
     {
