@@ -1,33 +1,7 @@
 {
-  "generated": "2026-10-28T05:00:15.521970+00:00",
-  "count": 134,
+  "generated": "2026-10-28T12:29:00.993996+00:00",
+  "count": 132,
   "events": [
-    {
-      "uid": "localist-54118799173660-54118799174685@ucsd-grad-calendar",
-      "summary": "SAP Next Gen and The Autonomous Enterprise",
-      "start": "2026-10-27T17:00:00-07:00",
-      "end": "2026-10-27T18:00:00-07:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/sap-next-gen-and-the-autonomous-enterprise",
-      "description": "Curious about what AI looks like beyond the classroom?\n\nJoin our Global NExt Gen Community Lead, Allie Trzaska, and Global Vice President of the SAP Mission Control Center, Holger Graf, for an insider's look at how one of the world's leading technology companies is using AI to shape the future of business and support our Next Gen talent along the journey.\n\nWhat you'll learn:\n\nSAP's vision for the Autonomous EnterpriseReal examples of how employees use AI every dayNext Gen Community supportCareer paths into AI and technology at SAPOpportunities for students and early-career professionalsThe…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54109416920184-54109416922235@ucsd-grad-calendar",
-      "summary": "Language Conversation Tables",
-      "start": "2026-10-27T17:00:00-07:00",
-      "end": "2026-10-27T18:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Great Hall ",
-      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
-      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-53693260645628-53693260646653@ucsd-grad-calendar",
       "summary": "Interviewing Tips & Tricks",
