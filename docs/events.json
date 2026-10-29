@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-28T22:24:27.856064+00:00",
-  "count": 132,
+  "generated": "2026-10-29T05:13:30.178299+00:00",
+  "count": 133,
   "events": [
     {
       "uid": "localist-53693260645628-53693260646653@ucsd-grad-calendar",
@@ -91,6 +91,19 @@
       "location": "",
       "url": "",
       "description": "",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54348151178916-54348151179941@ucsd-grad-calendar",
+      "summary": "The Big Questions' Special Talk Series: AI & The Soul",
+      "start": "2026-10-30T16:00:00-07:00",
+      "end": "2026-10-30T17:00:00-07:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Dirty Birds @ Price Center",
+      "url": "https://calendar.ucsd.edu/event/the-big-questions-special-talk-series-ai-the-soul",
+      "description": "Are we defined by silicon or something far greater? Delving into the deep-seated anxieties of \"Why AI Haunts Us\" and the hardware boundaries defined in \"The Limits of Silicon\", this presentation unpacks what technology can and cannot achieve. The talk then elevates the conversation by contrasting \"Derived vs Inherent Value\" and grounding our true significance in the foundational idea that \"God the Creator Gives Worth\". Join us for a punchy, thought-provoking look at the real limits of tech and where our value truly lies!",
       "quarter": "FA26"
     },
     {
