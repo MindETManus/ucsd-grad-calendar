@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T12:40:11.913265+00:00",
-  "count": 131,
+  "generated": "2026-10-29T22:37:21.239690+00:00",
+  "count": 132,
   "events": [
     {
       "uid": "localist-53984343013240-54251302135593@ucsd-grad-calendar",
@@ -104,6 +104,19 @@
       "location": "",
       "url": "https://calendar.ucsd.edu/event/beyond-the-resume-the-art-of-networking-for-graduate-students",
       "description": "Unlock your professional potential by learning how to build meaningful connections from scratch. This interactive workshop will teach you the art of crafting cold emails and navigating networking events with confidence. You will walk away with proven communication strategies, and the tools needed to land internships and mentorships. Join us to turn cold outreach into warm opportunities and kickstart your career.",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54367728278114-54367728279139@ucsd-grad-calendar",
+      "summary": "Mommy/Daddy and Me",
+      "start": "2026-11-03T15:00:00-08:00",
+      "end": "2026-11-03T16:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "Triton Administrative Services Building",
+      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-Nov2026",
+      "description": "iCOMMUNITY: We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have activities, snacks, and an opportunity to build community!\n\n📍Location: UCSD Triton Administrative Services Building (East Wing) first floor Multipurpose Room (E-1321)\n\n⏰Time: 3:00pm - 4:00pm\n\n💡Visit MDM.ucsd.edu for more information regarding the location, transportation, what to expect,…",
       "quarter": "FA26"
     },
     {
