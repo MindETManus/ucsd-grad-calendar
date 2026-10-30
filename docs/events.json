@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T12:31:08.024201+00:00",
-  "count": 129,
+  "generated": "2026-10-30T22:07:33.454852+00:00",
+  "count": 130,
   "events": [
     {
       "uid": "localist-53984343013240-54251302136618@ucsd-grad-calendar",
@@ -52,6 +52,19 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "Deadline to apply to Return to UCSD (undergraduate students)\nTerm: Winter 2027",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54382323384496-54382323385521@ucsd-grad-calendar",
+      "summary": "Loyola Marymount School of Film & TV - Grad School Info Session",
+      "start": "2026-11-02T12:30:00-08:00",
+      "end": "2026-11-02T13:30:00-08:00",
+      "all_day": false,
+      "source": "Career Center",
+      "color": "#2e7d32",
+      "location": "Career Services Center",
+      "url": "https://calendar.ucsd.edu/event/loyola-marymount-school-of-film-tv-grad-school-info-session",
+      "description": "LMU SFTV Grad Programs are excited to connect with you on November 2nd at 12:30pm at UCSD! This session will consist of an admission presentation and lecture by Michael Kang, Graduate Program Director of Film & TV Production MFA and Lisa Mutnick, Associate Director of Admission & Recruitment. Michael's feature film debut, The Motel, premiered at Sundance Film Festivaland was nominated for two Independent Spirit Awards. Lisa has spent nearly two decades working in entertainment and higher education spaces. Lunch and application fee waivers will be provided to all who attend.\n\nSFTV is…",
       "quarter": "FA26"
     },
     {
