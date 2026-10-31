@@ -1,20 +1,7 @@
 {
-  "generated": "2026-10-31T17:12:49.342639+00:00",
-  "count": 128,
+  "generated": "2026-10-31T21:15:28.077051+00:00",
+  "count": 127,
   "events": [
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Narayan Bhattarai, Ph.D.",
-      "start": "2026-10-30T14:00:00-07:00",
-      "end": "2026-10-30T15:00:00-07:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-d5923f659c07569a@ucsd-grad-calendar",
       "summary": "Deadline to apply to Return to UCSD (undergraduate students)",
