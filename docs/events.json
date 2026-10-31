@@ -1,20 +1,7 @@
 {
-  "generated": "2026-10-31T04:56:55.441990+00:00",
-  "count": 130,
+  "generated": "2026-10-31T11:58:37.201169+00:00",
+  "count": 128,
   "events": [
-    {
-      "uid": "localist-53984343013240-54251302136618@ucsd-grad-calendar",
-      "summary": "The Big Questions: Scripture Reading & Dialogue Group",
-      "start": "2026-10-30T00:00:00-07:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Starbucks @ Price Center",
-      "url": "https://calendar.ucsd.edu/event/the-big-questions-scripture-reading-dialogue-group",
-      "description": "The Bible has shaped global history, art, ethics, and literature more than any other text, yet most people have never read it for themselves. This is an opportunity to read it for yourself over coffee or tea. No preaching, no assumptions, and no prior background required, just open dialogue.\n\nFAQ's \n\nQ: What is Scripture Reading?\n\nA: Time to read through the bible\n\nQ: Who is invited?\n\nA: All UCSD students (undergrads & grads) are welcome to join, no prior background required. Sign up here so we know how much coffee & tea to get and if you need a bible.\n\nQ: When & How long is Scripture…",
-      "quarter": "FA26"
-    },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Narayan Bhattarai, Ph.D.",
@@ -26,19 +13,6 @@
       "location": "",
       "url": "",
       "description": "",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54348151178916-54348151179941@ucsd-grad-calendar",
-      "summary": "The Big Questions' Special Talk Series: AI & The Soul",
-      "start": "2026-10-30T16:00:00-07:00",
-      "end": "2026-10-30T17:00:00-07:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Dirty Birds @ Price Center",
-      "url": "https://calendar.ucsd.edu/event/the-big-questions-special-talk-series-ai-the-soul",
-      "description": "Are we defined by silicon or something far greater? Delving into the deep-seated anxieties of \"Why AI Haunts Us\" and the hardware boundaries defined in \"The Limits of Silicon\", this presentation unpacks what technology can and cannot achieve. The talk then elevates the conversation by contrasting \"Derived vs Inherent Value\" and grounding our true significance in the foundational idea that \"God the Creator Gives Worth\". Join us for a punchy, thought-provoking look at the real limits of tech and where our value truly lies!",
       "quarter": "FA26"
     },
     {
