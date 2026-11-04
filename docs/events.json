@@ -1,46 +1,7 @@
 {
-  "generated": "2026-11-04T05:43:18.159268+00:00",
-  "count": 126,
+  "generated": "2026-11-04T14:07:00.884958+00:00",
+  "count": 123,
   "events": [
-    {
-      "uid": "localist-54241079231358-54241079231359@ucsd-grad-calendar",
-      "summary": "Beyond the Resume: The Art of Networking (For Graduate Students)",
-      "start": "2026-11-03T00:00:00-08:00",
-      "end": "2026-11-04T00:00:00-08:00",
-      "all_day": false,
-      "source": "GEPA (Grad Ed & Postdoc)",
-      "color": "#b8860b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/beyond-the-resume-the-art-of-networking-for-graduate-students",
-      "description": "Unlock your professional potential by learning how to build meaningful connections from scratch. This interactive workshop will teach you the art of crafting cold emails and navigating networking events with confidence. You will walk away with proven communication strategies, and the tools needed to land internships and mentorships. Join us to turn cold outreach into warm opportunities and kickstart your career.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54367728278114-54367728279139@ucsd-grad-calendar",
-      "summary": "Mommy/Daddy and Me",
-      "start": "2026-11-03T15:00:00-08:00",
-      "end": "2026-11-03T16:00:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Triton Administrative Services Building",
-      "url": "https://calendar.ucsd.edu/event/mommydaddy-and-me-Nov2026",
-      "description": "iCOMMUNITY: We are excited to welcome you and your little ones to a nurturing community space. While most families attending have children aged 0-7, families of all ages are invited. We hope this space helps you connect with other parents, as it truly takes a village to help our children thrive. We will have activities, snacks, and an opportunity to build community!\n\n📍Location: UCSD Triton Administrative Services Building (East Wing) first floor Multipurpose Room (E-1321)\n\n⏰Time: 3:00pm - 4:00pm\n\n💡Visit MDM.ucsd.edu for more information regarding the location, transportation, what to expect,…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54109416920184-54109416922236@ucsd-grad-calendar",
-      "summary": "Language Conversation Tables",
-      "start": "2026-11-03T17:00:00-08:00",
-      "end": "2026-11-03T18:00:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Great Hall ",
-      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
-      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-53128000807058-53128000807059@ucsd-grad-calendar",
       "summary": "Fall 2026 Business, Law, and Non-STEM Graduate School Fair",
