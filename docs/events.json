@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04T14:07:00.884958+00:00",
-  "count": 123,
+  "generated": "2026-11-04T23:27:33.282617+00:00",
+  "count": 124,
   "events": [
     {
       "uid": "localist-53128000807058-53128000807059@ucsd-grad-calendar",
@@ -416,6 +416,19 @@
       "location": "",
       "url": "",
       "description": "<a href=\"https://be.ucsd.edu/seminar/2026/engineering-programmable-crispr-rnas-massively-parallel-target-detection\">Engineering programmable CRISPR RNAs for massively parallel target detection</a><br><b>Mireille Kamariza, Ph.D.</b><br>Assistant Professor<br>Department of Bioengineering<br>University of California, Los Angeles",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "gcal-70d3adabd7957fa0@ucsd-grad-calendar",
+      "summary": "BEGS Bear Hug",
+      "start": "2026-11-21T01:00:00+00:00",
+      "end": "2026-11-21T04:00:00+00:00",
+      "all_day": false,
+      "source": "Bioengineering",
+      "color": "#1b3a6b",
+      "location": "",
+      "url": "",
+      "description": "<p><br></p><h2>BEGS Bear Hug 2026</h2><p>Join us for BEGS's 14th Bear Hug! Meet your fellow peers and professors in bioengineering!</p><p><a href=\"https://www.eventbrite.com/e/begs-bear-hug-2026-tickets-2003538242818\" target=\"_blank\"><b>Reserve a spot</b></a></p><br><br>Event Details (2026)<ul><br><li><strong><b>Date:</b></strong> Friday, November 20, 2026</li><br><li><strong><b>Location:</b></strong> California Institute for Telecommunications and Information Technology (Calit2), UC San Diego</li><br><li><strong><b>Purpose:</b></strong> Introduces incoming graduate students and new faculty…",
       "quarter": "FA26"
     },
     {
