@@ -1,20 +1,7 @@
 {
-  "generated": "2026-11-06T05:56:37.841002+00:00",
-  "count": 121,
+  "generated": "2026-11-06T14:06:53.143302+00:00",
+  "count": 116,
   "events": [
-    {
-      "uid": "localist-53984343013240-54251302137643@ucsd-grad-calendar",
-      "summary": "The Big Questions: Scripture Reading & Dialogue Group",
-      "start": "2026-11-05T00:00:00-08:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Starbucks @ Price Center",
-      "url": "https://calendar.ucsd.edu/event/the-big-questions-scripture-reading-dialogue-group",
-      "description": "The Bible has shaped global history, art, ethics, and literature more than any other text, yet most people have never read it for themselves. This is an opportunity to read it for yourself over coffee or tea. No preaching, no assumptions, and no prior background required, just open dialogue.\n\nFAQ's \n\nQ: What is Scripture Reading?\n\nA: Time to read through the bible\n\nQ: Who is invited?\n\nA: All UCSD students (undergrads & grads) are welcome to join, no prior background required. Sign up here so we know how much coffee & tea to get and if you need a bible.\n\nQ: When & How long is Scripture…",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-29c833e57b0ea6f6@ucsd-grad-calendar",
       "summary": "Schedule of Classes and Booking times available",
@@ -26,58 +13,6 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "Schedule of Classes and Booking times available\nTerm: Winter 2027",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53128057316370-53128057317395@ucsd-grad-calendar",
-      "summary": "Fall 2026 Health, Medical Science, and STEM Graduate School Fair",
-      "start": "2026-11-05T10:00:00-08:00",
-      "end": "2026-11-05T14:00:00-08:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Library Walk",
-      "url": "https://calendar.ucsd.edu/event/fall-2026-health-medical-science-and-stem-graduate-school-fair",
-      "description": "Explore Your Future at the UC San Diego Fall 2026 Health, Medical Science, and STEM Graduate School Fair!\n\nThinking about graduate school or exploring your next steps after UC San Diego? Connect directly with representatives from health, medical science, engineering, technology, research, and STEM-focused graduate programs. Learn about degree options, admissions requirements, application timelines, research opportunities, and how advanced education can support your career goals.\n\nWhether you are preparing to apply or just beginning to explore possibilities, this fair is a great opportunity to…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53321388990357-53321419394550@ucsd-grad-calendar",
-      "summary": "FA26 Graduate & Professional Student Hours",
-      "start": "2026-11-05T15:00:00-08:00",
-      "end": "2026-11-05T16:15:00-08:00",
-      "all_day": false,
-      "source": "GEPA (Grad Ed & Postdoc)",
-      "color": "#b8860b",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/fa26-graduate-professional-student-hours",
-      "description": "This is the Fall 2026 session that offers graduate and professional students an opportunity to ask questions of, or share ideas with, Dean Kim and members of the leadership team of the Division of Graduate Education and Postdoctoral Affairs (GEPA). Drop in anytime between 3:00 - 4:15 PM PT.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-51766255022586-54005532204158@ucsd-grad-calendar",
-      "summary": "English Conversation Hour",
-      "start": "2026-11-05T15:30:00-08:00",
-      "end": "2026-11-05T16:30:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Matthews Quad Picnic Tables",
-      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
-      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53693316195888-53693316195889@ucsd-grad-calendar",
-      "summary": "Resume & Cover Letter",
-      "start": "2026-11-05T17:00:00-08:00",
-      "end": "2026-11-05T18:00:00-08:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "",
-      "url": "https://calendar.ucsd.edu/event/resume-cover-letter",
-      "description": "Just like the perfect pumpkin spice latte, your application materials need the right blend of ingredients. We’ll walk you through how to craft a strong resume and cover letter that highlight your skills and stand out to employers.",
       "quarter": "FA26"
     },
     {
