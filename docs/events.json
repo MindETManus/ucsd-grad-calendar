@@ -1,33 +1,7 @@
 {
-  "generated": "2026-11-07T05:28:15.862685+00:00",
-  "count": 116,
+  "generated": "2026-11-07T12:44:54.935094+00:00",
+  "count": 114,
   "events": [
-    {
-      "uid": "blink-29c833e57b0ea6f6@ucsd-grad-calendar",
-      "summary": "Schedule of Classes and Booking times available",
-      "start": "2026-11-05T00:00:00-08:00",
-      "end": null,
-      "all_day": true,
-      "source": "Enrollment (Booking)",
-      "color": "#455a64",
-      "location": "",
-      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Schedule of Classes and Booking times available\nTerm: Winter 2027",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-53984343013240-54251302138668@ucsd-grad-calendar",
-      "summary": "The Big Questions: Scripture Reading & Dialogue Group",
-      "start": "2026-11-06T00:00:00-08:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Starbucks @ Price Center",
-      "url": "https://calendar.ucsd.edu/event/the-big-questions-scripture-reading-dialogue-group",
-      "description": "The Bible has shaped global history, art, ethics, and literature more than any other text, yet most people have never read it for themselves. This is an opportunity to read it for yourself over coffee or tea. No preaching, no assumptions, and no prior background required, just open dialogue.\n\nFAQ's \n\nQ: What is Scripture Reading?\n\nA: Time to read through the bible\n\nQ: Who is invited?\n\nA: All UCSD students (undergrads & grads) are welcome to join, no prior background required. Sign up here so we know how much coffee & tea to get and if you need a bible.\n\nQ: When & How long is Scripture…",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-764fad4a3aaef606@ucsd-grad-calendar",
       "summary": "Deadline for Undergraduate students to change units",
