@@ -1,46 +1,7 @@
 {
-  "generated": "2026-11-08T05:28:37.212289+00:00",
-  "count": 113,
+  "generated": "2026-11-08T13:02:54.699643+00:00",
+  "count": 110,
   "events": [
-    {
-      "uid": "blink-764fad4a3aaef606@ucsd-grad-calendar",
-      "summary": "Deadline for Undergraduate students to change units",
-      "start": "2026-11-06T00:00:00-08:00",
-      "end": null,
-      "all_day": true,
-      "source": "Enrollment (Booking)",
-      "color": "#455a64",
-      "location": "",
-      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for Undergraduate students to change units\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "blink-9b2906011529bcf9@ucsd-grad-calendar",
-      "summary": "Deadline for all students to change grading option ( undergraduate and graduate students)",
-      "start": "2026-11-06T00:00:00-08:00",
-      "end": null,
-      "all_day": true,
-      "source": "Enrollment (Booking)",
-      "color": "#455a64",
-      "location": "",
-      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for all students to change grading option ( undergraduate and graduate students)\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "blink-cdb53c220fbc3a06@ucsd-grad-calendar",
-      "summary": "Deadline for Undergraduate students to drop (individual courses) or withdraw (from all c…",
-      "start": "2026-11-06T00:00:00-08:00",
-      "end": null,
-      "all_day": true,
-      "source": "Enrollment (Booking)",
-      "color": "#455a64",
-      "location": "",
-      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline for Undergraduate students to drop (individual courses) or withdraw (from all courses) with \"W\" grade on transcript\nTerm: Fall 2026",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-12c464bcc4a6b7dc@ucsd-grad-calendar",
       "summary": "Deadline to enter holds for upcoming booking cycle and effective date to be used (Date)",
