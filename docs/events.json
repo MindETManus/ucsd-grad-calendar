@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T21:52:27.069520+00:00",
-  "count": 110,
+  "generated": "2026-11-09T05:39:44.580933+00:00",
+  "count": 109,
   "events": [
     {
       "uid": "blink-12c464bcc4a6b7dc@ucsd-grad-calendar",
@@ -13,19 +13,6 @@
       "location": "",
       "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
       "description": "Deadline to enter holds for upcoming booking cycle and effective date to be used\nTerm: Winter 2027",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "gcal-8d9f9ae6685bd2b4@ucsd-grad-calendar",
-      "summary": "Engineering Reunions: Jacobs School Homecoming Picnic",
-      "start": "2026-11-07T22:00:00+00:00",
-      "end": "2026-11-08T00:00:00+00:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "Warren Mall",
-      "url": "",
-      "description": "Mark your calendars — Homecoming Week is coming back to UC San Diego, and this year it's bigger than ever. Whether you graduated last spring or decades ago, this is your invitation to reconnect with the engineering and computer science community that shaped your path. On Saturday, November 7, join the Jacobs School of Engineering Picnic, our community's signature homecoming tradition. Enjoy good food, good company, and a chance to catch up with students, faculty, staff, and fellow alumni.\n\nhttps://calendar.ucsd.edu/event/engineering-reunions-jacobs-school-homecoming-picnic",
       "quarter": "FA26"
     },
     {
