@@ -1,20 +1,7 @@
 {
-  "generated": "2026-11-09T05:39:44.580933+00:00",
-  "count": 109,
+  "generated": "2026-11-09T15:46:00.582454+00:00",
+  "count": 108,
   "events": [
-    {
-      "uid": "blink-12c464bcc4a6b7dc@ucsd-grad-calendar",
-      "summary": "Deadline to enter holds for upcoming booking cycle and effective date to be used (Date)",
-      "start": "2026-11-07T00:00:00-08:00",
-      "end": null,
-      "all_day": true,
-      "source": "Enrollment (Booking)",
-      "color": "#455a64",
-      "location": "",
-      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Deadline to enter holds for upcoming booking cycle and effective date to be used\nTerm: Winter 2027",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-79fc9267b0d8eb10@ucsd-grad-calendar",
       "summary": "Booking begins for all continuing students (New graduate students check with your program)",
