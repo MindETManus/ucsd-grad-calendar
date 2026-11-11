@@ -1,59 +1,7 @@
 {
-  "generated": "2026-11-11T05:37:17.775811+00:00",
-  "count": 108,
+  "generated": "2026-11-11T13:54:03.730216+00:00",
+  "count": 104,
   "events": [
-    {
-      "uid": "blink-79fc9267b0d8eb10@ucsd-grad-calendar",
-      "summary": "Booking begins for all continuing students (New graduate students check with your program)",
-      "start": "2026-11-09T00:00:00-08:00",
-      "end": null,
-      "all_day": true,
-      "source": "Enrollment (Booking)",
-      "color": "#455a64",
-      "location": "",
-      "url": "https://blink.ucsd.edu/instructors/courses/enrollment/calendars/2026.html",
-      "description": "Booking begins for all continuing students (New graduate students check with your program)\nTerm: Winter 2027",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54118840514903-54118840515928@ucsd-grad-calendar",
-      "summary": "Veeva Coffee Chats + Tabling",
-      "start": "2026-11-10T09:00:00-08:00",
-      "end": "2026-11-10T11:00:00-08:00",
-      "all_day": false,
-      "source": "Career Center",
-      "color": "#2e7d32",
-      "location": "Career Services Center",
-      "url": "https://calendar.ucsd.edu/event/veeva-coffee-chats-tabling",
-      "description": "Join Veeva at the Career Center in a relaxed environment to learn more and discuss the multiple summer internship and new grad positions available in Software Engineering at Veeva! Free coffee, tea, and pastries included!\n\nPlease note: Positions are based across the Bay Area, Columbus Ohio, and Boston Massachusetts. Sponsorship is not provided.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54109416920184-54109416923261@ucsd-grad-calendar",
-      "summary": "Language Conversation Tables",
-      "start": "2026-11-10T17:00:00-08:00",
-      "end": "2026-11-10T18:00:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Great Hall ",
-      "url": "https://calendar.ucsd.edu/event/language-conversation-tables-2008",
-      "description": "Language Conversation Tables (LCTs) meet weekly on Tuesdays and give students the opportunity to practice new languages, meet people from around the world, and connect through culture and conversation. There is the opportunity to host a table and to participate.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54305033919308-54305033919309@ucsd-grad-calendar",
-      "summary": "Yakitori (& S'mores) Party",
-      "start": "2026-11-10T17:30:00-08:00",
-      "end": "2026-11-10T19:30:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Grad Housing",
-      "url": "https://calendar.ucsd.edu/event/yakitori-smores-party",
-      "description": "International Student Mentorship Program (ISMP) is a nonprofit organization aiming to provide support and community for international students before, during, and after their time studying in America! ISMP is made up of a network of volunteer mentors across various locations in the United States and Asia. You can learn more at https://www.internationalmentorship.org/\n\nThis year, ISMP San Diego started a Japan-America international connection group! We would like to invite students to a Yakitori Party, an event where you can practice English while grilling yakitori. We will also make American…",
-      "quarter": "FA26"
-    },
     {
       "uid": "gcal-8bf84ee079483898@ucsd-grad-calendar",
       "summary": "Veterans Day Holiday",
