@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-12T14:55:35.645841+00:00",
-  "count": 103,
+  "generated": "2026-11-12T23:24:21.325190+00:00",
+  "count": 104,
   "events": [
     {
       "uid": "localist-51766255022586-54005532216447@ucsd-grad-calendar",
@@ -143,6 +143,19 @@
       "location": "",
       "url": "",
       "description": "<a href=\"https://be.ucsd.edu/seminar/2026/engineering-programmable-crispr-rnas-massively-parallel-target-detection\">Engineering programmable CRISPR RNAs for massively parallel target detection</a><br><b>Mireille Kamariza, Ph.D.</b><br>Assistant Professor<br>Department of Bioengineering<br>University of California, Los Angeles",
+      "quarter": "FA26"
+    },
+    {
+      "uid": "localist-54481877649688-54481877649689@ucsd-grad-calendar",
+      "summary": "International Student Advisory Council (ISAC): November Meeting",
+      "start": "2026-11-20T16:00:00-08:00",
+      "end": "2026-11-20T17:00:00-08:00",
+      "all_day": false,
+      "source": "ISEO (iEvents)",
+      "color": "#c2185b",
+      "location": "",
+      "url": "https://calendar.ucsd.edu/event/international-student-advisory-council-isac",
+      "description": "The International Student Advisory Council (ISAC) is comprised of leadership from student leaders and stakeholders invested in the international student experience at UC San Diego. By being involved in ISAC, you have the chance to express what unique concerns are affecting you and your peers and ask questions directly of ISEO leadership. You will have access to the latest information as well as other resources to support your student engagement and advocacy efforts. ISAC is open to anyone who is interested in joining!",
       "quarter": "FA26"
     },
     {
