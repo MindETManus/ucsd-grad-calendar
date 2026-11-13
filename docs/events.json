@@ -1,33 +1,7 @@
 {
-  "generated": "2026-11-13T05:58:34.416105+00:00",
-  "count": 104,
+  "generated": "2026-11-13T14:27:30.959153+00:00",
+  "count": 102,
   "events": [
-    {
-      "uid": "localist-51766255022586-54005532216447@ucsd-grad-calendar",
-      "summary": "English Conversation Hour",
-      "start": "2026-11-12T15:30:00-08:00",
-      "end": "2026-11-12T16:30:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Matthews Quad Picnic Tables",
-      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
-      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-54196799354631-54196799355656@ucsd-grad-calendar",
-      "summary": "Proverbs & Pasta (Wisdom Studies Series)",
-      "start": "2026-11-12T18:00:00-08:00",
-      "end": "2026-11-12T19:30:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Center for Memory and Recording Research",
-      "url": "https://calendar.ucsd.edu/event/proverbs-pasta-wisdom-studies-series",
-      "description": "What does it mean to live wisely and well? Join us as we explore ancient wisdom from the book of Proverbs and discover practical insights for everyday life, from navigating relationships and making good decisions to finding purpose and handling life’s challenges. Discover how wisdom written thousands of years ago still speaks to the questions and challenges we face today.",
-      "quarter": "FA26"
-    },
     {
       "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
       "summary": "BENG 281 | Seminar in Bioengineering | Jun Chen, Ph.D.",
