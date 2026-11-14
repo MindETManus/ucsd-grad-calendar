@@ -1,20 +1,7 @@
 {
-  "generated": "2026-11-14T13:16:30.745601+00:00",
-  "count": 102,
+  "generated": "2026-11-14T22:10:51.672081+00:00",
+  "count": 101,
   "events": [
-    {
-      "uid": "gcal-7a952e3bc17c6efb@ucsd-grad-calendar",
-      "summary": "BENG 281 | Seminar in Bioengineering | Jun Chen, Ph.D.",
-      "start": "2026-11-13T14:00:00-08:00",
-      "end": "2026-11-13T15:00:00-08:00",
-      "all_day": false,
-      "source": "Bioengineering",
-      "color": "#1b3a6b",
-      "location": "",
-      "url": "",
-      "description": "<a href=\"https://be.ucsd.edu/seminar/2026/discovering-magnetoelasticity-soft-matter-bioelectronics\">Discovering Magnetoelasticity in Soft Matter for Bioelectronics</a><br><b>Jun Chen, Ph.D.</b><br>Associate Professor<br>UCLA Innovation Fellows<br>UCLA Society of Hellman Fellows<br>UCLA Department of Bioengineering",
-      "quarter": "FA26"
-    },
     {
       "uid": "blink-e1bfc7bf247f3fd3@ucsd-grad-calendar",
       "summary": "Wait Lists Open",
