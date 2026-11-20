@@ -1,33 +1,7 @@
 {
-  "generated": "2026-11-20T00:28:37.806785+00:00",
-  "count": 96,
+  "generated": "2026-11-20T15:10:10.679932+00:00",
+  "count": 94,
   "events": [
-    {
-      "uid": "localist-53984343013240-54251302139693@ucsd-grad-calendar",
-      "summary": "The Big Questions: Scripture Reading & Dialogue Group",
-      "start": "2026-11-19T00:00:00-08:00",
-      "end": null,
-      "all_day": true,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Starbucks @ Price Center",
-      "url": "https://calendar.ucsd.edu/event/the-big-questions-scripture-reading-dialogue-group",
-      "description": "The Bible has shaped global history, art, ethics, and literature more than any other text, yet most people have never read it for themselves. This is an opportunity to read it for yourself over coffee or tea. No preaching, no assumptions, and no prior background required, just open dialogue.\n\nFAQ's \n\nQ: What is Scripture Reading?\n\nA: Time to read through the bible\n\nQ: Who is invited?\n\nA: All UCSD students (undergrads & grads) are welcome to join, no prior background required. Sign up here so we know how much coffee & tea to get and if you need a bible.\n\nQ: When & How long is Scripture…",
-      "quarter": "FA26"
-    },
-    {
-      "uid": "localist-51766255022586-54005532293248@ucsd-grad-calendar",
-      "summary": "English Conversation Hour",
-      "start": "2026-11-19T15:30:00-08:00",
-      "end": "2026-11-19T16:30:00-08:00",
-      "all_day": false,
-      "source": "ISEO (iEvents)",
-      "color": "#c2185b",
-      "location": "Matthews Quad Picnic Tables",
-      "url": "https://calendar.ucsd.edu/event/english-conversation-hour-1112",
-      "description": "For international students and visiting scholars! Join us with RUF-International for our weekly English Conversation Hour with native English speakers. This is a friendly and relaxed environment where you can improve your pronunciation, ask cultural questions, learn everyday slang and idioms, and make new friends! Please send us an email at rufiatucsandiego@ruf.org to let us know you're coming.",
-      "quarter": "FA26"
-    },
     {
       "uid": "localist-53984343013240-54251302140718@ucsd-grad-calendar",
       "summary": "The Big Questions: Scripture Reading & Dialogue Group",
